@@ -1,9 +1,11 @@
-⁹﻿#EXTM3U url-tvg=https://bit.ly/htbiptv
+⁹﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
 
 
 
 
 @@@@@@@ TV LOKAL INDONESIA @@@@@@@
+#EXTINF:-1 tvg-id="ochannel.id" group-title="TV Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
