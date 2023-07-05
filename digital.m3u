@@ -1039,10 +1039,10 @@ https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-116 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 group-title="ReliJi" tvg-logo="https://i.postimg.cc/V6PVvLKj/20221222-095649.png",Ashiil TV 2
+#EXTINF:-117 group-title="ReliJi" tvg-logo="https://i.postimg.cc/V6PVvLKj/20221222-095649.png",Ashiil TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 group-title="ReliJi" tvg-logo="https://i.postimg.cc/HkfSvkDf/20221222-095513.png",Madinah TV 1
+#EXTINF:-118 group-title="ReliJi" tvg-logo="https://i.postimg.cc/HkfSvkDf/20221222-095513.png",Madinah TV 1
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #AFF
