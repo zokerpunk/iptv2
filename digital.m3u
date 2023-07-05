@@ -1967,10 +1967,10 @@ https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 @@@@@@@ SPORTS 1 @@@@@@@
 
-#EXTINF:-1 group-title="Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Maximo
+#EXTINF:-1 group-title="Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU",SuperSport Maximo
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29929?
 
-#EXTINF:-1 group-title="Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport La Liga
+#EXTINF:-1 group-title="Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU",SuperSport La Liga
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/29943?
 
 #EXTINF:-1 group-title="Sports 1 (Channel ini sewaktu² bisa mati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnkbXt769CPKnH4Q6F7rEqsUCrI3xoXT_7A&usqp=CAU", SuperSport Action
@@ -2039,7 +2039,7 @@ http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/34108?
 #EXTINF:-1 group-title="Sports 1 (Channel ini sewaktu² bisa mati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqD5uHfv6JiXAV1syD_nBoNmgFL_lUx-nBtg&usqp=CAU", BT Sport 1
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/1641?
 
-#EXTINF:-1 group-title="Sports 1 (Channel ini sewaktu² bisa mati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSISxT_zRgvsxEWef3071nmiRA7MnwUWe64rg&usqp=CAU", BT Sport 2
+#EXTINF:-1 group-title="Sports 1, BT Sport 2
 http://ch.riff.id@client-iptvmag.club:8080/per-paulen/qcbDQtgQUx/375?
 
 @@@@@@@ SPORTS 2 @@@@@@@
