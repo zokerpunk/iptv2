@@ -686,326 +686,49 @@ https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremiu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Movies" ,GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png",ONE
 https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-
-
-
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",Indonesia Movie Channels
 https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-
 @@@@@@@ MUSIC @@@@@@@
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://pbs.twimg.com/profile_images/460661152372903936/KnkCJe5S_400x400.jpeg" group-title="Musik", Musica
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Musik" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-
-
-
-
-
-
-
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Musik", MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVBiggestPop.png",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVBlockParty.png",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVSpankinNew.png",MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVWMA.png",CMT Music
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://ia801003.us.archive.org/16/items/BoxHits/box%20hits.png", Box Hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="bridge" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/btv_.png?ZNqGoMcOaWjielxdh2BbPy9v3du26kIJ&itok=O22CA5kh" group-title="Musik", Bridge
-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
-http://ott-cdn.ucom.am/s34/index.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://ia903105.us.archive.org/14/items/CaliforniaMusicChannel/california%20music%20channel.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Musik" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO TV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWS3-BCkH0Rs7MMIiog_Q-kVaSxvbFAWXXQ&usqp=CAU", Loop TV
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://pbs.twimg.com/profile_images/1445550073010540557/zOdg7dKW_400x400.jpg", MTV (Pluto TV)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png", MTV Love Music (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KdtWS43FB_Qvd3qtV8pt4Cf1Fspua9Xjjw&usqp=CAU", Vevo '70s (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QqU3TH3k9P9ch2rCpjpltgna9oIGYguwaQ&usqp=CAU", Vevo '80s (Pluto TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xe_MTlOzi7WgGBI0f2oWZSIPo2KlseYsLw&usqp=CAU", Vevo '90s (Pluto TV)
-https://bit.ly/3GS5WFz
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU", Vevo 2K (Pluto TV)
-https://bit.ly/3NkcUoQ
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUpzy1XWGT3BAOpIK-x56Go6teBW9DvK0Vw&usqp=CAU",Vevo Retro Rock (Pluto TV)
-https://bit.ly/3GFqbpv
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9_Dlzxg8OLlRmPfVbGrEE6FKT2z_o_k9uQ&usqp=CAU", Vevo Pop (Pluto TV)
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classic (Pluto TV)
-https://bit.ly/3PTpq0A
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkF_G6G8Gdoufrn4HDDTtl8h6dSPUgvaQtpw&usqp=CAU", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL_qoOWNxLcYU-5alCC-iyna6IzusMXylZg&usqp=CAU", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmLw50NQujCMRlJSrQJpbyPj6jnSBtc2gEQ&usqp=CAU", Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg", Stingray Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Musik" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png", Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2013/10/FINAL_LOGO_THE_BOX-1002x708.jpg", The Box
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M0hRSBwZVv9MCajNIDNYeAYwIswz6bMeNg&usqp=CAU", The Edge
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
