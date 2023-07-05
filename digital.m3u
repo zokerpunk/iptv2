@@ -878,11 +878,11 @@ https://h1.intechmedia.net/intech/ch25.m3u8
 #EXTINF:-116 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
-#EXTINF:-1 group-title="Sports",RedBullTv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="ReliJi" tvg-logo="https://i.postimg.cc/V6PVvLKj/20221222-095649.png",Ashiil TV 2
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 group-title="Sports",ufc2
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="ReliJi" tvg-logo="https://i.postimg.cc/HkfSvkDf/20221222-095513.png",Madinah TV 1
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #AFF
 
@@ -938,6 +938,12 @@ http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_
 #EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/03/Nonton-Film-Horor-Jagat-Arwah-200x300.jpg" group-title="VOD Indonesia",Jagat Arwah (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/NnrjvencblXo2l7UFY-OtoEStG3fstFh_WOZiUwysJl2XigtvIQArs-sjoANVlzbDWx0FobfMnhLLWIIl6ad8g/n1f-2jhQNRJQkB8LEo_uDDH0F2okf1AMVsLaFNZW1rA/1080.m3u8
+
+#EXTINF:-1 group-title="Sports",RedBullTv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Sports",ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 <!-- VOD Series International -->
 	
