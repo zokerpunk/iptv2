@@ -1,4 +1,4 @@
-⁹﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
+﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
 
 
 
@@ -1734,9 +1734,6 @@ http://rr3.dens.tv/s/s101/live.m3u8
 
 @@@@@@# RELIJI @@@@@@@
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRyrT6YRQorjN1fzvG3p742qy0jyXbl6QgCHP74fA=s900-c-k-c0x00ffffff-no-rj" group-title="Reliji", TV MUI
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
@@ -1771,11 +1768,6 @@ https://av-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png",Tawaf TV
 https://av-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="Reliji" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
-https://av-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:-1  group-title="Reliji",Ufa TV
 https://h1.intechmedia.net/intech/ch27.m3u8
