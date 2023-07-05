@@ -1,6 +1,7 @@
 ﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
 
 @@@@@@@ TV LOKAL INDONESIA @@@@@@@
+
 #EXTINF:-1 tvg-id="ochannel.id" group-title="TV Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
 
@@ -105,6 +106,10 @@ https://av-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:-1 group-title="TV Lokal Indonesia" tvg-logo="https://i.ibb.co/YkXktVs/032-magna.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+#EXTGRP:TV Lokal Indonesia
+http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 
 @@@@ TV LOKAL2@@@
