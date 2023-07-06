@@ -174,7 +174,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png" group-title="Tv Nasional2" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTINF:-1 group-title="Tv Nasonal2" tvg-id="MetroTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png",Metro TV HD
+#EXTINF:-1 group-title="Tv Nasional2" tvg-id="MetroTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -193,14 +193,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/transtv.png" group-title="Tv Nasional2" tvg-id="TransTV.id" tvg-name="Trans TV", Trans TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="Tv Nasional" tvg-id="TransTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/transtv.png",Trans TV
+#EXTINF:-1 group-title="Tv Nasional2" tvg-id="TransTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/transtv.png",Trans TV
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/gtv.png" group-title="Tv Nasinal2" tvg-id="GTV.id" tvg-name="GTV", GTV HD
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/gtv.png" group-title="Tv Nasional2" tvg-id="GTV.id" tvg-name="GTV", GTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Tv Nasional2" tvg-id="GTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/gtv.png",GTV
