@@ -28,7 +28,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://3.bp.blogspot.com/-VzCVjd2vawE/V_srtHNdUlI/AAAAAAAAGG0/lK90NZHbL5kN3JbZ04zGK7t_c2D7LhNPQCLcB/s1600/ANTV-Indonesia-Logo.png",ANTV
-https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
