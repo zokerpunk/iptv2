@@ -115,7 +115,7 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 #EXTGRP:TV Nasional
 http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Tv Nasional",TVRI SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
 
