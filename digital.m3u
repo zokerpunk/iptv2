@@ -178,6 +178,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/gtv.png" group-title="Tv Nasional2" tvg-id="GTV.id" tvg-name="GTV", GTV HD
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 
 
