@@ -208,18 +208,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/inews.png" group-title="Tv Nasional2" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV Nasional2",TVRI SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Tv Nasional2",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional2"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
+#EXTINF:-1 group-title="Tv Nasional2"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:-1 tvg-id="bntv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
-#EXTGRP:TV Nasional2
+#EXTGRP:Tv Nasional2
 http://103.152.118.53:80/streams/yt/by-id/0Kln8aj0v3E/index.m3u8
 
 #EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-#EXTGRP:TV Nasional2
+#EXTGRP:Tv Nasional2
 http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 
