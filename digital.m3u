@@ -70,8 +70,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Nasional
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -84,8 +82,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" ,Da Ai TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 group-title="TV Nasional"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
-http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -108,17 +104,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/YkXktVs/032-magna.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-#EXTGRP:TV Nasional
-http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 #EXTINF:-1 tvg-id="metroglobenetwork.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png",Metro Globe Network
 #EXTGRP:TV Nasional
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="bntv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
-#EXTGRP:TV Nasional
-http://103.152.118.53:80/streams/yt/by-id/0Kln8aj0v3E/index.m3u8
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",JTV
 #EXTGRP:TV Nasional
@@ -217,6 +207,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/inews.png" group-title="Tv Nasional2" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV Nasional2",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="TV Nasional2"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
+
+#EXTINF:-1 tvg-id="bntv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
+#EXTGRP:TV Nasional2
+http://103.152.118.53:80/streams/yt/by-id/0Kln8aj0v3E/index.m3u8
+
+#EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+#EXTGRP:TV Nasional2
+http://103.152.118.53:80/streams/mentariteve/index.m3u8
+
+
+
+
 
 @@@@ TV Daerah @@@
 
