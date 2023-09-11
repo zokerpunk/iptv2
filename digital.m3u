@@ -137,7 +137,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png" group-title="Tv Nasional2" ,Moji
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
+https://github.com/OngisMbois/iptv/blob/main/moji2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
