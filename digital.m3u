@@ -115,6 +115,10 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 #EXTGRP:TV Nasional
 http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Tv Nasional",TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s107/index.m3u8
+
+
 !-- TV Nasional2 -->
 
 #EXTINF:-1 tvg-logo="null" group-title="Tv Nasional2", Showbiz 2
@@ -217,9 +221,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/inews.png" group-title="Tv Nasional2" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Tv Nasional2",TVRI SPORT
-http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
 #EXTINF:-1 group-title="Tv Nasional2"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
