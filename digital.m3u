@@ -449,6 +449,16 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 
 @@@@@@@ SPORTS @@@@@@@
 
+#EXTINF:-1 group-title="SPORT",RedBullTv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://1.bp.blogspot.com/-_lgSyJxcGdg/YJbSYPirD6I/AAAAAAAAE5c/tVfhxaUS02MxrNuecOV8lHOmKXkxQQ1EQCLcBGAsYHQ/s720/mutv-p.png" group-title="SPORT", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnifiSports.my" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0QvYCM30Wn3-KpDcMcr-Byvhv4IHooKXoJUJ9OJuJtcdY2yqbXhuj4BkZsgQqoIPd2givsuUwMMv9Lq1esNdlxO4h7w3IoYTITyxFP_cKPD0CM-wAXg2TAaPzdante5Y9Qgutoiib9D3SeDmcdXv60Og-Arc7l9IpS9BmJbEVYUiMSOJWKFqZQiLs=s720" group-title="SPORT",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJpj9QP/4b47.png" group-title="SPORT", Spotv 1
@@ -728,18 +738,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="AFF",LIVE 2
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
-
-#Sports 
-
-#EXTINF:-1 tvg-id="TVRISports.id" tvg-logo="https://1.bp.blogspot.com/-GlPSVUiAE_g/YJVJUDdVerI/AAAAAAAAEZY/mt9F3r8SbfgsO_zSmYuBWU4NSuW0Rl2UwCLcBGAsYHQ/s720/tvriSports-p.png" group-title="Sports",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://1.bp.blogspot.com/-_lgSyJxcGdg/YJbSYPirD6I/AAAAAAAAE5c/tVfhxaUS02MxrNuecOV8lHOmKXkxQQ1EQCLcBGAsYHQ/s720/mutv-p.png" group-title="Sports", MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UnifiSports.my" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj0QvYCM30Wn3-KpDcMcr-Byvhv4IHooKXoJUJ9OJuJtcdY2yqbXhuj4BkZsgQqoIPd2givsuUwMMv9Lq1esNdlxO4h7w3IoYTITyxFP_cKPD0CM-wAXg2TAaPzdante5Y9Qgutoiib9D3SeDmcdXv60Og-Arc7l9IpS9BmJbEVYUiMSOJWKFqZQiLs=s720" group-title="Sports",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
 <!-- VOD Indonesia -->
 
 #EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/02/iy5srhwdsOKEcNGFMFfgA7PgLAH.jpg" group-title="VOD Indonesia",Sri Asih (2022)
@@ -773,12 +771,6 @@ http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_
 #EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/03/Nonton-Film-Horor-Jagat-Arwah-200x300.jpg" group-title="VOD Indonesia",Jagat Arwah (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/NnrjvencblXo2l7UFY-OtoEStG3fstFh_WOZiUwysJl2XigtvIQArs-sjoANVlzbDWx0FobfMnhLLWIIl6ad8g/n1f-2jhQNRJQkB8LEo_uDDH0F2okf1AMVsLaFNZW1rA/1080.m3u8
-
-#EXTINF:-1 group-title="Sports",RedBullTv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="Sports",ufc2
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 <!-- VOD International -->
 
