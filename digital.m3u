@@ -125,6 +125,12 @@ http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceIdOTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" ,GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
@@ -144,11 +150,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/zPJyXNV/antv.jpg",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Tv Nasional2" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="Tv Nasional2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -215,13 +222,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Tv Nasional2", Showbiz 2
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="Tv Nasional2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Tv Nasional2" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
