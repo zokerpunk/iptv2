@@ -531,20 +531,21 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT", Tnt 2 
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORTS",Tnt 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 3 
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORTS",Tnt 4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 4 
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORTS",Tnt 5 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 5 
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtCBrPj/bein1id.jpg" group-title="SPORT", beIN Sports 1 
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165105 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svBypfR/bein3id.jpg" group-title="SPORT", beIN Sports 3 
-http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298506 
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298506
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 
