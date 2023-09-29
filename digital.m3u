@@ -136,7 +136,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://lh5.googleusercontent.com/proxy/SQbkAsjvsQyggDDbfOzgimY9Ny32ICPVy2DuhYONFKiWkhUMjEpwVhI9qoigvsK5xlbVulXYXauUhSKC1cOU5nigTJMGTMc8cAjPjqVoIrjb3l_eGvJfo15zXCRn3Y_JhL8EZezxals-RzSeV5iaAjKK8w=s0-d",iNews
+#EXTINF:-1 group-title="TV Nasional" tvg-logo=https://i.ibb.co/chMs9dw/inews.jpg",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
