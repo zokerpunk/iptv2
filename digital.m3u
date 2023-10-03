@@ -724,11 +724,11 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #AFF
 
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="AFF",LIVE 1
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="SPORT",LIVE 1
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 
 
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="AFF",LIVE 2
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="SPORT",LIVE 2
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
 
