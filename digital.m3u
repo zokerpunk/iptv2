@@ -927,6 +927,12 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gx918cv/rockext.jpg" group-title="PREMIUM",Rock Ext
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
+#EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="PREMIUM",Arirang World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+
 <!-- VOD Indonesia -->
 
 #EXTINF:-1 type="movie" tvg-logo="http://cgvindo.site/wp-content/uploads/2023/02/iy5srhwdsOKEcNGFMFfgA7PgLAH.jpg" group-title="VOD Indonesia",Sri Asih (2022)
