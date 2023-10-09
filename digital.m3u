@@ -243,7 +243,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6Yk2h9/ntv.jpg" group-title="Tv Nasional2",Ntv
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaWQgur7mT6D415hl7XybgCfiY9hKWlndo6Q_ky2V5b3Z_vbFG0Gb3fRKRw1yjxxshz4&usqp=CAU" group-title="Tv Nasional2", Showbiz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaWQgur7mT6D415hl7XybgCfiY9hKWlndo6Q_ky2V5b3Z_vbFG0Gb3fRKRw1yjxxshz4&usqp=CAU" group-title="Tv Nasional2", Showbiz
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
 
 
