@@ -255,7 +255,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Tv Nasional2"tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
+#EXTINF:-1 group-title="Tv Nasional2"tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWE2_6ncitGM0Hm1pBoL75qh8q3Jh2-crppLORiNsyy9jTcSw5IzXp-zpOxVwniC02Isc&usqp=CAU",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
 
