@@ -111,11 +111,11 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",JTV
+#EXTINF:-1 tvg-id="jtv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuzUZY3ojIqn3My5UAxprnb4vQo2TiFHt9H2Z1baiEPk8YW-siMlcHL5s2Tbof4O4UPJ4&usqp=CAU",JTV
 #EXTGRP:TV Nasional
 http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuzUZY3ojIqn3My5UAxprnb4vQo2TiFHt9H2Z1baiEPk8YW-siMlcHL5s2Tbof4O4UPJ4&usqp=CAU" group-title="TV Nasional",TVRI SPORT
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TV Nasional",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
 
