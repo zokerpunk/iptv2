@@ -374,6 +374,9 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 @@@  musik  @@@
 
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/Gt3rttDQ/live-danggdut.jpg"live danggdut
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696890534/ei/RiokZdjdIKCrz7sPucOi2Aw/ip/202.179.190.18/id/vj6lXUdzBTQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyIqESRcWg-8c_3bLx17NNIYyMk18QxoYdTRHAUZ_gacR3JlnrU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgTWIZv_Ubt8U9tz0U7Nl8-S4Qtq6N_pDsLrpzTda4gtsCIA9StexP1H0FebAMTNXkfH2t594_ChKH89Hl5DUBFN3c/file/index.m3u8
+
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png",Dangdut Koplo Indonesia - Nagaswara
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
