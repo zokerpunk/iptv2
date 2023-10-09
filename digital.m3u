@@ -2,6 +2,9 @@
 
 @@@@@@@TV Nasional @@@@@@@
 
+#EXTINF:-1 group-title="info" tvg-logo="",info
+https://drive.usercontent.google.com/download?id=1-PL2ej3iA2cIop0_5kSQjrq8zG6T6Vu2&export=download&authuser=0&confirm=t&uuid=3124020c-32d1-4a9e-b86b-e00626680aab&at=APZUnTV9Lwq9g42xBLWE9uBCWrpn:1696878041416
+
 #EXTINF:-1 tvg-id="ochannel.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
