@@ -63,10 +63,9 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/50ZMBKf8/Logo-DAAI-TV-Jakarta-anakcemerlang.png" ,Da Ai TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png" group-title="TV Nasional",JAKTV
+#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png" group-title="TV Nasional",JAKTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1  tvg-id="TVKU.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
