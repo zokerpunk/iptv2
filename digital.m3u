@@ -10,22 +10,22 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/RCTI_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160314104216",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://clipground.com/images/global-tv-png-6.png" ,GTV
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="http://www.jobsmnc.co.id/Content/images/bu/0203.png",MNC TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/X7FmgZh2/inews.png",iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://3.bp.blogspot.com/-VzCVjd2vawE/V_srtHNdUlI/AAAAAAAAGG0/lK90NZHbL5kN3JbZ04zGK7t_c2D7LhNPQCLcB/s1600/ANTV-Indonesia-Logo.png",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
@@ -66,7 +66,7 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png" group-title="TV Nasional",JAKTV
-https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #EXTINF:-1  tvg-id="TVKU.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -74,12 +74,12 @@ http://103.30.1.14:8080/hls/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
-https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -98,7 +98,7 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg",JTV
 #EXTGRP:TV Nasional
-http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+https://drive.usercontent.google.com/download?id=1Mqc-BfImX7GBQlC6HFahhPEiSUnDQ4IK&export=download&authuser=0&confirm=t&uuid=9a4eec36-f69f-474e-a0ba-1f3e195e022b&at=APZUnTXRR8eVZ6vsU5Phi0NHweaT:1697214542916
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png" group-title="TV Nasional",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
