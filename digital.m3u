@@ -107,22 +107,22 @@ https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" ,GTV
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.postimg.cc/cJ5DQYR5/mnctv2.jpg",MNC TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/chMs9dw/inews.jpg",iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/zPJyXNV/antv.jpg",ANTV
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Tv Nasional2" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
@@ -163,7 +163,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/bK34Gm9/ent.jpg",MNC Entertainment
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
