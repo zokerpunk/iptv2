@@ -50,7 +50,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp",TVRI Nasional
-http://210.210.155.35/qwr9ew/s/s11/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png",NET
 http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/01.m3u8
@@ -58,10 +58,8 @@ http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/50ZMBKf8/daaiTV.png" ,Da Ai TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png" group-title="TV Nasional",JAKTV
-https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
 #EXTINF:-1  tvg-id="TVKU.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
