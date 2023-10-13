@@ -2,10 +2,8 @@
 
 @@@@@@@TV Nasional @@@@@@@
 
-
-#EXTINF:-1 tvg-id="ochannel.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
-
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png",Moji
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -27,8 +25,8 @@ https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEV
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/X7FmgZh2/inews.png",iNews
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://3.bp.blogspot.com/-VzCVjd2vawE/V_srtHNdUlI/AAAAAAAAGG0/lK90NZHbL5kN3JbZ04zGK7t_c2D7LhNPQCLcB/s1600/ANTV-Indonesia-Logo.png",ANTV
-http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png",ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
