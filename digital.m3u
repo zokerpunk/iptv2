@@ -8,11 +8,13 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/RCTI_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160314104216",RCTI
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://clipground.com/images/global-tv-png-6.png" ,GTV
+https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
