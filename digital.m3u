@@ -1,44 +1,44 @@
 ﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
 
-@@@@@@@TV Nasional @@@@@@@
+@@@@@@@ Nasional @@@@@@@
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png",Moji
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/RCTI_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160314104216",RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XC7TVw0/RCTI.png" group-title="Nasional",RCTI
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://clipground.com/images/global-tv-png-6.png" ,GTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgs9S98M/globalTV.png" group-title="Nasional",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://www.jobsmnc.co.id/Content/images/bu/0203.png",MNC TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZX5f0s/mncTV.png" group-title="Nasional",MNC TV
 http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/X7FmgZh2/inews.png",iNews
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7FmgZh2/inews.png" group-title="Nasional",iNews
 http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png",ANTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV
 http://210.210.155.35/session/3080e91c-ed0d-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/XYyQr4vN/transtv.png",Trans TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYyQr4vN/transtv.png,Trans"  group-title="Nasional",Trans TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/qvv9WHDp/trans7.png",Trans 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvv9WHDp/trans7.png,Trans"  group-title="Nasional",Trans 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png",TVOne
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png,TVOne"  group-title="Nasional",TVOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png",Metro TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png,Metro"  group-title="Nasional",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/Vk7dc1Yg/RTV.png",RTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk7dc1Yg/RTV.png,RTV"  group-title="Nasional",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp",TVRI Nasional
