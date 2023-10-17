@@ -561,7 +561,7 @@ http://208.115.225.174:14136
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/ 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="PREMIUM",HBO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="PREMIUM",HBO 0
 ##http://175.158.62.142:8888/stream/channelid/1406469095?ticket=3DF4BD7B4E6B32249B0606F0F47C516A5EE9FD8C&profile=pass
 ##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972 
 ##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd 
