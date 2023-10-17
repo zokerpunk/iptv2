@@ -391,7 +391,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/t86k52Y/sportstars2.jpg",Mnc Sportstar 2 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/VNV0cjSH/sportstart2.png",Mnc Sportstar 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -419,16 +419,16 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://i.ibb.co/0BKSzGt/sony5.jpg" group-title="SPORT",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/xhnW227/espn.jpg",ESPN 1 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/43xZQqxr/espn.png",ESPN 1 
 http://assista.pro:80/0333686557/Vilamariante1/134014
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/P1387Jh/espn2.jpg",ESPN 2 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/6pYxqcfz/espn2.png",ESPN 2 
 http://assista.pro:80/0333686557/Vilamariante1/134019
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/r0nDNvJ/espn3.jpg",ESPN 3 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/44bLXd5Q/espn3.jpg",ESPN 3 
 http://assista.pro:80/0333686557/Vilamariante1/134025
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/PjfmRfk/espn4.jpg",ESPN 4 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/nhsG9cv5/espn4.jpg",ESPN 4 
 http://assista.pro:80/0333686557/Vilamariante1/134033
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
