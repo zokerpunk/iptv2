@@ -166,8 +166,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/50ZMBKf8/daaiTV.png" ,Da Ai TV
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
 @@@@ LOCAL @@@
 
@@ -473,7 +472,7 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 https://h1.intechmedia.net/intech/ch27.m3u8
 
 #EXTINF:-100 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
-https://h1.intechmedia.net/intech/ch26.m3u8
+http://rr2.dens.tv/s/s14/index.m3u8
 
 #EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
