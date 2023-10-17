@@ -41,264 +41,237 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk7dc1Yg/RTV.png,RTV"  group-title="Nasional",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp,TVRI"  group-title="Nasional",TVRI Nasional
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png",NET
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png,NET"  group-title="Nasional",NET
 http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/01.m3u8
 
-#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png" group-title="TV Nasional",JAKTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
-#EXTINF:-1  tvg-id="TVKU.id" group-title="TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd9wbHZb/TVKU.png,TVKU"  group-title="Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5ngpSXB/SEATODAY.png,SEA"  group-title="Nasional",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv-karer.jpg",Kompas TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv.jpg,Kompas"  group-title="Nasional",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.ibb.co/YkXktVs/032-magna.png",Magna Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkXktVs/032-magna.png,Magna"  group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="metroglobenetwork.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png",Metro Globe Network
-#EXTGRP:TV Nasional
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RTnS5fZ/Metro-Globe-Network.png,Metro"  group-title="Nasional",Metro Globe Network
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="jtv.id" tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg",JTV
-#EXTGRP:TV Nasional
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg,JTV"  group-title="Nasional",JTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png" group-title="TV Nasional",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
-!-- Tv Nasional2 -->
+!-- Nasional2 -->
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png" group-title="Tv Nasional2" ,Moji
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png"  group-title="Nasional2",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg",RCTI
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg",RCTI
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" ,GTV
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" ,GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.postimg.cc/cJ5DQYR5/mnctv2.jpg",MNC TV
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/cJ5DQYR5/mnctv2.jpg",MNC TV
 http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/chMs9dw/inews.jpg",iNews
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.ibb.co/chMs9dw/inews.jpg",iNews
 http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/zPJyXNV/antv.jpg",ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPJyXNV/antv.jpg,ANTV"  group-title="Nasional2",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Tv Nasional2" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png,Indosiar"  group-title="Nasional2",Indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png" group-title="Tv Nasional2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/sctv.png,SCTV"  group-title="Nasional2",SCTV HD
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-id="TransTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/transtv.png",Trans TV
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/transtv.png,Trans"  group-title="Nasional2",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-id="Trans7.id" tvg-logo="https://icon.mammothtv.my.id/lokal/trans7.png",Trans 7
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/trans7.png,Trans"  group-title="Nasional2",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/tvone.png" group-title="Tv Nasional2" tvg-id="tvOne.id" tvg-name="TVOne", TVONE HD
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/tvone.png,TVONE"  group-title="Nasional2",TVONE HD
 http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-id="MetroTV.id" tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png",Metro TV HD
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png,Metro"  group-title="Nasional2",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/rtv.png" group-title="Tv Nasional2" tvg-id="RajawaliTV.id" tvg-name="RTV", RTV
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/rtv.png,RTV"  group-title="Nasional2",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PcKd3BZ/kompastv.jpg" group-title="Tv Nasional2",Kompas Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcKd3BZ/kompastv.jpg"  group-title="Nasional2",KOMPAS
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/net.png" group-title="Tv Nasional2" tvg-id="NET.id" tvg-name="NET TV", NET. HD
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://icon.mammothtv.my.id/lokal/net.png",NET. HD
 http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/01.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.ibb.co/bK34Gm9/ent.jpg",MNC Entertainment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bK34Gm9/ent.jpg,MNC"  group-title="Nasional2",MNC Entertainment
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4VyQ9b/imc.jpg" group-title="Tv Nasional2", Imc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4VyQ9b/imc.jpg"  group-title="Nasional2",Imc
 https://ktpremium.com:443/mw007/3300722007/73869
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42gwC1h/ie.jpg" group-title="Tv Nasional2",Infotainment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42gwC1h/ie.jpg" group-title="Nasional2",Infotainment
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxLDZ0F/prime.jpg" group-title="Tv Nasional2",Prime Vision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxLDZ0F/prime.jpg" group-title="Nasional2",Prime Vision
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7rczGs3/oktv.jpg" group-title="Tv Nasional2", Ok Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7rczGs3/oktv.jpg" group-title="Nasional2", Ok Tv
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64NyXQ7/life.jpg" group-title="Tv Nasional2",Life
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64NyXQ7/life.jpg" group-title="Nasional2",Life
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VBjYFNG/lifestyle.jpg" group-title="Tv Nasional2",Life Style
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBjYFNG/lifestyle.jpg" group-title="Nasional2",Life Style
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6FskCF/magnatv.jpg" group-title="Tv Nasional2",Magna Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6FskCF/magnatv.jpg"  group-title="Nasional2",Magna Tv
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgWDDK4/indosiana.jpg" group-title="Tv Nasional2",Indosiana
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgWDDK4/indosiana.jpg"  group-title="Nasional2",Indosiana
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6Yk2h9/ntv.jpg" group-title="Tv Nasional2",Ntv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6Yk2h9/ntv.jpg"  group-title="Nasional2",Ntv
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKHjtr0/showbiz.png" group-title="Tv Nasional2", Showbiz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKHjtr0/showbiz.png"  group-title="Nasional2",Showbiz
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png" group-title="Tv Nasional2" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/metrotv.png" group-title="Nasional2" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
-#EXTINF:-1 group-title="Tv Nasional2"tvg-url="" tvg-logo="https://i.postimg.cc/GmxpV5Wy/garudatv.jpg",Garuda TV
+#EXTINF:-1 group-title="Nasional2"tvg-url="" tvg-logo="https://i.postimg.cc/GmxpV5Wy/garudatv.jpg",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 group-title="Tv Nasional2" tvg-logo="https://i.postimg.cc/50ZMBKf8/daaiTV.png" ,Da Ai TV
+#EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/50ZMBKf8/daaiTV.png" ,Da Ai TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 
-@@@@ TV Daerah @@@
+@@@@ LOCAL @@@
 
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu News
+#EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu News
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
+#EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="TV Daerah",BERITA SATU WORLD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13"  group-title="Local",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="TV Daerah",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13"  group-title="Local",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb7Xwv6s/20221117-134539.png" group-title="TV Daerah",UGTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb7Xwv6s/20221117-134539.png"  group-title="Local",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png",Dhamma TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png,Dhamma"  group-title="Local",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="jawapostv.id" tvg-logo="https://i.postimg.cc/pX34fVyW/jawaposttv.jpg",Jawa Pos TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX34fVyW/jawaposttv.jpg,Jawa"  group-title="Local",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png,Madu"  group-title="Local",Madu TV
 https://v6.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="saktitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",Sakti TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png,Sakti"  group-title="Local",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sCXJVZS/balitv.jpg" group-title="TV Daerah",Bali Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCXJVZS/balitv.jpg"  group-title="Local",Bali Tv
 https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-id="inspiratv.id" tvg-logo="https://i.postimg.cc/PJShXgML/inspira.jpg",Inspira TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJShXgML/inspira.jpg,Inspira"  group-title="Local",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png,Lingkar"  group-title="Local",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6PwxScK/bandung.jpg" group-title="TV Daerah",Bandung Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PwxScK/bandung.jpg" group-title="Local",Bandung Tv 
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
-#EXTINF:-1 tvg-id="dutatv.id" tvg-logo="https://i.postimg.cc/zvKW4kwP/dutatv.jpg",Duta TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvKW4kwP/dutatv.jpg,Duta"  group-title="Local",Duta TV
 https://o1.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tegartvlampung.id" tvg-logo="https://i.postimg.cc/qRrjR9NG/tegar-tv.png",Tegar TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRrjR9NG/tegar-tv.png,Tegar"  group-title="Local",Tegar TV
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8pQDhQN/simpang-5-tv.jpg",Simpang5 TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8pQDhQN/simpang-5-tv.jpg,Simpang5"  group-title="Local",Simpang5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tatv.id" tvg-logo="https://i.postimg.cc/DwM1HRQz/tatv.jpg",TATV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwM1HRQz/tatv.jpg,TATV"  group-title="Local",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="brtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png,BRTV"  group-title="Local",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cS5xmnc/smtv.jpg",SMTV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cS5xmnc/smtv.jpg,SMTV"  group-title="Local",SMTV
 http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rctv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest",RCTV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest,RCTV"  group-title="Local",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nusantaratv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",Nusantara TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png,Nusantara"  group-title="Local",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aditv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",AdiTV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png,AdiTV"  group-title="Local",AdiTV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jpmtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png",JPMTV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png,JPMTV"  group-title="Local",JPMTV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxdF2nZB/huma-betang-tv.jpg",Huma Betang TV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxdF2nZB/huma-betang-tv.jpg,Huma"  group-title="Local",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jogjaistimewatv.id" tvg-logo="https://i.postimg.cc/MTvQZH9J/jitv.jpg",JITV
-#EXTGRP:TV Daerah
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvQZH9J/jitv.jpg,JITV"  group-title="Local",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+@@@  musiC  @@@
 
-@@@  musik  @@@
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg",imtv
-https://ythls.onrender.com/video/eF2h5f8_ERU.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/ryNVrhM6/citra-dangdut.jpg",citra dangdut
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryNVrhM6/citra-dangdut.jpg,citra"  group-title="MUSIC",citra dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png",Dangdut Koplo Indonesia - Nagaswara
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png,Dangdut"  group-title="MUSIC",Dangdut Koplo Indonesia - Nagaswara
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png",Music Video Dancedut - Nagaswara
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png,Music"  group-title="MUSIC",Music Video Dancedut - Nagaswara
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png",POP Indonesia - Nagaswara
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png,POP"  group-title="MUSIC",POP Indonesia - Nagaswara
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdLpPz5h/musictop.png,music"  group-title="MUSIC",music top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cK0rb5g/mtv-live.png,mtv"  group-title="MUSIC",mtv live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs8jk6jW/mtv90s.png" group-title="MUSIK",MTV 90s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs8jk6jW/mtv90s.png"  group-title="MUSIC",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="MUSIK",VEVO 70s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 70s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="MUSIK",VEVO 80s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png group-title="MUSIK",VEVO 90s
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 @@@@@@@ KIDS @@@@@@@
 
