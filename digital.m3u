@@ -396,12 +396,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/cChvvBJ/sportstars3.jpg",Mnc Sportstar 3 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/mkL2KkLg/mncsportstart3.jpg",Mnc Sportstar 3 
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw 
-#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://i.ibb.co/9qymskv/sportstar4.jpg",Mnc Sportstars 4 
+#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://i.postimg.cc/2jGKYyjN/mncsportstart4.png",Mnc Sportstars 4 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://i.ibb.co/Sy2ycGX/sony1.jpg" group-title="SPORT",Sony TEN 1 HD 
@@ -745,7 +745,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ3vVbM/ccm.png" group-title="PREMIUM",Ccm 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKpRDGFg/ccm.png" group-title="PREMIUM",Ccm 
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
