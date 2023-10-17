@@ -595,8 +595,8 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
 #EXTINF:0 tvg-logo="http://img4.wikia.nocookie.net/__cb20121019230727/logopedia/images/a/a0/Cineworld_2005.png" group-title="PREMIUM",Cinema World HD
 https://ktpremium.com:443/mw007/3300722007/901200
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="PREMIUM",Celestial Movies Indonesia
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="PREMIUM",Celestial Movies
+http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2FY689Z/tvnmovies.png" group-title="PREMIUM",Tvn Movies 
 https://ktpremium.com:443/mw007/3300722007/73986
