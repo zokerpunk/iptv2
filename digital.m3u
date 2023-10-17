@@ -339,7 +339,6 @@ https://ktpremium.com:443/mw007/3300722007/73957
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72pDW0Q/sportstar1.jpg" group-title="SPORT", Mnc Sportstar 1
-http://iptv.filemoon.xyz/mnclokal/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/VNV0cjSH/sportstart2.png",Mnc Sportstar 2 
@@ -454,40 +453,25 @@ http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png"group-title="Reliji",Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
-https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
-
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png"group-title="Reliji",EWTN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb2393dc078c4b708cce148304db1ea7:78437d7ccfe7a3a220c53180eb5bdeb1
-https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13"group-title="Reliji",TV Muhammadiyah
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
-https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png"group-title="Reliji",Muslim TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png"group-title="Reliji",Al Quran Al Kareem TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
-https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png"group-title="Reliji",Tawaf TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
-https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png"group-title="Reliji",Reformed 21
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1acfe74d40e91e0368324b074c256bab:f3211e3f8079a8584ac77afda2b0e119
-https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/4xG1x46Y/ufatv.png" group-title="Reliji",Ufa TV
 https://h1.intechmedia.net/intech/ch27.m3u8
@@ -505,7 +489,6 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3kbdVVy/albajrah.png" group-title="Reliji",Al Bahjah TV
-
 https://h1.intechmedia.net/intech/ch64.m3u8
 
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
@@ -570,6 +553,8 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 ""MOVIES""
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="PREMIUM",HBO 
+http://208.115.225.174:14136 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
