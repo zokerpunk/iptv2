@@ -531,9 +531,6 @@ http://208.115.225.174:14136
 #EXTINF:0 group-title="PREMIUM" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO2 
 http://208.115.225.174:14140
 
-#EXTINF:0 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/cJ8fP6DW/flix.jpg",flix
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/165095
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvqV00/hbofamily.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="PREMIUM",HBO Family 
 http://tvkuonline.my.id:25461/riyad/riyad/415
 
@@ -548,6 +545,10 @@ http://208.115.225.174:14165
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8fH71d2/hbomundi.png" group-title="PREMIUM",HBO mundi
 http://208.115.225.174:14148
+
+#EXTINF:0 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/cJ8fP6DW/flix.jpg",flix
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/165095
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVgsBsBT/sonypick.jpg" group-title="PREMIUM",sony pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
