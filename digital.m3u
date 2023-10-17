@@ -610,9 +610,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157584
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxsGLnM/one.png" group-title="PREMIUM",One 
 https://ktpremium.com:443/mw007/3300722007/26009
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKpRDGFg/ccm.png" group-title="PREMIUM",Ccm 
-http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vZNJTC/mbc.jpg" group-title="PREMIUM",Mbc 
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8 
 
