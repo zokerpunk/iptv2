@@ -109,10 +109,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJMtQmcM/tvone2.png"  group-title="Nasional2",TVONE HD
 http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional2",Mentari tv
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBhPbt5j/metrotv2.png"  group-title="Nasional2",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
@@ -137,6 +133,12 @@ https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxLDZ0F/prime.jpg" group-title="Nasional2",Prime Vision
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLDXMpkH/elsinta.jpg"  group-title="Nasional2",elsinta tv
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional2",Mentari tv
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7rczGs3/oktv.jpg" group-title="Nasional2", Ok Tv
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
 
@@ -151,9 +153,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgWDDK4/indosiana.jpg"  group-title="Nasional2",Indosiana
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6Yk2h9/ntv.jpg"  group-title="Nasional2",Ntv
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKHjtr0/showbiz.png"  group-title="Nasional2",Showbiz
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
@@ -175,6 +174,15 @@ https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEV
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3HYXwZk/sangajitv.jpg"  group-title="Local",sangaji tv
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMnM3qyK/pon-tv.png"  group-title="Local",pon tv
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr9DN9rv/surabaya-tv.png"  group-title="Local",surabaya tv
+https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5ksWCfD/beritasatu.png"  group-title="Local",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
