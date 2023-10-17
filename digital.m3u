@@ -151,9 +151,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKHjtr0/showbiz.png"  group-title="Nasional2",Showbiz
 http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/qBhPbt5j/metrotv2.png" group-title="Nasional2", Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
 #EXTINF:-1 group-title="Nasional2"tvg-url="" tvg-logo="https://i.postimg.cc/GmxpV5Wy/garudatv.jpg",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
