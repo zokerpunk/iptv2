@@ -45,7 +45,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET
-http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
