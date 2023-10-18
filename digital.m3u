@@ -445,6 +445,8 @@ http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/4xG1x46Y/ufatv.png" group-title="Reliji",Ufa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://h1.intechmedia.net/intech/ch27.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sf8SvfrV/madani-tv.png"group-title="Reliji",Bina Madani TV
