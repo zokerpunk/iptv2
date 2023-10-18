@@ -1,4 +1,11 @@
-﻿#EXTM3U url-tvg=https://bit.ly/zokerpuk
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/iptv2/main/nasional.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/iptv2/main/asalklik.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/iptv2/main/nagaratetangga.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/iptv2/main/astrologi.xml"
+#EXTM3U x-url-tvg="https://github.com/zokerpunk/iptv2"
+#EXTM3U url-tvg="https://github.com/zokerpunk/iptv2"
+#EXTM3U
 
 @@@@@@@ Nasional @@@@@@@
 
@@ -45,7 +52,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET
-https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+http://210.210.155.35/session/db2970a6-0ab2-11ee-b1c0-b82a72d63267/uq2663/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
@@ -80,16 +87,16 @@ http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
+http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
-https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/RZxrkMHK/mnctv2.png",MNC TV
-http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/yYxR9Hpq/inews2.png",iNews
-http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSyBCtX/antv2.png"  group-title="Nasional2",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
@@ -121,7 +128,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/PJ0Spsv1/net2.png",NET. HD
-http://210.210.155.37/session/9454c8d6-ed13-11ed-aeaf-b82a72d63267/uq2663/h/h06/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65nQ8rDv/ent.jpg"  group-title="Nasional2",MNC Entertainment
 https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEVZO&export=download&authuser=0&confirm=t&uuid=9f0becb6-6ccc-4564-8c0e-9f309a770053&at=APZUnTXGYVLDF1wxrXXzaM6SGdDi:1697226577038
@@ -169,6 +176,9 @@ https://drive.usercontent.google.com/download?id=1N7ojiR4qISmnVOjdjWgVFi5WbKtdEV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
 @@@@ LOCAL @@@
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhZ74ygq/kawana.webp" group-title="Local",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -252,6 +262,9 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 @@@  musiC  @@@
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg"  group-title="MUSIC",imtv
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryNVrhM6/citra-dangdut.jpg"  group-title="MUSIC",citra dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
