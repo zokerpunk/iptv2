@@ -261,6 +261,21 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvQZH9J/jitv.jpg"  group-title="Local",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+@@@ games @@@
+
+#EXTINF:-1 group-title="GAMES" tvg-id="" tvg-logo="",Dens Play
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1 group-title="GAMES",FIRST WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
+#EXTINF:-1 group-title="GAMES" tvg-id="5ca7f16c37b88b2694731c79" tvg-chno="801" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png",Pluto TV Gamer
+https://bit.ly/3t0Ut0o
+#EXTINF:-1 group-title="GAMES" tvg-id="5812b821249444e05d09cc4c" tvg-chno="815" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png",MinecrafTV
+https://bit.ly/38RwGZW
+#EXTINF:-1 group-title="GAMES" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",Pluto TV E-Sports
+https://bit.ly/3wUSBIQ
+#EXTINF:-1 group-title="GAMES" tvg-id="5f8eccd81062c300078a11df" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",Gaming TV
+https://bit.ly/3MZ583U
+
 @@@  musiC  @@@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg"  group-title="MUSIC",imtv
