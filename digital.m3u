@@ -409,6 +409,136 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/J0z690Xn/astrocriket.png",astro criket
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157565
 
+#EXTINF:-1,beINSports
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157561
+
+#EXTINF:-1,beINSPORTS 1 English HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15000
+
+#EXTINF:-1,beINSPORTS 2 English HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15001
+
+#EXTINF:-1,beINSPORTS 3 English HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/21517
+
+#EXTINF:-1,beINSPORTS Premium 1 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
+
+#EXTINF:-1,beINSPORTS Premium 2 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
+
+#EXTINF:-1,beINSPORTS Premium 3 HD
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
+
+#EXTINF:-1,REAL MADRID TV
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
+
+#EXTINF:-1,BARCA TV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
+
+#EXTINF:-1,MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1,LAZIO TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691244&extension=ts&play_token=zMlRAkEXDp
+
+#EXTINF:-1,MILAN TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691246&extension=ts&play_token=wdpy8uaE34
+
+#EXTINF:-1,INTER TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691245&extension=ts&play_token=tMXZqPBIvZ
+
+#EXTINF:-1,LFC TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=910647&extension=ts&play_token=0DoacREKXn
+
+#EXTINF:-1,BAYER FC
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411413&extension=ts&play_token=1U3jpWdf0t
+
+#EXTINF:-1,SPORTING TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
+
+#EXTINF:-1,BTV BENFICA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
+
+#EXTINF:-1,GALATASARAY TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
+
+#EXTINF:-1,FENERBACE TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
+
+#EXTINF:-1,FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1,MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
+
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
+
+#EXTINF:-1,BILLIARD TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1,Stadium
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
+
+#EXTINF:-1,Motorvision TV HD
+http://rr.dens.tv/h/h09/index.m3u8
+
+#EXTINF:-1,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+
+#EXTINF:-1,EDGE sports
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1,DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,TNT SPORT 1
+http://shareex@195.26.87.217/live?channelId=267&deviceMac=00:1A:79:33:E9:41|id=btsport1|shareext.m3u8
+
+#EXTINF:-1,TNT SPORT 2
+http://shareex@195.26.87.217/live?channelId=268&deviceMac=00:1A:79:33:E9:41|id=btsport2|shareext.m3u8
+
+#EXTINF:-1,TNT SPORT 3
+http://shareext@195.26.87.217/live?channelId=269&deviceMac=00:1A:79:33:E9:41|id=btsport3|shareext.m3u8
+
+#EXTINF:-1,TNT SPORT 4
+http://shareext@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41|id=btsport4|shareext.m3u8
+
+#EXTINF:-1,FOX SPORTS 1
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149636
+
+#EXTINF:-1,FOX SPORTS 3
+http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149635
+
+
 
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36pCXkrol7QeYM8ByRJBT95inbKcS9S6m5HaQTKJjpAzmMPlz4UtANXpgX6_vbUP2aVI&usqp=CAU",RedBullTv
