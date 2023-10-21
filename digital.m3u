@@ -343,9 +343,72 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 
 @@@@@@@ SPORTS @@@@@@@
 
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",beIN Sports HD
+https://ktpremium.com:443/mw007/3300722007/26321
 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/ZnK17zGm/densplay.jpg",Dens Play
-http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/vHNYvkFf/beinspot-2.png",beIN Sports 2
+https://ktpremium.com:443/mw007/3300722007/912557
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/CxJxq5MM/bein-sport-3.png",beIN Sports 3
+https://ktpremium.com:443/mw007/3300722007/26322
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5ydMQdZS/bensport-rugby.jpg",beIN Sports Rugby
+https://ktpremium.com:443/mw007/3300722007/918609
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/KcW5L7vj/Usee-Prime.png",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/fLhDLqJd/unifi-sport.png",unufi sport
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/13Ns0VVs/astro1.png",astro sport 1
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/bJLhYQWH/astro2.png",astro sport 2
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro sport 3
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/V6zwc7Gk/astro4.jpg",astro sport 4
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5NrfFS0s/astro5.jpg",astro sport 5
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=918982&extension=ts&shareext@assp5
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/Y05Yf1Gc/premier-sport.png",now premier sports
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1032487&extension=ts&shareext@nowpremier1
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/fytY9Hbj/hub-1.jpg",hub sports 1
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110667&extension=ts&shareext@HubSports1
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/QNwQ3r66/hub2.jpg",hub sports 2
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110666&extension=ts&shareext@HubSports2
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/0ypdnH0V/hub3.jpg",hub sports 3
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110665&extension=ts&shareext@HubSports4
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/TPYXRdgz/astro-arena.png",astro arena
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157485
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/13Ns0VVs/astro1.png",astro supersport
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/bJLhYQWH/astro2.png",astro supersport 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro supersport 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/V6zwc7Gk/astro4.jpg",astro supersport 4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5NrfFS0s/astro5.jpg",astro supersport 5
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/J0z690Xn/astrocriket.png",astro criket
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157565
+
 
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36pCXkrol7QeYM8ByRJBT95inbKcS9S6m5HaQTKJjpAzmMPlz4UtANXpgX6_vbUP2aVI&usqp=CAU",RedBullTv
@@ -406,7 +469,8 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 5 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 
+https://ktpremium.com:443/mw007/3300722007/916970
+##https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8 
