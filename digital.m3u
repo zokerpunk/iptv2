@@ -12,19 +12,34 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XC7TVw0/RCTI.png" group-title="Nasional",RCTI
-https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=07164a08-ea8c-4eee-ab85-882eb86494e3&at=APZUnTXCZOepFme1n6yffFjZGlOH:1697896887047
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ##http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 ##http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgs9S98M/globalTV.png" group-title="Nasional",GTV
-https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+##https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tZX5f0s/mncTV.png" group-title="Nasional",MNC TV
-http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+##http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7FmgZh2/inews.png" group-title="Nasional",iNews
-http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+##http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
