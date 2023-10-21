@@ -110,8 +110,11 @@ http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTzpNVB/moji2.png"  group-title="Nasional2",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
-https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=07164a08-ea8c-4eee-ab85-882eb86494e3&at=APZUnTXCZOepFme1n6yffFjZGlOH:1697896887047
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 ##http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
@@ -197,8 +200,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/wBd46pDN/mncnews2.png",MNC News
 https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=07164a08-ea8c-4eee-ab85-882eb86494e3&at=APZUnTXCZOepFme1n6yffFjZGlOH:1697896887047
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/50ZMBKf8/daaiTV.png" ,Da Ai TV
-http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+##http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
 @@@@ LOCAL @@@
 
