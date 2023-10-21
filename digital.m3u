@@ -362,24 +362,33 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/13Ns0VVs/astro1.png",astro sport 1
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/bJLhYQWH/astro2.png",astro sport 2
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro sport 3
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro sport 3http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/V6zwc7Gk/astro4.jpg",astro sport 4
-http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5NrfFS0s/astro5.jpg",astro sport 5
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/xT74xBGS/astrohd.jpg",astro sport 1
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/FKXnmcnW/astrohd2.jpg",astro supersport 2
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/gkr7KGZD/astro-hd3.png",astro supersport 3
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/SKL1KsBy/astrohd4.jpg",astro supersport 4
+http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/qv3Z9QQ6/astrohd5.jpg",astro supersport 5
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=918982&extension=ts&shareext@assp5
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/Y05Yf1Gc/premier-sport.png",now premier sports
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1032487&extension=ts&shareext@nowpremier1
@@ -455,6 +464,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/L47WNnMs/ABUDABI.png",ABU DHABI SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/L47WNnMs/ABUDABI.png",ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36pCXkrol7QeYM8ByRJBT95inbKcS9S6m5HaQTKJjpAzmMPlz4UtANXpgX6_vbUP2aVI&usqp=CAU",RedBullTv
@@ -504,26 +515,36 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT", Tnt 1 
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8 
-http://shareex@195.26.87.217/live?channelId=267&deviceMac=00:1A:79:33:E9:41|id=btsport1|shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT", Tnt 2 
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-http://shareex@195.26.87.217/live?channelId=268&deviceMac=00:1A:79:33:E9:41|id=btsport2|shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 3 
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-http://shareext@195.26.87.217/live?channelId=269&deviceMac=00:1A:79:33:E9:41|id=btsport3|shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 4 
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 
-http://shareext@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41|id=btsport4|shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt 5 
-https://ktpremium.com:443/mw007/3300722007/916970
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT", Tnt hd 1 
+http://shareex@195.26.87.217/live?channelId=267&deviceMac=00:1A:79:33:E9:41|id=btsport1|shareext.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT", Tnt hd 2 
+http://shareex@195.26.87.217/live?channelId=268&deviceMac=00:1A:79:33:E9:41|id=btsport2|shareext.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt hd 3 
+http://shareext@195.26.87.217/live?channelId=269&deviceMac=00:1A:79:33:E9:41|id=btsport3|shareext.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="SPORT",Tnt hd 4 
+http://shareext@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41|id=btsport4|shareext.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8 
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 2
+https://ktpremium.com:443/mw007/3300722007/916970
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd7KGsQ8/ss1.png" group-title="SPORT", Star Sports 1
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155968&extension=ts&play_token=sf5sNQxbrB
