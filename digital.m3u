@@ -13,8 +13,8 @@
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XC7TVw0/RCTI.png" group-title="Nasional",RCTI
-http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-##https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=07164a08-ea8c-4eee-ab85-882eb86494e3&at=APZUnTXCZOepFme1n6yffFjZGlOH:1697896887047
+##http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=07164a08-ea8c-4eee-ab85-882eb86494e3&at=APZUnTXCZOepFme1n6yffFjZGlOH:1697896887047
 ##http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgs9S98M/globalTV.png" group-title="Nasional",GTV
