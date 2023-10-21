@@ -363,23 +363,23 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/13Ns0VVs/astro1.png",astro sport 1
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/bJLhYQWH/astro2.png",astro sport 2
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111033&extension=ts&shareext@ASSP2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro sport 3
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111032&extension=ts&shareext@ASSP3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/V6zwc7Gk/astro4.jpg",astro sport 4
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111031&extension=ts&shareext@ASSP4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5NrfFS0s/astro5.jpg",astro sport 5
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=918982&extension=ts&shareext@assp5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/Y05Yf1Gc/premier-sport.png",now premier sports
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1032487&extension=ts&shareext@nowpremier1
