@@ -13,6 +13,7 @@
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XC7TVw0/RCTI.png" group-title="Nasional",RCTI
+https://github.com/zokerpunk/iptv2/raw/main/lv_0_20231014024603.mp4
 http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgs9S98M/globalTV.png" group-title="Nasional",GTV
