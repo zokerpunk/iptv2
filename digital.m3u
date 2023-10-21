@@ -282,10 +282,10 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 @@@  music  @@@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PzbvhKb/Musica-Studios.jpg" group-title="MUSIC",Musica Studios
-https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
+##https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28ByD6TV/Aquarius-Musikindo.jpg" group-title="MUSIC",Aquarius Musikindo
-https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+##https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg"  group-title="MUSIC",imtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
@@ -623,34 +623,34 @@ https://ythlsgo.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/fR2xrkbk/Tarbiyah-Sunnah-Channel.png",Tarbiyah Sunnah Channel
-https://kister.net/mpl/yt2m3u8?w=@TarbiyahSunnahChannel
+##https://kister.net/mpl/yt2m3u8?w=@TarbiyahSunnahChannel
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/xCs5nqsk/TV-An-Nashihah.jpg",TV An-Nashihah
-https://kister.net/mpl/yt2m3u8?w=@tvannashihah
+##https://kister.net/mpl/yt2m3u8?w=@tvannashihah
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/5Nrr8KSH/Marhaban-TV.jpg",Marhaban TV
-https://kister.net/mpl/yt2m3u8?w=@MarhabanTVGarut
+##https://kister.net/mpl/yt2m3u8?w=@MarhabanTVGarut
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/L8R9FsGB/KHB-TV.jpg",KHB TV
-https://kister.net/mpl/yt2m3u8?w=@khalidbasalamah
+##https://kister.net/mpl/yt2m3u8?w=@khalidbasalamah
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/QMhrwn96/Sunnah-Jalan-Pasti-TV.jpg",SunnahJalanPasti TV
-https://kister.net/mpl/yt2m3u8?w=@SunnahJalanPasti
+##https://kister.net/mpl/yt2m3u8?w=@SunnahJalanPasti
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/7YhhQb8C/Rifqan-TV.png",Rifqan TV
-https://kister.net/mpl/yt2m3u8?w=@RifqanTV
+##https://kister.net/mpl/yt2m3u8?w=@RifqanTV
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/ZRvJZvHn/Albinaa-TV.jpg",Albinaa TV
-https://kister.net/mpl/yt2m3u8?w=@albinaatv
+##https://kister.net/mpl/yt2m3u8?w=@albinaatv
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/xTkWcSVJ/SRB-TV.jpg",SRB TV
 https://kister.net/mpl/yt2m3u8?w=@SyafiqRizaBasalamahOfficial
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/MXkq3ZJ4/Gazwah-TV.jpg",Gazwah TV
-https://kister.net/mpl/yt2m3u8?w=@GazwahTVOfficial
+##https://kister.net/mpl/yt2m3u8?w=@GazwahTVOfficial
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/C1MNDw3G/MedSTV.png",MedSTV
-https://kister.net/mpl/yt2m3u8?w=@MediaSunnahAceh
+##https://kister.net/mpl/yt2m3u8?w=@MediaSunnahAceh
 ##https://h1.intechmedia.net/intech/ch23.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/HLX0Frg4/ARTVISI.png",ARTVISI
@@ -664,10 +664,10 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/MTg6Cpmx/Sunnah-TV.png",Sunnah TV
-https://kister.net/mpl/yt2m3u8?w=@SaudiSunnahTv
+##https://kister.net/mpl/yt2m3u8?w=@SaudiSunnahTv
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/59Pj3fCP/Qur-an-TV.jpg",Qur'an TV
-https://kister.net/mpl/yt2m3u8?w=@SaudiQuranTv
+##https://kister.net/mpl/yt2m3u8?w=@SaudiQuranTv
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/gJWGYT6L/mtq.png",MTQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
