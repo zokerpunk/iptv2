@@ -14,7 +14,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XC7TVw0/RCTI.png" group-title="Nasional",RCTI
 https://github.com/zokerpunk/iptv2/raw/main/lv_0_20231014024603.mp4
-http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+##http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgs9S98M/globalTV.png" group-title="Nasional",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
@@ -89,7 +89,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
 https://github.com/zokerpunk/iptv2/raw/main/lv_0_20231014024603.mp4
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
+##http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/157591
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
 https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
@@ -263,22 +263,7 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvQZH9J/jitv.jpg"  group-title="Local",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
-@@@ games @@@
-
-#EXTINF:-1 group-title="GAMES" tvg-id="" tvg-logo="",Dens Play
-http://210.210.155.37/x6bnqe/s/s101/live.m3u8
-#EXTINF:-1 group-title="GAMES",FIRST WARRIORS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch999)/index.m3u8
-#EXTINF:-1 group-title="GAMES" tvg-id="5ca7f16c37b88b2694731c79" tvg-chno="801" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png",Pluto TV Gamer
-https://bit.ly/3t0Ut0o
-#EXTINF:-1 group-title="GAMES" tvg-id="5812b821249444e05d09cc4c" tvg-chno="815" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png",MinecrafTV
-https://bit.ly/38RwGZW
-#EXTINF:-1 group-title="GAMES" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",Pluto TV E-Sports
-https://bit.ly/3wUSBIQ
-#EXTINF:-1 group-title="GAMES" tvg-id="5f8eccd81062c300078a11df" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",Gaming TV
-https://bit.ly/3MZ583U
-
-@@@  musiC  @@@
+@@@  music  @@@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg"  group-title="MUSIC",imtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
@@ -356,6 +341,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 
 
 @@@@@@@ SPORTS @@@@@@@
+
+
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/ZnK17zGm/densplay.jpg",Dens Play
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
+
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36pCXkrol7QeYM8ByRJBT95inbKcS9S6m5HaQTKJjpAzmMPlz4UtANXpgX6_vbUP2aVI&usqp=CAU",RedBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
