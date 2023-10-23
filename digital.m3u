@@ -50,6 +50,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ##http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1698081103~acl=/hls-p/ingest_205_*/*~hmac=4fac2796cabe4aa7caa0aa2d33dfb55e88f054be4298cac08de8e77c736f683b/hls-p/ingest_205_720p/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
