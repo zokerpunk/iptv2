@@ -155,6 +155,15 @@ https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sl
 ##http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 ##http://210.210.155.35/session/3080e91c-ed0d-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV dens
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LssYjk/indosiar2.png"  group-title="Nasional2",Indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1698081103~acl=/hls-p/ingest_205_*/*~hmac=4fac2796cabe4aa7caa0aa2d33dfb55e88f054be4298cac08de8e77c736f683b/hls-p/ingest_205_720p/index.m3u8
 ##http://210.210.155.35/qwr9ew/s/s04/02.m3u8
