@@ -88,6 +88,9 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 ##http://210.210.155.35/session/db2970a6-0ab2-11ee-b1c0-b82a72d63267/uq2663/h/h06/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET dens tv
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
