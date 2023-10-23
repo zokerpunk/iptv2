@@ -114,7 +114,8 @@ https://etslive-2-vidio-com.secureswiftcontent.com/exp=1698082332~acl=/hls-p/ing
 http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
-http://210.210.155.35/qwr9ew/s/s107/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+##http://210.210.155.35/qwr9ew/s/s107/index.m3u8
 
 !-- Nasional2 -->
 
