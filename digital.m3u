@@ -158,10 +158,10 @@ https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sl
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSyBCtX/antv2.png"  group-title="Nasional2",ANTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV dens
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSyBCtX/antv2.png"  group-title="Nasional2",ANTV dens
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LssYjk/indosiar2.png"  group-title="Nasional2",Indosiar
