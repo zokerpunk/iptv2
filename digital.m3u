@@ -147,9 +147,10 @@ https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSyBCtX/antv2.png"  group-title="Nasional2",ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-http://210.210.155.35/session/3080e91c-ed0d-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/01.m3u8
+https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sleng.m3u8?enc=G3qxjbqA5g2qyMkpOunkOg&uid=&exp=1698088023
+##http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+##http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+##http://210.210.155.35/session/3080e91c-ed0d-11ed-b1c0-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LssYjk/indosiar2.png"  group-title="Nasional2",Indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1698081103~acl=/hls-p/ingest_205_*/*~hmac=4fac2796cabe4aa7caa0aa2d33dfb55e88f054be4298cac08de8e77c736f683b/hls-p/ingest_205_720p/index.m3u8
