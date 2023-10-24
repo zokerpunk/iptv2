@@ -1,33 +1,10 @@
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/bobbyBakary/Btv/main/dup_0x7f08011a-removebg-preview%20(2).png?dl=0" group-title="PLAYLIST TERBARU",Preview
-https://raw.githubusercontent.com/bobbyBakary/Btv/main/VID_20220526221756.mp4?dl=0
-
-
-============================================= LIVE EVENT =============================================
-=====================================================================================================
-#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",Aston Villa VS Crystal Pallace
-
-
-#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",MU VS BHA
-
-
-#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",Tottenham VS Sheefield
-
-
-#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",WHU VS MCI
-
-
-#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",SC Freiburg VS B.Dortmun
-
-
-============================================= LOCAL =============================================
-=====================================================================================================
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Local",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",SCTV
+#EXTINF:0 tvg-logo="" group-title="Local",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 http://103.166.27.2:800/play/a015
