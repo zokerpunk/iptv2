@@ -46,14 +46,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV
-##https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ##http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV dens
 ##https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV
-https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sleng.m3u8?enc=G3qxjbqA5g2qyMkpOunkOg&uid=&exp=1698088023
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV 
+##https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sleng.m3u8?enc=G3qxjbqA5g2qyMkpOunkOg&uid=&exp=1698088023
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1698181515~acl=/hls-p/ingest_205_*/*~hmac=e8a11658980fa8b472e95bd66da3ae85047cbc0706686d1b9f7c21a022754243/hls-p/ingest_205_720p/index.m3u8
