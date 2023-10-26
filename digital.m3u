@@ -244,7 +244,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 @@@@ LOCAL @@@
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/nzBNhfs8/vtv5.png" group-title="local",vtv5
+#EXTINF:0 tvg-logo="https://i.postimg.cc/nzBNhfs8/vtv5.png" group-title="Local",vtv5
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM2g6CKp/Kilisuci-TV.jpg" group-title="Local",Kilisuci TV
