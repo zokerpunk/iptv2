@@ -68,7 +68,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvv9WHDp/trans7.png"  group-title="Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -177,16 +176,22 @@ https://nonton.site:8443/live/ekos/7483/931.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26C1HF0L/trans7-2.png"  group-title="Nasional2",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJMtQmcM/tvone2.png"  group-title="Nasional2",TVONE HD
-http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBhPbt5j/metrotv2.png"  group-title="Nasional2",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fxG7QP7/rtv2.png"  group-title="Nasional2",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNK98MNN/kompastv2.png"  group-title="Nasional2",KOMPAS
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
