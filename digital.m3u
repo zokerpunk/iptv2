@@ -821,8 +821,9 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://h1.intechmedia.net/intech/ch25.m3u8
 
-#EXTINF:-100 group-title="Reliji" user-agent="Mozilla/5.0 (X11; Linux x86_64)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTINF:-100 group-title="Reliji" user-agent="Mozilla/5.0 (X11; Linux x86_64)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
