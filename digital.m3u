@@ -191,6 +191,8 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/PJ0Spsv1/net2.png",NET. HD
+https://iptv.skuy.co.id:2083/local_net_tv/mpegts?token=edH66lu6VfOhZ2
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
