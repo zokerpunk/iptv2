@@ -67,7 +67,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1698094914~acl=/hls-p/ingest_204_*
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvv9WHDp/trans7.png"  group-title="Nasional",Trans 7
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -816,6 +817,8 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 https://h1.intechmedia.net/intech/ch24.m3u8
 
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://h1.intechmedia.net/intech/ch25.m3u8
 
 #EXTINF:-100 group-title="Reliji" user-agent="Mozilla/5.0 (X11; Linux x86_64)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
