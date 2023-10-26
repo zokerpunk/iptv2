@@ -244,6 +244,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 @@@@ LOCAL @@@
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/nzBNhfs8/vtv5.png" group-title="local",vtv5
+http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM2g6CKp/Kilisuci-TV.jpg" group-title="Local",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
@@ -470,15 +473,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 @@@@@@@ SPORTS @@@@@@@
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="
-@@@ live event @@@
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="SPORT"​, COURT 1
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="SPORT"​, COURT 2
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/hls/JV_SportsHD4_DIG_MOB-audio_98835_eng=98800-video=1173600.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="SPORT",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
@@ -509,19 +503,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/t86k52Y/sportstars2.jpg",Mnc Sportstar 2 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/VNV0cjSH/sportstart2.png",Mnc Sportstar 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/cChvvBJ/sportstars3.jpg",Mnc Sportstar 3 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/mkL2KkLg/mncsportstart3.jpg",Mnc Sportstar 3 
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://i.ibb.co/9qymskv/sportstar4.jpg",Mnc Sportstars 4 
+#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="" tvg-logo="https://i.ibb.co/9qymskv/sportstar4.jpg",Mnc Sportstars 4 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",beIN Sports HD
@@ -541,21 +535,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/fLhDLqJd/unifi-sport.png",unufi sport
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/13Ns0VVs/astro1.png",astro sport 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
-
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/bJLhYQWH/astro2.png",astro sport 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
-
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/cCHNvvNq/astro3.jpg",astro sport 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
-
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/V6zwc7Gk/astro4.jpg",astro sport 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
-
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5NrfFS0s/astro5.jpg",astro sport 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/xT74xBGS/astrohd.jpg",astro sport 1
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1111034&extension=ts&shareext@ASSP1
@@ -583,15 +562,6 @@ http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/0ypdnH0V/hub3.jpg",hub sports 3
 http://shareext@connect.proxytx.cloud/play/live.php?mac=00:1A:79:c1:f3:dc&stream=1110665&extension=ts&shareext@HubSports4
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/TPYXRdgz/astro-arena.png",astro arena
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157485
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/J0z690Xn/astrocriket.png",astro criket
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157565
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/vH5dnW6y/realmadrid-tv.png",REAL MADRID TV
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/jqpbC82v/mu-tv2.png",MU TV 2
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -764,13 +734,10 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="SPORT",LIVE 1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="SPORT",LIVE 2
-http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
-
 @@@@@@# RELIJI @@@@@@@
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/xCW5q6kW/rtbg.jpg" group-title="Reliji",rtbgo
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png"group-title="Reliji",Life
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
