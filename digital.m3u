@@ -56,11 +56,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ##https://cdnbal1.indihometv.com/joss/130/antv720/chunklist_w1040261418_b944100_sleng.m3u8?enc=G3qxjbqA5g2qyMkpOunkOg&uid=&exp=1698088023
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1698181515~acl=/hls-p/ingest_205_*/*~hmac=e8a11658980fa8b472e95bd66da3ae85047cbc0706686d1b9f7c21a022754243/hls-p/ingest_205_720p/index.m3u8
+https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2 
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1698094914~acl=/hls-p/ingest_204_*/*~hmac=b44b281eda7f0bcc73e71a9398e4a3dd02d3253048ff4f1803676bfb825ae5ea/hls-p/ingest_204_720p/index.m3u8
+https://nonton.site:8443/live/ekos/7483/931.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYyQr4vN/transtv.png"  group-title="Nasional",Trans TV
