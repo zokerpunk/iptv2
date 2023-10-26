@@ -818,7 +818,8 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://h1.intechmedia.net/intech/ch25.m3u8
 
-#EXTINF:-100 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+#EXTINF:-100 group-title="Reliji" user-agent="Mozilla/5.0 (X11; Linux x86_64)" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch27.m3u8
 
 #EXTINF:-1 user-agent="Mozilla/5.0 (X11; Linux x86_64)" tvg-logo="https://i.postimg.cc/W3kbdVVy/albajrah.png" group-title="Reliji",Al Bahjah TV
