@@ -480,6 +480,7 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8xqP7F21lrtTR9SXsiaCA4pX9t_cHki0mHbXmFFzjHn-NTOJARsQyK5YT_RtjNyS8qc&usqp=CAU" group-title="KIDS",Hip Hip Horee
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
