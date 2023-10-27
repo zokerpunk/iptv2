@@ -11,6 +11,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://tvnid.x10.mx/vidio/master-2.m3u8
+https://s.id/1V5RG
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,7 +52,7 @@ https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
 https://nonton.site:8443/live/ekos/7483/931.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYyQr4vN/transtv.png"  group-title="Nasional",Trans TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvv9WHDp/trans7.png"  group-title="Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -150,7 +153,7 @@ https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
 https://nonton.site:8443/live/ekos/7483/931.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2gQZRN1/transtv2.png"  group-title="Nasional2",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26C1HF0L/trans7-2.png"  group-title="Nasional2",Trans 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
