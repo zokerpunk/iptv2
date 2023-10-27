@@ -11,9 +11,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-http://tvnid.x10.mx/vidio/master-2.m3u8
-https://s.id/1V5RG
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/01.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
