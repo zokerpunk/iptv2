@@ -1018,23 +1018,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ct9xzDp/hits.jpg" group-title="PREMIUM",Hits 
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8 
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dTVzkZP/fhitsmovie.png" group-title="PREMIUM",Hits Movies 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD5XXz0/cinamax.png" group-title="PREMIUM",Cinemax 
-https://ktpremium.com:443/mw007/3300722007/901187
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 2
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298527
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 3
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298528
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 4
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
+https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1050,16 +1039,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 ##http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2FY689Z/tvnmovies.png" group-title="PREMIUM",Tvn Movies 
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd 
 ##https://ktpremium.com:443/mw007/3300722007/73986
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TKZVJn6/k.jpg" group-title="PREMIUM",K+ 
-http://210.210.155.35/uq2663/h/h08/index.m3u8 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1075,41 +1060,38 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 ##https://ktpremium.com:443/mw007/3300722007/26009
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZNJTC/mbc.jpg" group-title="PREMIUM",Mbc 
-https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ3vVbM/ccm.png" group-title="PREMIUM",Ccm 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="PREMIUM",Ccm 
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sC27NH3/imc.jpg" group-title="PREMIUM",Imc 
-https://ktpremium.com:443/mw007/3300722007/73869
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sC27NH3/imc.jpg" group-title="PREMIUM",Imc* 
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd 
+##https://ktpremium.com:443/mw007/3300722007/73869
 
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Galaxy_Technology_Logo.png" group-title="PREMIUM",Galaxy
-https://ktpremium.com:443/mw007/3300722007/812074
-
-#EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Galaxy_Technology_Logo.png" group-title="PREMIUM",Galaxy*
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+##https://ktpremium.com:443/mw007/3300722007/812074
 
 #EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/28eb0433661738.56b2ef0f6d976.png" group-title="PREMIUM",Galaxy Premium
-https://ktpremium.com:443/mw007/3300722007/73863
-
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/28eb0433661738.56b2ef0f6d976.png" group-title="PREMIUM",Galaxy Premium*
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+##https://ktpremium.com:443/mw007/3300722007/73863
+
+#EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="PREMIUM",Arirang World
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3d94VR9/cinemaeurope.jpg" group-title="PREMIUM",Mce 
 http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8 
@@ -1120,11 +1102,26 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gx918cv/rockext.jpg" group-title="PREMIUM",Rock Ext
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
-#EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="PREMIUM",Arirang World
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZNJTC/mbc.jpg" group-title="PREMIUM",Mbc 
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKZVJn6/k.jpg" group-title="PREMIUM",K+ 
+http://210.210.155.35/uq2663/h/h08/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD5XXz0/cinamax.png" group-title="PREMIUM",Cinemax 
+https://ktpremium.com:443/mw007/3300722007/901187
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 2
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298527
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 3
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298528
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="PREMIUM",etv bioskop 4
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
 
 <!-- VOD Indonesia -->
 
