@@ -11,7 +11,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -48,7 +47,6 @@ https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
 https://nonton.site:8443/live/ekos/7483/931.m3u8
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -89,8 +87,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET dens
 https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd9wbHZb/TVKU.png"  group-title="Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -98,8 +100,12 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5ngpSXB/SEATODAY.png"  group-title="Nasional",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv.jpg"  group-title="Nasional",Kompas TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZYrLHSf/MAGNA.png"  group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
@@ -110,8 +116,12 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional",Mentari tv
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1698082332~acl=/hls-p/ingest_8237_*/*~hmac=32c9f9154efab602b0bb92789dc8d125df6565914c9133166f38db5e73b1ccd0/hls-p/ingest_8237_720p/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg"  group-title="Nasional",JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+##http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
