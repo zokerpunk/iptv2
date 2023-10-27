@@ -114,6 +114,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional",Mentari tv
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -190,7 +191,12 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65nQ8rDv/ent.jpg"  group-title="Nasional2",MNC Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4VyQ9b/imc.jpg"  group-title="Nasional2",Imc
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 https://ktpremium.com:443/mw007/3300722007/73869
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
