@@ -7,6 +7,39 @@
 #EXTM3U url-tvg="https://github.com/zokerpunk/iptv2"
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 1 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8 
+##EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 2 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 3 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 4 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 5 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 6 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 7 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 8 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 9 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 10 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 11 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 12 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 13 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 14 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+
+
+
 @@@@@@@ Nasional @@@@@@@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
