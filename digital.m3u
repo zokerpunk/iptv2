@@ -11,7 +11,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4vp3GK/moji.png" group-title="Nasional",Moji
 https://drive.usercontent.google.com/download?id=1NVF6TO7TdYOuQ2zB0eEzyRpkjuVR0hVp&export=download&authuser=0&confirm=t&uuid=bbd3407a-4148-4b55-be98-80f462644ff7&at=APZUnTUCTs_86mEs-NgckSqd5vI2:1698448084326
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0026_221130_0600
 ##http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -138,7 +137,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 !-- Nasional2 -->
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTzpNVB/moji2.png"  group-title="Nasional2",Moji
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698634078~acl=/hls-p/ingest_206_*/*~hmac=e9224f9379225bbe2a1a842fa75f3e8883fb5d11fe74757559f66741657bb1d0/hls-p/ingest_206_720p/index.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
