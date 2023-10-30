@@ -428,6 +428,10 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdLpPz5h/musictop.png"  group-title="MUSIC",music top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
+https://mangga-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -533,6 +537,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 @@@@@@@ SPORTS @@@@@@@
 
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="Arena Sport",Arena Sport 1 HD
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="Arena Sport",Arena Sport 2 HD
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="Arena Sport",Arena Sport 3 HD
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="Arena Sport",Arena Sport 4 HD
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="Arena Sport",Arena Sport 5 HD
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="Arena Sport",Arena Sport 6 HD
+http://80.252.37.194:5000/udp/233.233.233.8:12000
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="SPORT",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
@@ -579,16 +601,135 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",beIN Sports HD
-https://ktpremium.com:443/mw007/3300722007/26321
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.hlsjs.ru/lb/premium61/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/vHNYvkFf/beinspot-2.png",beIN Sports 2
-https://ktpremium.com:443/mw007/3300722007/912557
+https://webudit.hlsjs.ru/lb/premium90/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/CxJxq5MM/bein-sport-3.png",beIN Sports 3
 https://ktpremium.com:443/mw007/3300722007/26322
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/5ydMQdZS/bensport-rugby.jpg",beIN Sports Rugby
 https://ktpremium.com:443/mw007/3300722007/918609
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports3en.webp" group-title="beIN Sports",beIN Sports 3 English
+https://webudit.hlsjs.ru/lb/premium46/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports4en.webp" group-title="beIN Sports",beIN Sports 4 English
+https://webudit.hlsjs.ru/lb/premium94/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports1premium.webp" group-title="beIN Sports",beIN Sports 1 Premium
+https://webudit.hlsjs.ru/lb/premium98/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports2premium.webp" group-title="beIN Sports",beIN Sports 2 Premium
+https://webudit.hlsjs.ru/lb/premium99/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports3premium.webp" group-title="beIN Sports",beIN Sports 3 Premium
+https://webudit.hlsjs.ru/lb/premium100/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports1turkey.webp" group-title="beIN Sports",beIN Sports 1 Turkey
+https://webudit.hlsjs.ru/lb/premium62/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports2turkey.webp" group-title="beIN Sports",beIN Sports 2 Turkey
+https://webudit.hlsjs.ru/lb/premium63/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports3turkey.webp" group-title="beIN Sports",beIN Sports 3 Turkey
+https://webudit.hlsjs.ru/lb/premium64/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports4turkey.webp" group-title="beIN Sports",beIN Sports 4 Turkey
+https://webudit.hlsjs.ru/lb/premium67/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports1qatar.webp" group-title="beIN Sports",beIN Sports 1 Qatar
+https://webudit.hlsjs.ru/lb/premium91/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports2qatar.webp" group-title="beIN Sports",beIN Sports 2 Qatar
+https://webudit.hlsjs.ru/lb/premium92/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports3qatar.webp" group-title="beIN Sports",beIN Sports 3 Qatar
+https://webudit.hlsjs.ru/lb/premium93/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports4qatar.webp" group-title="beIN Sports",beIN Sports 4 Qatar
+https://webudit.hlsjs.ru/lb/premium94/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports5qatar.webp" group-title="beIN Sports",beIN Sports 5 Qatar
+https://webudit.hlsjs.ru/lb/premium95/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports6qatar.webp" group-title="beIN Sports",beIN Sports 6 Qatar
+https://webudit.hlsjs.ru/lb/premium96/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports7qatar.webp" group-title="beIN Sports",beIN Sports 7 Qatar
+https://webudit.hlsjs.ru/lb/premium97/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports4maxfr.webp" group-title="beIN Sports",beIN Sports MAX 4 France
+https://webudit.hlsjs.ru/lb/premium494/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports5maxfr.webp" group-title="beIN Sports",beIN Sports MAX 5 France
+https://webudit.hlsjs.ru/lb/premium495/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports6maxfr.webp" group-title="beIN Sports",beIN Sports MAX 6 France
+https://webudit.hlsjs.ru/lb/premium496/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports7maxfr.webp" group-title="beIN Sports",beIN Sports MAX 7 France
+https://webudit.hlsjs.ru/lb/premium497/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports8maxfr.webp" group-title="beIN Sports",beIN Sports MAX 8 France
+https://webudit.hlsjs.ru/lb/premium498/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports9maxfr.webp" group-title="beIN Sports",beIN Sports MAX 9 France
+https://webudit.hlsjs.ru/lb/premium499/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/beinsports10maxfr.webp" group-title="beIN Sports",beIN Sports MAX 10 France
+https://webudit.hlsjs.ru/lb/premium500/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/KcW5L7vj/Usee-Prime.png",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
