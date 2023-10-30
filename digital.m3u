@@ -102,7 +102,6 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkQ5SJDd/jack-tv.png"  group-title="Nasional",JAKTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-##http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd9wbHZb/TVKU.png"  group-title="Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -115,7 +114,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-46
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv.jpg"  group-title="Nasional",Kompas TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-##http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZYrLHSf/MAGNA.png"  group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
@@ -131,7 +129,6 @@ http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298546
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVMy4wz/jtv.jpg"  group-title="Nasional",JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-##http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
@@ -752,7 +749,11 @@ http://shareext@195.26.87.217/live?channelId=269&deviceMac=00:1A:79:33:E9:41|id=
 http://shareext@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41|id=btsport4|shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+https://1.yurend.xyz/dash-wv/linear/2601/default_primary.mpd
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGz9pV/premiersport.jpg" group-title="SPORT", Premier Sport 2
 https://ktpremium.com:443/mw007/3300722007/916970
