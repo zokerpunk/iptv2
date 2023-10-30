@@ -167,11 +167,18 @@ https://mangga-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSyBCtX/antv2.png"  group-title="Nasional2",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LssYjk/indosiar2.png"  group-title="Nasional2",Indosiar *vision+*
+https://nyanv-live-cdn.mncnow.id/live/eds/Indosiar-2/sa_dash_vmx/Indosiar-2.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9LssYjk/indosiar2.png"  group-title="Nasional2",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 ##https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
