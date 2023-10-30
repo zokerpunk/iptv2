@@ -257,6 +257,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional2",Mentari tv
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1698648181~acl=/hls-p/ingest_8237_*/*~hmac=a6f621316cf8777e6c73015ce7d951e271dd2cc9e498fc47c3c6d008ba5ff711/hls-p/ingest_8237_720p/index.m3u8
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
