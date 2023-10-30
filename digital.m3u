@@ -139,12 +139,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 !-- Nasional2 -->
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTzpNVB/moji2.png"  group-title="Nasional2",Moji#
-http://103.166.27.2:800/play/a017
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
-http://rr2.dens.tv/s/s41/index.m3u8
-
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
