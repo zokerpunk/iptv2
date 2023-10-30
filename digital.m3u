@@ -497,10 +497,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/RBP0pDX/horee.jpg", Horee!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264750
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264750
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckH0zq7/cn.jpg" group-title="KIDS",Cartoon Net
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TX0hD7/duniaanak-1.jpg" group-title="KIDS", Dunia Anak
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
@@ -508,8 +512,8 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCvDz9H/disney.jpg" group-title="KIDS",Disney Ch
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8xqP7F21lrtTR9SXsiaCA4pX9t_cHki0mHbXmFFzjHn-NTOJARsQyK5YT_RtjNyS8qc&usqp=CAU" group-title="KIDS",Hip Hip Horee
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yVHRZPf/hip-hore.jpg" group-title="KIDS",Hip Hip Horee
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298536
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -524,7 +528,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 @@@@@@@ SPORTS @@@@@@@
-
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="SPORT",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
