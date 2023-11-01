@@ -7,20 +7,6 @@
 #EXTM3U url-tvg="https://github.com/zokerpunk/epg"
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="NASIONAL",RCTI
-https://mantul.biz.id:443/ekos/748382/190.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="NASIONAL",MNC TV
-https://mantul.biz.id:443/ekos/748382/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="NASIONAL",GTV
-https://mantul.biz.id:443/ekos/748382/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="" group-title="NASIONAL",iNews TV
-https://mantul.biz.id:443/ekos/748382/193.ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD 
-https://mantul.biz.id:443/ekos/748382/192.ts
-
 @@@@@@@ Nasional @@@@@@@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -159,21 +145,25 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/ 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+https://mantul.biz.id:443/ekos/748382/190.ts
 ##https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://mantul.biz.id:443/ekos/748382/192.ts
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/RZxrkMHK/mnctv2.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://mantul.biz.id:443/ekos/748382/191.ts
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Nasional2" tvg-logo="https://i.postimg.cc/yYxR9Hpq/inews2.png",iNews
+https://mantul.biz.id:443/ekos/748382/193.ts
 https://mangga-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
