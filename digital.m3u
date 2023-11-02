@@ -45,18 +45,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtcp6L4c/ANTV.png" group-title="Nasional",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N06BYhqL/indosiar.png" group-title="Nasional",INDOSIAR1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+##https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-##https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV2
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
