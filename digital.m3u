@@ -906,7 +906,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-100 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
+https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
@@ -969,6 +969,7 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://h1.intechmedia.net/intech/ch25.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 
