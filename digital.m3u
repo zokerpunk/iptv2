@@ -876,8 +876,9 @@ https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/play
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 ##https://h1.intechmedia.net/intech/ch16.m3u8
 
-#EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/4Nq0phNX/Izzah-TV.png",Izzah TV
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
+#EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/4Nq0phNX/Izzah-TV.png",naajiya TV
+https://h1.intechmedia.net/intech/ch7.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/gJWGYT6L/mtq.png",MTQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
