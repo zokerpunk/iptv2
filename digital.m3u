@@ -371,7 +371,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvKW4kwP/dutatv.jpg"  group-title="Local",Duta TV
-https://o1.siar.us/dutatv/live/playlist.m3u8
+##https://o1.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRrjR9NG/tegar-tv.png"  group-title="Local",Tegar TV
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
