@@ -887,46 +887,60 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/gJWGYT6L/mtq.png",MTQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/kgQMRCFX/Al-Wafa-Tarim-TV.jpg",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-103 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-106 group-title="Reliji" tvg-logo="https://i.postimg.cc/Bbn4dPdj/wesaltv.png",wesal tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1 group-title="Reliji" tvg-id="tv9nusantara.id" tvg-logo="https://i.postimg.cc/yNMm2V86/tv9.webp",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-100 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/rodja.png",RODJA TV
 http://rr2.dens.tv/s/s14/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-101 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://i.postimg.cc/HkfSvkDf/20221222-095513.png",Madinah TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-106 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
 https://h1.intechmedia.net/intech/ch1.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-104 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
 https://h1.intechmedia.net/intech/ch2.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1  group-title="Reliji" tvg-logo="https://i.postimg.cc/kGR1rjxK/ahsan-tv.png" ,Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1   group-title="Reliji" tvg-logo="https://i.postimg.cc/W4K0RsSY/muadztv.jpg",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
 https://h1.intechmedia.net/intech/ch6.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-109 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg",HIJRAH TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-105 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL IMAN TV
 https://h1.intechmedia.net/intech/ch9.m3u8
 
@@ -935,24 +949,31 @@ https://h1.intechmedia.net/intech/ch9.m3u8
 #EXTINF:-111 group-title="Reliji" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
 https://h1.intechmedia.net/intech/ch10.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-110 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV
 https://h1.intechmedia.net/intech/ch17.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://i.postimg.cc/sf8SvfrV/madani-tv.png",Bina Madani TV
 https://h1.intechmedia.net/intech/ch20.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-116 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-108 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg",ALFURQON TV
 https://h1.intechmedia.net/intech/ch24.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://live.artvisi.or.id/logo/mgitv.png",MGI TV
 https://h1.intechmedia.net/intech/ch25.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
 https://h1.intechmedia.net/intech/ch27.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Xiaomi M2003J15SC Build/SP1A.210812.016) IPTV/6.1.11
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3kbdVVy/albajrah.png" group-title="Reliji",Al Bahjah TV
 https://h1.intechmedia.net/intech/ch64.m3u8
 
