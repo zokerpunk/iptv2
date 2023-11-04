@@ -150,15 +150,10 @@ http://abf.filmbluray.id/7rmsohz
 http://abf.filmbluray.id/7xbzfqa
 
 @@@ vidio.com @@@
-#EXTINF:-1 group-title="vidio.com" tvg-logo="http://pictures.my.id/images/fat.png",Enter The Fat Dragon 
-http://abf.filmbluray.id/7x9al2o
 #EXTINF:-1 group-title="vidio.com" tvg-logo="http://pictures.my.id/images/equal1.png",The Equalizer 1 
 http://abf.filmbluray.id/7mkrfo6
 #EXTINF:-1 group-title="vidio.com" tvg-logo="http://pictures.my.id/images/jumanji.png",Jumanji : The Next Level 
 http://abf.filmbluray.id/39v93kw
-#EXTINF:-1 group-title="vidio.com" tvg-logo="http://pictures.my.id/images/cult.png",The Kung Fu Cult Master (1993)
-http://abf.filmbluray.id/95boviw
-
 
 @@@ MARVEL @@@
 
@@ -184,8 +179,6 @@ http://abf.filmbluray.id/2ac83zn
 http://abf.filmbluray.id/d8jy72p
 #EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/league.png",Justice League 
 http://abf.filmbluray.id/f3ldqgf
-#EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/spider1.png",Spider-Man 1 
-http://abf.filmbluray.id/d8jy72p
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://i.jeded.com/i/spider-man-far-from-home.160962.jpg",spider-man : far from home 
 http://abf.filmbluray.id/aec3308
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://i.jeded.com/i/the-incredible-hulk.186913.jpg",The Incredible Hulk 
@@ -311,6 +304,12 @@ http://abf.filmbluray.id/7sr3zb3
 http://abf.filmbluray.id/6d8390o
 #EXTINF:-1 group-title="china dll" tvg-logo="http://pictures.my.id/images/hero.png",Hero 
 http://abf.filmbluray.id/6cmh3l5
+#EXTINF:-1 group-title="china dll" tvg-logo="http://pictures.my.id/images/cult.png",The Kung Fu Cult Master (1993)
+http://abf.filmbluray.id/95boviw
+#EXTINF:-1 group-title="china dll" tvg-logo="http://pictures.my.id/images/fat.png",Enter The Fat Dragon 
+http://abf.filmbluray.id/7x9al2o
+#EXTINF:-1 group-title="china dll" tvg-logo="http://pictures.my.id/images/btlwarrior.png",Battle of The Warriors 
+http://abf.filmbluray.id/96t86g3
 
 
 @@@ Box office @@@
@@ -361,8 +360,6 @@ http://abf.filmbluray.id/8yz2m8a
 http://abf.filmbluray.id/8z4jo2v
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/James-Bond-1983.png",Octopussy 
 http://abf.filmbluray.id/900kx2m
-#EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/btlwarrior.png",Battle of The Warriors 
-http://abf.filmbluray.id/96t86g3
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/humming.png",Hummingbird 
 http://abf.filmbluray.id/97un5ay
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/Guns-Akimbo.png",Guns Akimbo 
