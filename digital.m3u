@@ -831,25 +831,14 @@ https://h1.intechmedia.net/intech/ch25.m3u8
 https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
-#EXTINF:-100 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
-https://h1.intechmedia.net/intech/ch27.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/4Nq0phNX/Izzah-TV.png",Izzah TV
 https://h1.intechmedia.net/intech/ch28.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
-#EXTINF:-1 group-title="Reliji"tvg-logo="https://i.postimg.cc/W3kbdVVy/albajrah.png" ,Al Bahjah TV
-https://h1.intechmedia.net/intech/ch64.m3u8
 
 #EXTINF:-106 group-title="Reliji" tvg-logo="https://i.postimg.cc/Bbn4dPdj/wesaltv.png",wesal tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://i.postimg.cc/yNMm2V86/tv9.webp",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-#EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/MHjm8wvV/MTATV.png",MTA TV
-https://ythlsgo.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://i.postimg.cc/Ss7RHtGV/TV10.jpg",TV 10
 https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
@@ -881,6 +870,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="RELIGIOUS", Khazanah
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.m3u8
+
+#EXTINF:-1 group-title="Reliji"tvg-logo="https://i.postimg.cc/W3kbdVVy/albajrah.png" ,Al Bahjah TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-100 group-title="Reliji" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
 @@@@ LOCAL @@@
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/nzBNhfs8/vtv5.png" group-title="Local",vtv5
