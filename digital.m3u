@@ -95,7 +95,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET HD
-http://humiptv.live:8080/live/56565656/56565656/151268.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
