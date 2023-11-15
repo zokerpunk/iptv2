@@ -55,8 +55,8 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzMxmX99/sctv.webp" group-title="Nasional",SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-http://103.30.87.238:443/wadmanet/norlec212/890
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
