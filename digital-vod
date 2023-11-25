@@ -25,8 +25,6 @@ http://37.26.86.39:48768/movies/traintobusan.mp4
 http://37.26.86.39:48768/movies/traintobusan2.mp4
 #EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/meg.png",The Meg 
 http://abf.filmbluray.id/3b5izut
-#EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 03
-http://abf.filmbluray.id/3bepvs2
 #EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/post.png",The Postcard Killings 
 http://abf.filmbluray.id/3bzj3xa
 #EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/spacejam.png",Space Jam (1996)
@@ -64,8 +62,6 @@ http://abf.filmbluray.id/473okas
 http://abf.filmbluray.id/48kll0y
 #EXTINF:-1 group-title="HITS" tvg-logo="http://pictures.my.id/images/trip.png",Bad Trip 
 http://abf.filmbluray.id/4biqd0n
-#EXTINF:-1 group-title="HITS" tvg-logo="http://pictures.my.id/images/harry2.png",Harry Potter And The Chamber Of Secrets 
-http://abf.filmbluray.id/4bnd6kb
 #EXTINF:-1 group-title="HITS" tvg-logo="https://photos.my.id/images/exOK.png",The Meaning of Life 
 http://abf.filmbluray.id/4cq6mq5
 #EXTINF:-1 group-title="HITS" tvg-logo="http://pictures.my.id/images/beast2.png",Fantastic Beasts : The Crimes of Grindelwald
@@ -158,6 +154,8 @@ http://abf.filmbluray.id/7mkrfo6
 http://abf.filmbluray.id/39v93kw
 
 @@@ MARVEL @@@
+#EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/aquaman.png",Aquaman 
+http://abf.filmbluray.id/0es5mcu
 #EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/mansteel.png",Man of Steel 
 http://abf.filmbluray.id/31as2d2
 #EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/x7.png",The Wolverine  X-Men
@@ -363,13 +361,36 @@ http://abf.filmbluray.id/bfk1fv7
 http://abf.filmbluray.id/6mwv689
 #EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/robo2.png",RoboCop 2 
 http://abf.filmbluray.id/g54f7qz
+#EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/skyline.png",Beyond Skyline 
+http://abf.filmbluray.id/fjo5jl7
+
+@@@ dunia sihir @@@
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/harry8.png",Harry Potter And The Deathly Hallows Part 2 
+http://abf.filmbluray.id/ea2zmgi
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/harry6.png",Harry Potter And The Half-Blood Prince 
+http://abf.filmbluray.id/fp0mtmn
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/harry3.png",Harry Potter And The Prisoner Of Azkaban 
+http://abf.filmbluray.id/hhydebl
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/harry7.png",Harry Potter And The Deathly Hallows Part 1 
+http://abf.filmbluray.id/080i6nx
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/harry2.png",Harry Potter And The Chamber Of Secrets 
+http://abf.filmbluray.id/4bnd6kb
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/cinder.png",Cinderella 
+http://abf.filmbluray.id/dshrfh7
 
 
 
-@@@ prime vidio @@@
-#EXTINF:-1 group-title="prime vidio" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 11
+@@@ Kung Fu Panda @@@
+#EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 01
+http://abf.filmbluray.id/eeh5g6e
+#EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 02
+http://abf.filmbluray.id/1zu8def
+#EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 03
+http://abf.filmbluray.id/3bepvs2
+#EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 06
+http://abf.filmbluray.id/9rpw1ze
+#EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 11
 http://abf.filmbluray.id/93qij73
-
 
 @@@ jepang @@@
 
@@ -379,6 +400,8 @@ http://abf.filmbluray.id/cv6esjf
 http://abf.filmbluray.id/ca7iypb
 #EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kensin3.png",Rurouni Kenshin : The Legend Ends 
 http://abf.filmbluray.id/7jc52ye
+#EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kaguyalove.png",Kaguya-sama : Love Is War 
+http://abf.filmbluray.id/0m0uapm
 
 
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/pride.png",Pride And Prejudice And Zombies 
@@ -409,9 +432,6 @@ http://abf.filmbluray.id/9idkhpw
 http://abf.filmbluray.id/9m1kago
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/ultras.png",Ultras (2020)
 http://abf.filmbluray.id/9p9ywqs
-
-#EXTINF:-1 group-title="UNCATAGORY 2" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 06
-http://abf.filmbluray.id/9rpw1ze
 #EXTINF:-1 group-title="UNCATAGORY 2" tvg-logo="http://pictures.my.id/images/Shrek-1.png",Shrek 1 
 http://abf.filmbluray.id/9x3fcsb
 #EXTINF:-1 group-title="UNCATAGORY 2" tvg-logo="http://pictures.my.id/images/kong2.png",Kong : Skull Island 
@@ -505,8 +525,6 @@ http://abf.filmbluray.id/dkxdqpx
 http://abf.filmbluray.id/dsgqqpn
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/miss2.png",Miss Congeniality 2: Armed and Fabulous 
 http://abf.filmbluray.id/dsh91z6
-#EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/cinder.png",Cinderella 
-http://abf.filmbluray.id/dshrfh7
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/reddragon.png",Hannibal - Red Dragon 
 http://abf.filmbluray.id/dsj6gnc
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/banker.png",The Banker 
@@ -523,10 +541,6 @@ http://abf.filmbluray.id/e1bqp4y
 http://abf.filmbluray.id/e1ou7sb
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/kikis.png",Kiki's Delivery Service 
 http://abf.filmbluray.id/e33qeyb
-#EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/harry8.png",Harry Potter And The Deathly Hallows Part 2 
-http://abf.filmbluray.id/ea2zmgi
-#EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 01
-http://abf.filmbluray.id/eeh5g6e
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/lethal4.png",Lethal Weapon 4 
 http://abf.filmbluray.id/ef0ditd
 #EXTINF:-1 group-title="UNCATAGORY 4" tvg-logo="http://pictures.my.id/images/suicide.png",Suicide Squad 
@@ -570,14 +584,10 @@ http://abf.filmbluray.id/fanoe9l
 http://abf.filmbluray.id/fc4i6ca
 #EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/mi6.png",Mission : Impossible - Fallout 
 http://abf.filmbluray.id/fgp2klb
-#EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/skyline.png",Beyond Skyline 
-http://abf.filmbluray.id/fjo5jl7
 #EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/James-Bond-1974.png",The Man with the Golden Gun 
 http://abf.filmbluray.id/fkfkklw
 #EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/edge.png",Edge of Tomorrow 
 http://abf.filmbluray.id/fkniq7u
-#EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/harry6.png",Harry Potter And The Half-Blood Prince 
-http://abf.filmbluray.id/fp0mtmn
 #EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/James-Bond-1967.png",You Only Live Twice 
 http://abf.filmbluray.id/fxyzmxz
 #EXTINF:-1 group-title="UNCATAGORY 5" tvg-logo="http://pictures.my.id/images/hanrise.png",Hannibal - Hannibal Rising 
@@ -623,8 +633,6 @@ http://abf.filmbluray.id/h6u7kcn
 http://abf.filmbluray.id/h7zngop
 #EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/victor.png",Victor Frankenstein 
 http://abf.filmbluray.id/h9tw0lb
-#EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/harry3.png",Harry Potter And The Prisoner Of Azkaban 
-http://abf.filmbluray.id/hhydebl
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/woods.png",Into The Woods 
 http://abf.filmbluray.id/hkjytvo
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/3001.png",300 
@@ -659,16 +667,10 @@ http://abf.filmbluray.id/iawcbx2
 http://abf.filmbluray.id/iawm149
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/shoot.png",Shoot Em Up 
 http://abf.filmbluray.id/05jusrk
-#EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/harry7.png",Harry Potter And The Deathly Hallows Part 1 
-http://abf.filmbluray.id/080i6nx
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/witch.png",The Last Witch Hunter 
 http://abf.filmbluray.id/0d9ut5p
-#EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/aquaman.png",Aquaman 
-http://abf.filmbluray.id/0es5mcu
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/bright0b7c1d77efbc088d.png",Bright 
 http://abf.filmbluray.id/0hagfsq
-#EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/kaguyalove.png",Kaguya-sama : Love Is War 
-http://abf.filmbluray.id/0m0uapm
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/Jojo-Rabbit.png",Jojo Rabbit 
 http://abf.filmbluray.id/0mn9mmp
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/soccerkill.png",Soccer Killer 
@@ -696,7 +698,6 @@ http://abf.filmbluray.id/15t1yp3
 http://abf.filmbluray.id/1ku88hr
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/sky.png",Skyscraper
 http://abf.filmbluray.id/1ucrihs
-#EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 02
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/myspy.png",My Spy 
 http://abf.filmbluray.id/2j36yoe
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/hunger3.png",The Hunger Games : Mockingjay Part 1 
@@ -707,7 +708,6 @@ http://abf.filmbluray.id/2k1i35i
 http://abf.filmbluray.id/2osen5l
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/watchmen.png",Watchmen 
 http://abf.filmbluray.id/2uhai4v
-http://abf.filmbluray.id/1zu8def
 #EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/James-Bond-1979.png",Moonraker 
 http://abf.filmbluray.id/313n7ow
 #EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/lovebirds.png",The Lovebirds 
