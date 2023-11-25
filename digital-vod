@@ -138,8 +138,6 @@ http://abf.filmbluray.id/6rnvvvj
 http://abf.filmbluray.id/6yrihiw
 #EXTINF:-1 group-title="BEST OF" tvg-logo="http://pictures.my.id/images/trucks.png",Monster Trucks 
 http://abf.filmbluray.id/713b5e8
-#EXTINF:-1 group-title="BEST OF" tvg-logo="http://pictures.my.id/images/kensin3.png",Rurouni Kenshin : The Legend Ends 
-http://abf.filmbluray.id/7jc52ye
 #EXTINF:-1 group-title="BEST OF" tvg-logo="http://pictures.my.id/images/birdbox.png",Bird Box 
 http://abf.filmbluray.id/7jdrrzb
 #EXTINF:-1 group-title="BEST OF" tvg-logo="http://pictures.my.id/images/wuhan.png",The Lockdown : One Month in Wuhan 
@@ -342,6 +340,17 @@ http://abf.filmbluray.id/ewgs5mh
 #EXTINF:-1 group-title="prime vidio" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 11
 http://abf.filmbluray.id/93qij73
 
+
+@@@ jepang @@@
+
+#EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kensin2.png",Rurouni Kenshin : Kyoto Inferno 
+http://abf.filmbluray.id/cv6esjf
+#EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kensin1.png",Rurouni Kenshin : Origins 
+http://abf.filmbluray.id/ca7iypb
+#EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kensin3.png",Rurouni Kenshin : The Legend Ends 
+http://abf.filmbluray.id/7jc52ye
+
+
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/pride.png",Pride And Prejudice And Zombies 
 http://abf.filmbluray.id/825z9fs
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/James-Bond-1999.png",The World Is Not Enough 
@@ -431,8 +440,6 @@ http://abf.filmbluray.id/c3mwtbc
 http://abf.filmbluray.id/c49aydo
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/wayback.png",The Way Back (2020)
 http://abf.filmbluray.id/c52146v
-#EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/kensin1.png",Rurouni Kenshin : Origins 
-http://abf.filmbluray.id/ca7iypb
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/kingarthur.png",King Arthur 
 http://abf.filmbluray.id/cfvj5ey
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/re1.png",Resident Evil 
@@ -447,8 +454,6 @@ http://abf.filmbluray.id/cj4thro
 http://abf.filmbluray.id/crb04gu
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/tomorrow.png",Tomorrowland 
 http://abf.filmbluray.id/ctkk9sk
-#EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/kensin2.png",Rurouni Kenshin : Kyoto Inferno 
-http://abf.filmbluray.id/cv6esjf
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/jack.png",Jack The Giant Slayer 
 http://abf.filmbluray.id/cvdd29m
 #EXTINF:-1 group-title="UNCATAGORY 3" tvg-logo="http://pictures.my.id/images/dolittle.png",Dolittle 
