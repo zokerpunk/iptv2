@@ -1,6 +1,15 @@
 
-
-
+@@@ terbaru @@@
+#EXTINF:-1 group-title="terbaru" tvg-logo="http://pictures.my.id/images/James-Bond-1979.png",Moonraker 
+http://abf.filmbluray.id/313n7ow
+#EXTINF:-1 group-title="terbaru" tvg-logo="http://pictures.my.id/images/lovebirds.png",The Lovebirds 
+http://abf.filmbluray.id/3256pni
+#EXTINF:-1 group-title="terbaru" tvg-logo="http://pictures.my.id/images/lambs.png",Hannibal - The Silence of the Lambs 
+http://abf.filmbluray.id/32y5iko
+#EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/artemis.png",Artemis Fowl 
+http://abf.filmbluray.id/37hnc4i
+#EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/death1.png",Happy Death Day
+http://abf.filmbluray.id/3891y4u
 #EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/bill2.png",Kill Bill Volume 2 
 http://abf.filmbluray.id/1dkgnf9
 #EXTINF:-1 group-title="TERBARU" tvg-logo="http://pictures.my.id/images/tron.png",Tron Legacy 
@@ -170,7 +179,7 @@ http://abf.filmbluray.id/01l2rdj
 http://abf.filmbluray.id/b5iacz8
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://i.jeded.com/i/captain-america-the-first-avenger.7933.jpg",Captain America : The First Avengers 
 http://abf.filmbluray.id/h4z3ytj
-#EXTINF:-1 group-title="TERBARU" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
+#EXTINF:-1 group-title="MARVEL" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
 http://abf.filmbluray.id/9mmhxus
 #EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/mib2.png",Men in Black 2 
 http://abf.filmbluray.id/3zp1caf
@@ -198,6 +207,12 @@ http://abf.filmbluray.id/608l1q4
 http://abf.filmbluray.id/7u0hfmm
 #EXTINF:-1 group-title="MARVEL" tvg-logo="https://i.jeded.com/i/thor-the-dark-world.164346.jpg",thor : the dark world 
 http://abf.filmbluray.id/58wuofk
+#EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/watchmen.png",Watchmen 
+http://abf.filmbluray.id/2uhai4v
+#EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/shazam.png",Shazam! 
+http://abf.filmbluray.id/gsswjrt
+#EXTINF:-1 group-title="MARVEL" tvg-logo="http://pictures.my.id/images/victor.png",Victor Frankenstein 
+http://abf.filmbluray.id/h9tw0lb
 
 @@@ Mr. Bean @@@
 
@@ -250,6 +265,11 @@ http://abf.filmbluray.id/1ygdv3v
 http://abf.filmbluray.id/gjbsrp3
 #EXTINF:-1 group-title="komik" tvg-logo="http://pictures.my.id/images/cityhunter.png",City Hunter 
 http://abf.filmbluray.id/glwr5ti
+
+@@@ perang jadul @@@
+#EXTINF:-1 group-title="perang jadul" tvg-logo="http://pictures.my.id/images/3001.png",300 
+http://abf.filmbluray.id/hkk45dt
+
 
 @@@ china dll @@@ 
 #EXTINF:-1 group-title="china dll" tvg-logo="http://pictures.my.id/images/odyssey1.png",A Chinese Odyssey Part One : Pandora's Box 
@@ -328,6 +348,43 @@ http://abf.filmbluray.id/96t86g3
 
 @@@ Box office @@@
 
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/JzrpzbSB/scream.jpg" group-title="Box office", sream 
+#EXTVLCOPT:sub-file=http://23.226.71.77/znPWCgtu-0BJ2x7yhuPCIyHnR5NBkgYZ2L8aeBUoVeNGRpEs8IJ7wuvZ3zfsk4bt9Y0ME8ukyKY1uePeRkERUw/OTM58Bv1J6SXWFyYVBbnYgocEwgMhh9O0ixCN4bWNXU/thumbnail.vtt
+#EXTVLCOPT:subsdec-encoding=System Default
+#EXTVLCOPT:subsdec-align=0
+#EXTVLCOPT:freetype-rel-fontsize=16
+#EXTVLCOPT:sub-fps=0
+#EXTVLCOPT:sub-delay=0
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/Rg-NqEVpl6xrkoe4N1pWjUDz6DfW4gfdQVUmfCQEdzvo5u5KmqQyMMxD1-J_dtAeFFEwzbk04KsWnfh3vAd45g/xPlQ2QeZIoPbRZEJ9itCB2Ao1saU2ZEeJ2rT5MmWajU/1080.m3u8
+
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/yMeKoe3ui4Pad8FUOJwCby3SOWe-146x218.jpg",Death's Roulette (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161866-webdl-1080-terbit21-com-deaths-roulette-2023.mp4
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN-150x225.jpg",Dead Shot (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161834-webrip-1080-terbit21-com-dead-shot-2023.mp4
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/n8ZpMwYT02XjpQHpSxn1eJw5Zpz-146x218.jpg",Crater (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161845-webdl-1080-terbit21-com-crater-2023.mp4
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/vnRthEZz16Q9VWcP5homkHxyHoy-146x218.jpg",The Mother (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161848-webrip-1080-terbit21-com-the-mother-2023.mp4
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/cxSKca4dNlk7O7PMiEYT203vlIw-146x218.jpg",One Day As a Lion (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ns2.ruby.gift/play/driveid-161063-webrip-720-terbit21-com-one-day-as-a-lion-2023.mp4
+#EXTINF:-1 group-title="Box office"tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/p6yUjhvNGQpFZilKwOKbxQ1eHlo-146x218.jpg",Renfield (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161135-webrip-1080-terbit21-com-renfield-2023.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/qvRPgV3r/download-1.jpg" group-title="Box office",AKA (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/uvt04xFnBFHQ33gasPEdli3kYqCQNdSJbHdv93DEB8qdd1CuHYaWVb_XmLmD-Au0eKq_Yz9bh6T95Gt7Fpg9CA/LT-2yNnbmQzoRVduBalNmWZVJdY9MFt-SPDCmEpTIyw/1080.m3u8
+#EXTINF:-1 group-title="Box office" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/8OyzvMrVx2tXjyJiE3GZpvaXE2T-146x218.jpg",Invitation to a Murder (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160591-webrip-1080-terbit21-com-invitation-to-a-murder-2023.mp4
+#EXTINF:-1 group-title="Box office" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/pD1o9B0ibENdNroYrBCQemG2jnr-1-146x218.jpg" ,Last Sentinel (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160588-webrip-1080-terbit21-com-last-sentinel-2023.mp4
 #EXTINF:-1 group-title="Box office" tvg-logo="http://pictures.my.id/images/hard2.png",Die Hard 2 : Die Harder 
 http://abf.filmbluray.id/88v82ww
 #EXTINF:-1 group-title="Box office" tvg-logo="http://pictures.my.id/images/badboy3.png",Bad Boys For Life 
@@ -377,8 +434,9 @@ http://abf.filmbluray.id/080i6nx
 http://abf.filmbluray.id/4bnd6kb
 #EXTINF:-1 group-title="dunia sihir" tvg-logo="http://pictures.my.id/images/cinder.png",Cinderella 
 http://abf.filmbluray.id/dshrfh7
-
-
+#EXTINF:-1 group-title="dunia sihir" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/9NXAlFEE7WDssbXSMgdacsUD58Y-146x218.jpg",Peter Pan & Wendy (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160519-webdl-1080-terbit21-com-peter-pan-wendy-2023.mp4
 
 @@@ Kung Fu Panda @@@
 #EXTINF:-1 group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 01
@@ -402,6 +460,8 @@ http://abf.filmbluray.id/ca7iypb
 http://abf.filmbluray.id/7jc52ye
 #EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/kaguyalove.png",Kaguya-sama : Love Is War 
 http://abf.filmbluray.id/0m0uapm
+#EXTINF:-1 group-title="jepang" tvg-logo="http://pictures.my.id/images/gouls.png",Tokyo Goul S 
+http://abf.filmbluray.id/15t1yp3
 
 
 #EXTINF:-1 group-title="UNCATAGORY" tvg-logo="http://pictures.my.id/images/pride.png",Pride And Prejudice And Zombies 
@@ -611,8 +671,6 @@ http://abf.filmbluray.id/ggd84o3
 http://abf.filmbluray.id/ggm3480
 #EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/lovemonster.png",Love and Monsters
 http://abf.filmbluray.id/ght7cc9
-#EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/shazam.png",Shazam! 
-http://abf.filmbluray.id/gsswjrt
 #EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/hitman2.png",Hitman : Agent 47 
 http://abf.filmbluray.id/gtoxq1s
 #EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/Jumanji-2017.png",Jumanji: Welcome to the Jungle 
@@ -631,12 +689,8 @@ http://abf.filmbluray.id/h6c7245
 http://abf.filmbluray.id/h6u7kcn
 #EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/fast6.png",Fast Furious Five 
 http://abf.filmbluray.id/h7zngop
-#EXTINF:-1 group-title="UNCATAGORY 6" tvg-logo="http://pictures.my.id/images/victor.png",Victor Frankenstein 
-http://abf.filmbluray.id/h9tw0lb
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/woods.png",Into The Woods 
 http://abf.filmbluray.id/hkjytvo
-#EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/3001.png",300 
-http://abf.filmbluray.id/hkk45dt
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/inferno.png",Inferno 
 http://abf.filmbluray.id/hlet49p
 #EXTINF:-1 group-title="UNCATAGORY 7" tvg-logo="http://pictures.my.id/images/pirate1.png",Pirates of The Caribbean : The Curse of The Black Pearl 
@@ -692,8 +746,6 @@ http://abf.filmbluray.id/0zgoaa8
 http://abf.filmbluray.id/0zi23h7
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/11.png",Ocean’s Eleven 
 http://abf.filmbluray.id/13g6npq
-#EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/gouls.png",Tokyo Goul S 
-http://abf.filmbluray.id/15t1yp3
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/warcraft.png",Warcraft : The Beginning 
 http://abf.filmbluray.id/1ku88hr
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/sky.png",Skyscraper
@@ -706,70 +758,6 @@ http://abf.filmbluray.id/2j5ok86
 http://abf.filmbluray.id/2k1i35i
 #EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/lone.png",Lone Survivor 
 http://abf.filmbluray.id/2osen5l
-#EXTINF:-1 group-title="UNCATAGORY 8" tvg-logo="http://pictures.my.id/images/watchmen.png",Watchmen 
-http://abf.filmbluray.id/2uhai4v
-#EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/James-Bond-1979.png",Moonraker 
-http://abf.filmbluray.id/313n7ow
-#EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/lovebirds.png",The Lovebirds 
-http://abf.filmbluray.id/3256pni
-#EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/lambs.png",Hannibal - The Silence of the Lambs 
-http://abf.filmbluray.id/32y5iko
-#EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/artemis.png",Artemis Fowl 
-http://abf.filmbluray.id/37hnc4i
-#EXTINF:-1 group-title="UNCATAGORY 9" tvg-logo="http://pictures.my.id/images/death1.png",Happy Death Day
-http://abf.filmbluray.id/3891y4u
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/qvRPgV3r/download-1.jpg" group-title="UNCATAGORY 9",AKA (2023)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/uvt04xFnBFHQ33gasPEdli3kYqCQNdSJbHdv93DEB8qdd1CuHYaWVb_XmLmD-Au0eKq_Yz9bh6T95Gt7Fpg9CA/LT-2yNnbmQzoRVduBalNmWZVJdY9MFt-SPDCmEpTIyw/1080.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/JzrpzbSB/scream.jpg" group-title="UNCATAGORY 9", sream 
-#EXTVLCOPT:sub-file=http://23.226.71.77/znPWCgtu-0BJ2x7yhuPCIyHnR5NBkgYZ2L8aeBUoVeNGRpEs8IJ7wuvZ3zfsk4bt9Y0ME8ukyKY1uePeRkERUw/OTM58Bv1J6SXWFyYVBbnYgocEwgMhh9O0ixCN4bWNXU/thumbnail.vtt
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/Rg-NqEVpl6xrkoe4N1pWjUDz6DfW4gfdQVUmfCQEdzvo5u5KmqQyMMxD1-J_dtAeFFEwzbk04KsWnfh3vAd45g/xPlQ2QeZIoPbRZEJ9itCB2Ao1saU2ZEeJ2rT5MmWajU/1080.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/yMeKoe3ui4Pad8FUOJwCby3SOWe-146x218.jpg" group-title="UNCATAGORY 9",Death's Roulette (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef2.ruby.gift/play/driveid-161866-webdl-1080-terbit21-com-deaths-roulette-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN-150x225.jpg" group-title="UNCATAGORY 9",Dead Shot (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef2.ruby.gift/play/driveid-161834-webrip-1080-terbit21-com-dead-shot-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/n8ZpMwYT02XjpQHpSxn1eJw5Zpz-146x218.jpg" group-title="UNCATAGORY 9",Crater (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef3.ruby.gift/play/driveid-161845-webdl-1080-terbit21-com-crater-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/vnRthEZz16Q9VWcP5homkHxyHoy-146x218.jpg" group-title="UNCATAGORY 9",The Mother (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef1.ruby.gift/play/driveid-161848-webrip-1080-terbit21-com-the-mother-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/cxSKca4dNlk7O7PMiEYT203vlIw-146x218.jpg" group-title="UNCATAGORY 9",One Day As a Lion (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ns2.ruby.gift/play/driveid-161063-webrip-720-terbit21-com-one-day-as-a-lion-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/p6yUjhvNGQpFZilKwOKbxQ1eHlo-146x218.jpg" group-title="UNCATAGORY 9",Renfield (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef3.ruby.gift/play/driveid-161135-webrip-1080-terbit21-com-renfield-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/8OyzvMrVx2tXjyJiE3GZpvaXE2T-146x218.jpg" group-title="UNCATAGORY 9",Invitation to a Murder (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef2.ruby.gift/play/driveid-160591-webrip-1080-terbit21-com-invitation-to-a-murder-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/pD1o9B0ibENdNroYrBCQemG2jnr-1-146x218.jpg" group-title="UNCATAGORY 9",Last Sentinel (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef2.ruby.gift/play/driveid-160588-webrip-1080-terbit21-com-last-sentinel-2023.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/9NXAlFEE7WDssbXSMgdacsUD58Y-146x218.jpg" group-title="UNCATAGORY 9",Peter Pan & Wendy (2023)
-#EXTVLCOPT:http-referrer=https://t21.press/
-https://ef2.ruby.gift/play/driveid-160519-webdl-1080-terbit21-com-peter-pan-wendy-2023.mp4
-
-
-
 
 @@@ HOROR @@@
 
