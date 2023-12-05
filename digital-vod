@@ -234,6 +234,28 @@ http://abf.filmbluray.id/gqda3gb
 http://abf.filmbluray.id/5w77zyp
 
 @@@ netflix @@@
+
+
+#EXTINF:-1 group-title="netflix"tvg-logo="https://i.postimg.cc/RF55CKDf/sri-asih.jpg",sri asih
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/cf-SG_tF6diGsVmSbWiPi8Xbbl6sty2Gz11k0H_XK4oOI-fhWiTxDodMWjIqZQ2vYTvH9DFb5Rdp9tM9H6HAZQ/jKUgnzCOAB0Gj0b1kql1C923oNgImmPybi42_lGz9v4/1080.m3u8
+
+#EXTINF:-1 group-title="netflix"tvg-logo="https://i.postimg.cc/XYg6Nr0D/miracle-in-cell-no-7.jpg",Miracle In Cell No. 7 (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/eIw6Q1_0QA9kJMKDMBIFqxOiDloXTaVqpPGI4cInfiYVoBunC_D6MmdY5TFXPN1DZ4Q2AEHSFtwPz8_-iSy0PQ/h_iTEhbNnWcNUnlvpOFq99BrfZu4Nx72ZXOUXGOis0E/720.m3u8
+
+#EXTINF:-1 group-title="netflix"tvg-logo="https://i.postimg.cc/g2LLfPFJ/cek-toko-sebelah.jpg",Cek Toko Sebelah 2 (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ZrpTMRn2oRcd6F6v47Xr78kVqQ5uTvKW4JkyM8QTS134tcMnfDvn-ocGqxuc47Thxbq4ZeHhATD8NhMa4qe_fA/GeYigLyZLeg65TBz_JrVsNNv11BIHq3Y9IYt-xT4hHs/1080.m3u8
+
+#EXTINF:-1 group-title="netflix"tvg-logo="https://i.postimg.cc/1X65vyNh/mendarat-darurat.jpg",Mendarat Darurat (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/kGFDAdEzA9diWusdX_SyMq13pLkID6E8IEpsCmvyhnSjhWDE6ZIftA7WC4k6ElTjpB08VdqH9sspVcg8Hv_wbw/05Q0TKUb8R1BrXsQTdspI5jjIqa1JYI_tHmATsFcfQM/1080.m3u8
+
+#EXTINF:-1 group-title="netflix"tvg-logo="https://i.postimg.cc/jdSRW6MY/mencuri-raden-saleh.jpg",Mencuri Raden Saleh (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_yKJ3CAjwPnx5ysKek2Ik1MRtwA/2FoZoCf5cnOrv_0LHo3jb9DLn-To_Ly-t-s-J0egOjk/1080.m3u8
+
 #EXTINF:-1 group-title="netflix" tvg-logo="http://pictures.my.id/images/switch1.png",The Princess Switch 
 http://abf.filmbluray.id/0rdhvbp
 #EXTINF:-1 group-title="netflix" tvg-logo="http://pictures.my.id/images/chic7.png",The Trial of The Chicago 7 
@@ -786,61 +808,55 @@ https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=
 https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MTgwMWMtOGY2OC00ZmRhLWFjNjQtMDRmY2VjMDI4ZGY3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Inang (2022)
 https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Ikut_Aku_ke_Neraka.jpg/220px-Ikut_Aku_ke_Neraka.jpg",Ikut Aku ke Neraka (2019)
+
+#EXTINF:-1 group-title="HOROR" tvg-logo="https://i.postimg.cc/BbDj7S55/Ikut-Aku-ke-Neraka.jpg",Ikut Aku ke Neraka (2019)
 https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR"tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyM2JmZjMtNjA5My00Njc5LTk5MTktNjY1ODllYjA5M2RiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Iblis Dalam Kandungan (2022)
+
+#EXTINF:-1 group-title="HOROR"tvg-logo="https://i.postimg.cc/QMW0b59H/iblisdalamk.jpg",Iblis Dalam Kandungan (2022)
 https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0MzI1MTEtMDk0Zi00N2VjLThhNjMtMWNhOGU2ZGVlYTNmXkEyXkFqcGdeQXVyOTg3Njg0ODU@._V1_FMjpg_UX1000_.jpg",Bayi Gaib (2018)
+
+#EXTINF:-1 group-title="HOROR" tvg-logo="https://i.postimg.cc/brqDZcfq/bayigaib.jpg",Bayi Gaib (2018)
 https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati (2018)
+
+#EXTINF:-1 group-title="HOROR" tvg-logo="https://i.postimg.cc/fW5h4nyD/hutanmati.jpg",Alas Pati: Hutan Mati (2018)
 https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Pengabdi Setan 2: Communion
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghpb7hck/pengabdian.jpg"group-title="HOROR",Pengabdi Setan 2: Communion
 https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Titisan Setan 2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ht7s0cxs/titisan.jpg"group-title="HOROR",Titisan Setan 2
 https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Suster Keramas
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qB81PkZ5/susterkeramas.jpg"group-title="HOROR",Suster Keramas
 https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Suzzanna: Bernapas Dalam Kubur
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT59N59p/benapasdalamkubur.jpg"group-title="HOROR",Suzzanna: Bernapas Dalam Kubur
 https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",40 Hari Bangkitnya Pocong
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yS9pKNN/40h.jpg"group-title="HOROR",40 Hari Bangkitnya Pocong
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",The Returning
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTMxtc6H/returning.jpg"group-title="HOROR",The Returning
 https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Rumah Dara
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrB9z9t/rumahdara.jpg"group-title="HOROR",Rumah Dara
 https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Kabut
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hthjkYvX/kabut.jpg"group-title="HOROR",Kabut
 https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="HOROR",Belenggu
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmCBm8sQ/belenggu.jpg" group-title="HOROR",Belenggu
 https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/RF55CKDf/sri-asih.jpg" group-title="HOROR",sri asih
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/cf-SG_tF6diGsVmSbWiPi8Xbbl6sty2Gz11k0H_XK4oOI-fhWiTxDodMWjIqZQ2vYTvH9DFb5Rdp9tM9H6HAZQ/jKUgnzCOAB0Gj0b1kql1C923oNgImmPybi42_lGz9v4/1080.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/XYg6Nr0D/miracle-in-cell-no-7.jpg" group-title="HOROR",Miracle In Cell No. 7 (2022)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/eIw6Q1_0QA9kJMKDMBIFqxOiDloXTaVqpPGI4cInfiYVoBunC_D6MmdY5TFXPN1DZ4Q2AEHSFtwPz8_-iSy0PQ/h_iTEhbNnWcNUnlvpOFq99BrfZu4Nx72ZXOUXGOis0E/720.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/g2LLfPFJ/cek-toko-sebelah.jpg" group-title="HOROR",Cek Toko Sebelah 2 (2022)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/ZrpTMRn2oRcd6F6v47Xr78kVqQ5uTvKW4JkyM8QTS134tcMnfDvn-ocGqxuc47Thxbq4ZeHhATD8NhMa4qe_fA/GeYigLyZLeg65TBz_JrVsNNv11BIHq3Y9IYt-xT4hHs/1080.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/XJjJNRh9/mumun.jpg" group-title="HOROR",Mumun (2022)
+#EXTINF:-1 group-title="HOROR"tvg-logo="https://i.postimg.cc/XJjJNRh9/mumun.jpg",Mumun (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/GyOLwQDHxQP0su0JTFeFsv0431_WRpZDtFSJD8rvA0-L7o2xtQSmX6dfFpsoYOPoOTqwJGMuIQnJlHQMmu6bhQ/ENeNqOSV-HpxmjZ6IID4pBfw9AR-t35yiw1d5vllUA4/video.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/1X65vyNh/mendarat-darurat.jpg" group-title="HOROR",Mendarat Darurat (2022)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/kGFDAdEzA9diWusdX_SyMq13pLkID6E8IEpsCmvyhnSjhWDE6ZIftA7WC4k6ElTjpB08VdqH9sspVcg8Hv_wbw/05Q0TKUb8R1BrXsQTdspI5jjIqa1JYI_tHmATsFcfQM/1080.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/9MZvS01p/jaelangkung-sandekala.jpg" group-title="HOROR",Jailangkung - Sandekala (2022)
+#EXTINF:-1 group-title="HOROR"tvg-logo="https://i.postimg.cc/9MZvS01p/jaelangkung-sandekala.jpg",Jailangkung - Sandekala (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/vEk0wtiPJ_suNISQkO9drxYZ3PhIBgsN5yOWJnS8__mNuADALYc_HdOzxRsZvKiVYcejMfj2L0Hnse8R5_oaIw/0Y9ewsAkRTm5YVLZjpbck6nAvxDo9ipyg2q8vrZJGDU/1080.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/jdSRW6MY/mencuri-raden-saleh.jpg" group-title="HOROR",Mencuri Raden Saleh (2022)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
-http://23.226.71.77/ARkaKDSkLk2LIce5t9a16qgoSIFOlY-MMC9CvmQ0jFSS2Wixk3v-e-xwO_K_yKJ3CAjwPnx5ysKek2Ik1MRtwA/2FoZoCf5cnOrv_0LHo3jb9DLn-To_Ly-t-s-J0egOjk/1080.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/0Nq3SP9K/jagat-arwah.jpg" group-title="HOROR",Jagat Arwah (2022)
+#EXTINF:-1 group-title="HOROR"tvg-logo="https://i.postimg.cc/0Nq3SP9K/jagat-arwah.jpg",Jagat Arwah (2022)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/NnrjvencblXo2l7UFY-OtoEStG3fstFh_WOZiUwysJl2XigtvIQArs-sjoANVlzbDWx0FobfMnhLLWIIl6ad8g/n1f-2jhQNRJQkB8LEo_uDDH0F2okf1AMVsLaFNZW1rA/1080.m3u8
 
