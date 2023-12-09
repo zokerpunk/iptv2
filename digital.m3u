@@ -147,31 +147,26 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 !-- nasional backup -->
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTzpNVB/moji2.png"  group-title="nasional backup",Moji
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
+ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/ 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-https://mantul.biz.id:443/ekos/748382/190.ts
-##https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://mantul.biz.id:443/ekos/748382/192.ts
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
+https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/RZxrkMHK/mnctv2.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://mantul.biz.id:443/ekos/748382/191.ts
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/yYxR9Hpq/inews2.png",iNews
-https://mantul.biz.id:443/ekos/748382/193.ts
 https://mangga-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
