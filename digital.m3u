@@ -130,7 +130,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional",Mentari tv
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298546
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -152,17 +152,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/GTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/RZxrkMHK/mnctv2.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https:///mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/MNCTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -183,8 +183,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfsxyRYM/sctv2.png"  group-title="nasional backup",SCTV HD
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
-##https://nonton.site:8443/live/ekos/7483/931.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2gQZRN1/transtv2.png"  group-title="nasional backup",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -201,7 +200,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/PJ0Spsv1/net2.png",NET. HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+http://humiptv.live:8080/live/56565656/56565656/151268.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -228,8 +227,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="nasional backup",Mentari tv
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298546
-##http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
