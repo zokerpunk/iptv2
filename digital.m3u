@@ -152,17 +152,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.m3u8
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/G38rsgP7/gtv2.png" ,GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/GTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/GTV-HD.m3u8
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/RZxrkMHK/mnctv2.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/MNCTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/MNCTV-HD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
