@@ -183,7 +183,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfsxyRYM/sctv2.png"  group-title="nasional backup",SCTV HD
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2gQZRN1/transtv2.png"  group-title="nasional backup",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
