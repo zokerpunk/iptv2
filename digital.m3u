@@ -81,9 +81,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png"  group-title="Nasional",TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVQ3HsN/tvone.png"  group-title="Nasional",TVOne dens
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png"  group-title="Nasional",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
@@ -103,6 +100,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNdnVV08/NetTV.png"  group-title="Nasional",NET HD
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/80292 
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
