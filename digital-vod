@@ -526,16 +526,26 @@ http://abf.filmbluray.id/1z94d3i
 http://abf.filmbluray.id/0t6nq2e
 #EXTINF:-1 group-title="pantasi" tvg-logo="http://pictures.my.id/images/pixels.png",Pixels 
 http://abf.filmbluray.id/9pw929z
-#EXTINF:-1 group-title="pantasi" tvg-logo="http://pictures.my.id/images/matrix1.png",The Matrix 
+#EXTINF:-1 group-title="pantasi" tvg-logo="http://pictures.my.id/images/matrix1.png",The Matrix (1999)
 http://abf.filmbluray.id/ewgs5mh
+#EXTINF:-1 group-title="pantasi" tvg-logo="https://i.postimg.cc/kG9knCYL/The-Matrix-Resurrections.jpg",The Matrix Resurrections
+https://cdn.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/5EHVGVDb5ZHWDFjR0l2QiV0Sl10XpdmNpZDb08VSpNVM/1080p
+#EXTINF:-1 group-title="pantasi" tvg-logo="https://i.postimg.cc/9Qs4LXfd/matrikrevo.jpg",The Matrix Revolutions
+https://cdn.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/R1kapFnS50UeNJ0amtGc38maNl1d11USvJFS4gkbrVTM/1080p
+#EXTINF:-1 group-title="pantasi" tvg-logo="https://i.postimg.cc/fWmW7j4R/reload.jpg",The Matrix Reloaded
+https://cdn.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/zUVW4F0RJlUcaFWRFlUQhlEUElXNqhnRzAjc4lnQUpXM/1080p
 
 @@@ robot dll @@@
-#EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/terminator5.png",Genisys 
+#EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/terminator5.png",Terminator Genisys
 http://abf.filmbluray.id/hendldi
 #EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/terminator1.png",The Terminator  
 http://abf.filmbluray.id/gdf8nq1
-#EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/terminator4.png",Salvation 
+#EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/terminator4.png",Terminator Salvation
 http://abf.filmbluray.id/dn6lhr2
+#EXTINF:-1 group-title="robot dll" tvg-logo="https://i.postimg.cc/tR5jq9L9/Terminator-2.jpg",Terminator 2: Judgment Day
+https://cdn.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/sZDey4WSz5UT1wWMwlHRBlUaNlWQD1WbvRWNMJVO6NXM/720p
+#EXTINF:-1 group-title="robot dll" tvg-logo="https://i.postimg.cc/QC1tYwff/Terminator-Dark-Fate.jpg",Terminator: Dark Fate
+https://cdn.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/mRVQohmYRFzcv90YwZVN3ITUzFERjl0dUljaN50NjNWM/1080p
 #EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/robo4.png",RoboCop (2014)
 http://abf.filmbluray.id/bfk1fv7
 #EXTINF:-1 group-title="robot dll" tvg-logo="http://pictures.my.id/images/robo1.png",RoboCop 1 
