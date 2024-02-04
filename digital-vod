@@ -1,6 +1,9 @@
 @@@ THE UNTAMED S1 @@@
-#EXTINF:-1 group-title="THE UNTAMED S1" tvg-logo="https://i.postimg.cc/RZ6PpsjW/qOrz5c.jpg",the untamed ep01
+#EXTINF:-1 group-title="THE UNTAMED S1" tvg-logo="https://i.postimg.cc/RZ6PpsjW/qOrz5c.jpg",the untamed ep01 sub eng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 https://hls004.vipdracdn.net/streamhls2024/e56995b5ef83715cb89eb6dff60ba7cc/ep.1.v0.1678152834.m3u8
+#EXTINF:-1 group-title="THE UNTAMED S1" tvg-logo="https://i.postimg.cc/RZ6PpsjW/qOrz5c.jpg",the untamed ep01 sub id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 https://s22.upstreamcdn.co/v/01/03643/b1vl9kp93lza_n/[Nodrakor]The_Untamed_1.mp4?t=YqOr36DpX3vCxocjunh9bUpfW9VD5uAokOiJRmoF178&s=1707066383&e=10800&f=18217700&sp=256&i=0.0
 https://newsx4.gogoplayer.xyz/video/data/b21iY1ZVTjRGNG1sM01yWlV3bGJ1V3pKa0xWUHlVWG42VnpJakY4SHdWNFBjUlJ5VWh1MjJFenNlV0tRNEVaQQ==/doc.php?file=tes2.m3u8
 #EXTINF:-1 group-title="THE UNTAMED S1" tvg-logo="https://i.postimg.cc/RZ6PpsjW/qOrz5c.jpg",the untamed ep02
