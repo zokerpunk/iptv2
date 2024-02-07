@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="film baru" tvg-logo="https://i.postimg.cc/nzhj0dC4/Galaksi.jpg",galaksii
+#EXTINF:-1 group-title="film baru" tvg-logo="https://i.postimg.cc/nzhj0dC4/Galaksi.jpg",galaksi
 https://delivery---1000.cdn-stack.com/hls2/02/00032/t63p0yo0k33s_h/index-v1-a1.m3u8?t=jmQ0mKdBmQSs4J9FSSzFXVFyCKrjGmxtgEI98M-GWxs&s=1707246790&e=43200&f=164596&i=0.0&sp=0
 #EXTINF:-1 group-title="film baru" tvg-logo="https://i.postimg.cc/2y1KBbB4/Detective-Dee-and-The-Dragon-of-Fire-2023.jpg",gDetective Dee and The Dragon of Fire
 https://igcswvmzhgd5.enaak-cdn.com/v/01/00678/wja9cxtvespx_h/[Nodrakor]_Detective.Dee.and.The.Dragon.of.Fire.2023.720p.mp4?t=56MHdk_u0VD0KDK8l-Z2ivC4ZrVMTlU6zEGTCVkqCw4&s=1707249379&e=129600&f=3416981&sp=400&i=202.179
@@ -109,7 +109,7 @@ https://y7rf0vwihhf3.enaak-cdn.com/hls2/01/01033/6j7m68a0d6ng_,l,n,h,.urlset/ind
 #EXTINF:-1 group-title="Twilight Saga" tvg-logo="https://i.postimg.cc/VkrtMcRP/newmoon.jpg",Twilight Saga: New Moon
 https://cloud.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/ilEMaZ2atFnaKlmVhZ2drhzbNFWRDZ3afhXVnN2M1tWM/1920x800
 #EXTINF:-1 group-title="Twilight Saga" tvg-logo="https://i.postimg.cc/VkrtMcRP/newmoon.jpg",TWILIGHT SAGA: ECLIPSE
-https://jujijaji.autos/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
+##https://jujijaji.autos/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
 #EXTINF:-1 group-title="Twilight Saga" tvg-logo="https://i.postimg.cc/5NF9S9Zg/newmoon2.jpg",Twilight Saga: Breaking Dawn – Part 1
 https://media.juraganfilm.my.id/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/aJ1QrlnMVFne150ayY1boFTWDdlWxtWW0UGRjhjSCNVM/1920x800
 #EXTINF:-1 group-title="Twilight Saga" tvg-logo="https://i.postimg.cc/fbbRX7Zt/newmoon3.jpg",Twilight Saga: Breaking Dawn – Part 2
