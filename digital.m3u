@@ -73,7 +73,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png"  group-title="Nasional",Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="MetroTV.id" group-title="MNC GRUP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk7dc1Yg/RTV.png"  group-title="Nasional",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
