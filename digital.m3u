@@ -480,6 +480,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 http://iptvtree.net:8080/F26646/f950f250/197972
 ##http://208.115.225.174:14136
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png",hbo-action
+https://github.com/mimipipi22/lalajo/raw/main/hbo-action.m3u8
+
+
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO2 
 http://208.115.225.174:14140
 
@@ -1049,11 +1053,15 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 @@@@@@@ SPORTS @@@@@@@
 
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1
+https://github.com/mimipipi22/lalajo/raw/main/ar-beinsports1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
+#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 2
+https://github.com/mimipipi22/lalajo/raw/main/ar-beinsports2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3
+https://github.com/mimipipi22/lalajo/raw/main/ar-beinsports3.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="SPORT",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
