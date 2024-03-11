@@ -71,14 +71,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrXgVBgv/metroTV.png"  group-title="Nasional",Metro TV
-https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
-
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="MetroTV.id" group-title="MNC GRUP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vk7dc1Yg/RTV.png"  group-title="Nasional",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp" group-title="Nasional",TVRI Nasional
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -105,7 +108,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5ngpSXB/SEATODAY.png"  group-title="Nasional",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv.jpg"  group-title="Nasional",Kompas TV
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -129,7 +135,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://i.postimg.cc/KcW5L7vj/Usee-Prime.png",UseePrime
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162524
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
