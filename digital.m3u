@@ -195,7 +195,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fTzpNVB/moji2.png"  group-title="nasional backup",Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://i.postimg.cc/mrb76HZq/rcti2.png",RCTI
@@ -460,62 +460,62 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdZckcwM/bioskop-indonesia.jpg" group-title="MOVIES", BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxcsxT6r/series-zone.jpg" group-title="MOVIES", SERIES ZONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0JL3y7q/movie-news.jpg" group-title="MOVIES", MOVIE NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvhmLgs8/warner-tv.png" group-title="MOVIES", WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png",hbo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-http://iptvtree.net:8080/F26646/f950f250/197972
+##http://iptvtree.net:8080/F26646/f950f250/197972
 ##http://208.115.225.174:14136
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png",hbo-action
-https://github.com/mimipipi22/lalajo/raw/main/hbo-action.m3u8
+##https://github.com/mimipipi22/lalajo/raw/main/hbo-action.m3u8
 
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO2 
-http://208.115.225.174:14140
+##http://208.115.225.174:14140
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvqV00/hbofamily.png" group-title="MOVIES",HBO Family 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+##https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 ##http://tvkuonline.my.id:25461/riyad/riyad/415
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB43jD2/hbosignature.png" group-title="MOVIES",HBO Signature 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 ##http://tvkuonline.my.id:25461/riyad/riyad/414
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/302t4y3/hbohits.jpg" group-title="MOVIES",HBO Hits 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-http://iptvtree.net:8080/F26646/f950f250/196480
+##http://iptvtree.net:8080/F26646/f950f250/196480
 ##http://tvkuonline.my.id:25461/riyad/riyad/413
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4NRdpkM/hbo-extreme.png" group-title="MOVIES",HBO extreme
-http://208.115.225.174:14165
+##http://208.115.225.174:14165
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8fH71d2/hbomundi.png" group-title="MOVIES",HBO mundi
-http://208.115.225.174:14148
+##http://208.115.225.174:14148
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://i.postimg.cc/cJ8fP6DW/flix.jpg",flix
-http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
+##http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVgsBsBT/sonypick.jpg" group-title="MOVIES",sony pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -588,8 +588,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.ver
-spective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2FY689Z/tvnmovies.png" group-title="MOVIES",Tvn MOVIES indonesia
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
@@ -703,19 +702,19 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD5XXz0/cinamax.png" group-title="MOVIES",Cinemax 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="MOVIES",etv bioskop
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
+##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298526
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="MOVIES",etv bioskop 2
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298527
+##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298527
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="MOVIES",etv bioskop 3
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298528
+##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298528
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="MOVIES",etv bioskop 4
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
+##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="MOVIES",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
