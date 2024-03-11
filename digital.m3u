@@ -108,9 +108,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5ngpSXB/SEATODAY.png"  group-title="Nasional",SEA Today
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvS5JyYV/kompastv.jpg"  group-title="Nasional",Kompas TV
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -126,7 +126,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional",Mentari tv
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
+https://12537-stream-ip-tv.xyz/play/channels/pidio/hls/8237-mentari-tv/master.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -135,10 +135,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://i.postimg.cc/KcW5L7vj/Usee-Prime.png",UseePrime
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162524
+https://github.com/mimipipi22/lalajo/deferred-metadata/main/useeprime.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+https://github.com/mimipipi22/lalajo/latest-commit/main/tvrisports.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", TV4 FOOTBALL
 http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=8194&extension=ts&play_token=zNaEao4NIA
