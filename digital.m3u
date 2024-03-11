@@ -666,7 +666,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://nyanv-live-cdn.mncnow.id/live/eds/Galaxypremium-HD/sa_dash_vmx/Galaxypremium-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/Galaxypremium-HD/sa_dash_vmx/Galaxypremium-HD.mpd
 
 #EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="MOVIES",Arirang World
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
