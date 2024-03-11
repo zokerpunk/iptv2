@@ -120,13 +120,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZYrLHSf/MAGNA.png"  group-title="Nasional",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+https://github.com/mimipipi22/lalajo/raw/main/magnatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RTnS5fZ/Metro-Globe-Network.png"  group-title="Nasional",Metro Globe Network
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kXMnQM/mentaritv.png"  group-title="Nasional",Mentari tv
-https://12537-stream-ip-tv.xyz/play/channels/pidio/hls/8237-mentari-tv/master.m3u8
+http://iptvtree.net:8080/F26646/f950f250/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -135,10 +135,10 @@ https://12537-stream-ip-tv.xyz/play/channels/pidio/hls/8237-mentari-tv/master.m3
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://i.postimg.cc/KcW5L7vj/Usee-Prime.png",UseePrime
-https://github.com/mimipipi22/lalajo/deferred-metadata/main/useeprime.m3u8
+http://iptvtree.net:8080/F26646/f950f250/162524
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2hNyv6j/tvri-sport.png"  group-title="Nasional",TVRI SPORT
-https://github.com/mimipipi22/lalajo/latest-commit/main/tvrisports.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20002.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", TV4 FOOTBALL
 http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=8194&extension=ts&play_token=zNaEao4NIA
