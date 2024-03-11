@@ -477,7 +477,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png",hbo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://iptvtree.net:8080/F26646/f950f250/197972
 ##http://208.115.225.174:14136
 
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO2 
@@ -486,7 +486,7 @@ http://208.115.225.174:14140
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvqV00/hbofamily.png" group-title="MOVIES",HBO Family 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 ##http://tvkuonline.my.id:25461/riyad/riyad/415
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB43jD2/hbosignature.png" group-title="MOVIES",HBO Signature 
@@ -498,7 +498,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/302t4y3/hbohits.jpg" group-title="MOVIES",HBO Hits 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+http://iptvtree.net:8080/F26646/f950f250/196480
 ##http://tvkuonline.my.id:25461/riyad/riyad/413
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4NRdpkM/hbo-extreme.png" group-title="MOVIES",HBO extreme
@@ -724,7 +724,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 @@@@  berita @@@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5RksFDC/tvri.webp" group-title="berita",TVRI Nasional
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJMtQmcM/tvone2.png"  group-title="berita",TVONE HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -733,16 +736,22 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBhPbt5j/metrotv2.png"  group-title="berita",Metro TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNK98MNN/kompastv2.png"  group-title="berita",KOMPAS
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLDXMpkH/elsinta.jpg"  group-title="berita",elsinta tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R6FskCF/magnatv.jpg"  group-title="berita",Magna Tv
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -775,7 +784,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX34fVyW/jawaposttv.jpg"  group-title="berita",Jawa Pos TV
-https://v2.siar.us/jawapostv/live/playlist.m3u8
+##https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png"  group-title="berita",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
