@@ -1137,25 +1137,25 @@ https://mangga-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72pDW0Q/sportstar1.jpg" group-title="SPORT", Mnc Sportstar 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/sport1.png" group-title="SPORT", Mnc Sportstar 1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/VNV0cjSH/sportstart2.png",Mnc Sportstar 2 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/sport2.png",Mnc Sportstar 2 
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/mkL2KkLg/mncsportstart3.jpg",Mnc Sportstar 3 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/sport3.png",Mnc Sportstar 3 
 https://mangga-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="" tvg-logo="https://i.ibb.co/9qymskv/sportstar4.jpg",Mnc Sportstars 4 
+#EXTINF:-1 group-title="SPORT" tvg-id="MNCSports4.id" tvg-url="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/sport4.png",Mnc Sportstars 4 
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1163,10 +1163,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/HLkynD28/be-IN-Sports-HD.png",beIN Sports HD
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/beIN%20Sports%20HD.png",beIN Sports HD
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/vHNYvkFf/beinspot-2.png",beIN Sports 2
+#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/beinspot%202.png",beIN Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://i.postimg.cc/CxJxq5MM/bein-sport-3.png",beIN Sports 3
@@ -1180,7 +1180,7 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/GmN272bz/useesport.jpg" group-title="SPORT",Usee Sport2
 ##https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/jqpbC82v/mu-tv2.png",MU TV 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/mu%20tv2.png",MU TV 2
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/V5QD10YB/milan-tv.jpg",MILAN TV
@@ -1201,13 +1201,13 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/Zn1DRDLN/btv.jpg",BTV BENFICA
 ##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/7Lms7LVw/infack-wer.jpg",IMPACT! Wrestling
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/infack%20wer.jpeg",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/Gpg0RK6F/tenis.png",Tennis Channel
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/tenis.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/k4HT1hzH/kozoom.jpg",KOZOOM TV
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/kozoom.jpeg",KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/VNky2pZs/stadium.jpg",Stadium
@@ -1216,19 +1216,19 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/sfQzjFjv/motorvision.jpg",Motorvision TV HD
 ##http://rr.dens.tv/h/h09/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/DwF3P8qX/skitv.jpg",Ski TV
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/skitv.jpeg",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/YCNyrRL4/fite.jpg",FITE
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/fite.jpeg",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/nhfPfgrb/dubai.jpg",DUBAI SPORTS 1
 ##http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/GpcgHDvX/dubai2.jpg",DUBAI SPORTS 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/dubai2.jpeg",DUBAI SPORTS 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/MKQF4qWm/dubai3.jpg",DUBAI SPORTS 3
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/dubai3.jpeg",DUBAI SPORTS 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/L47WNnMs/ABUDABI.png",ABU DHABI SPORTS
@@ -1307,16 +1307,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4jQ0sNv/sss2.png" group-title="SPORT", Star Sports Select 2
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=1114584&extension=ts&play_token=F3F69ufJDw
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/N0x5xzCd/truepremfb1.png",True Premier Football 1
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/truepremfb1.png",True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/SsNj1fwk/truepremfb2.png",True Premier Football 2
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/truepremfb2.png",True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/wB5sGvMc/truepremfb3.png",True Premier Football 3
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/truepremfb3.png",True Premier Football 3
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/Jh8sZLxy/truepremfb4.png",True Premier Football 4
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/truepremfb4.png",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
