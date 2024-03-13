@@ -964,31 +964,31 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 
 @@@@ LOCAL @@@
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/nzBNhfs8/vtv5.png" group-title="Local",vtv5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/vtv5.png" group-title="Local",vtv5
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM2g6CKp/Kilisuci-TV.jpg" group-title="Local",Kilisuci TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/Kilisuci%20TV.jpeg" group-title="Local",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j53sP0qW/BMSTV.png" group-title="Local",BMSTV
 ##https://v2.siar.us/bmstv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss0x5LVf/BANDUNGTV.jpg" group-title="Local",Bandung TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/Bandung%20TV.jpeg" group-title="Local",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhZ74ygq/kawana.webp" group-title="Local",Kawanua TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/kawana.webp" group-title="Local",Kawanua TV
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3HYXwZk/sangajitv.jpg"  group-title="Local",sangaji tv
 ##https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMnM3qyK/pon-tv.png"  group-title="Local",pon tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/pon%20tv.png"  group-title="Local",pon tv
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr9DN9rv/surabaya-tv.png"  group-title="Local",surabaya tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/surabaya%20tv.png"  group-title="Local",surabaya tv
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb7Xwv6s/20221117-134539.png"  group-title="Local",UGTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/ugtv.jpeg"  group-title="Local",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png"  group-title="Local",Dhamma TV
@@ -1003,7 +1003,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCXJVZS/balitv.jpg"  group-title="Local",Bali Tv
 ##https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJShXgML/inspira.jpg"  group-title="Local",Inspira TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/inspira.jpeg"  group-title="Local",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png"  group-title="Local",Lingkar TV
@@ -1012,13 +1012,13 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvKW4kwP/dutatv.jpg"  group-title="Local",Duta TV
 ##https://o1.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRrjR9NG/tegar-tv.png"  group-title="Local",Tegar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/tegar%20tv.png"  group-title="Local",Tegar TV
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRrjR9NG/tegar-tv.png"  group-title="Local",Tegar TV jogja
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/tegartvjogja.jpeg"  group-title="Local",Tegar TV jogja
 http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8pQDhQN/simpang-5-tv.jpg"  group-title="Local",Simpang5 TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/simpang%205%20tv.jpeg"  group-title="Local",Simpang5 TV
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwM1HRQz/tatv.jpg"  group-title="Local",TATV
@@ -1027,7 +1027,7 @@ http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png"  group-title="Local",BRTV
 ##https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cS5xmnc/smtv.jpg"  group-title="Local",SMTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/smtv.jpeg"  group-title="Local",SMTV
 http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest"  group-title="Local",RCTV
@@ -1039,7 +1039,7 @@ https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxdF2nZB/huma-betang-tv.jpg"  group-title="Local",Huma Betang TV
 ##https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTvQZH9J/jitv.jpg"  group-title="Local",JITV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/jitv.jpeg"  group-title="Local",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 <==========Knowledge==========>
@@ -1074,11 +1074,11 @@ https://mangga-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChann
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Wild Indonesia
 https://mangga-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="",WILD EARTH
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/knowledge/wildearth.png",WILD EARTH
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="",XPLORE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/knowledge/xplore.jpeg",XPLORE
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="",NASA TV
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/knowledge/nasa.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 @@@@@@@ SPORTS @@@@@@@
