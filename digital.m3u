@@ -304,7 +304,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/frimvision.jpeg" group-title="nasional backup",Prime Vision
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/mentaritv.png"  group-title="nasional backup",Mentari tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/mentari.png"  group-title="nasional backup",Mentari tv
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298546
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
