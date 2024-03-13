@@ -122,7 +122,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/magna.png"  group-title="Nasional",Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/Metro_Globe_Network.png"  group-title="Nasional",Metro Globe Network
 http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
