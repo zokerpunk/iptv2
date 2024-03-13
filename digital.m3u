@@ -1321,7 +1321,7 @@ https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.postimg.cc/wjLt1vX8/truepremfb5.png",True Premier Football 5
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/truepremfb5.png",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
