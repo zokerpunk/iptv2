@@ -440,45 +440,45 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28ByD6TV/Aquarius-Musikindo.jpg" group-title="MUSIC",Aquarius Musikindo
 ##https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhXsQBP/imtv.jpg"  group-title="MUSIC",imtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/imtv.jpeg"  group-title="MUSIC",imtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryNVrhM6/citra-dangdut.jpg"  group-title="MUSIC",citra dangdut
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/citra%20dangdut.jpeg"  group-title="MUSIC",citra dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="MUSIC",Dangdut Koplo Indonesia - Nagaswara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/nagasw-ara.png"  group-title="MUSIC",Dangdut Koplo Indonesia - Nagaswara
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png,Music"  group-title="MUSIC",Music Video Dancedut - Nagaswara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/nagasw-ara.png"  group-title="MUSIC",Music Video Dancedut - Nagaswara
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="MUSIC",POP Indonesia - Nagaswara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/nagasw-ara.png"  group-title="MUSIC",POP Indonesia - Nagaswara
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdLpPz5h/musictop.png"  group-title="MUSIC",music top
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/musictop.png"  group-title="MUSIC",music top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
+#EXTINF:-1 tvg-id="" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/musictv.png",Music TV
 https://mangga-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cK0rb5g/mtv-live.png"  group-title="MUSIC",mtv live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/mtv-live.png"  group-title="MUSIC",mtv live
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs8jk6jW/mtv90s.png"  group-title="MUSIC",MTV 90s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/mtv90s.png"  group-title="MUSIC",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 70s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/vevo.png"  group-title="MUSIC",VEVO 70s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 80s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/vevo.png"  group-title="MUSIC",VEVO 80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt5X5Yb/vevo.png"  group-title="MUSIC",VEVO 90s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/vevo.png"  group-title="MUSIC",VEVO 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ""MOVIES""
@@ -543,7 +543,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://i.postimg.cc/cJ8fP6DW/flix.jpg",flix
 ##http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVgsBsBT/sonypick.jpg" group-title="MOVIES",sony pick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/sonypick.jpeg" group-title="MOVIES",sony pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5VLGjGh/k-movies.png" group-title="MOVIES",new k-movies
@@ -722,7 +722,7 @@ http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vZNJTC/mbc.jpg" group-title="MOVIES",Mbc 
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1150278138.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TKZVJn6/k.jpg" group-title="MOVIES",K+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%2B.jpeg" group-title="MOVIES",K+ 
 http://210.210.155.35/uq2663/h/h08/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD5XXz0/cinamax.png" group-title="MOVIES",Cinemax 
@@ -742,10 +742,10 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr4q8cNc/etvbioskop.jpg" group-title="MOVIES",etv bioskop 4
 ##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298529
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="MOVIES",Dubai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/dubaione.jpeg" group-title="MOVIES",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="MOVIES",Dubai One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/dubaitv.jpeg" group-title="MOVIES",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
