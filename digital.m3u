@@ -342,72 +342,72 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 @@@@@@@ KIDS @@@@@@@
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5KSqtD/indikids.jpg" group-title="KIDS",Indi Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/indikids.jpeg" group-title="KIDS",Indi Kids
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ4YSQV/tayo.jpg" group-title="KIDS",Tayo Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/tayo.png" group-title="KIDS",Tayo Tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KtYc3F/zoomoo.jpg" group-title="KIDS",Zoo Moo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/zoomoo.png" group-title="KIDS",Zoo Moo
 https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzzBMvk/kidsz.jpg" group-title="KIDS",Kids Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/kidstv.png" group-title="KIDS",Kids Tv
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GkM6cG/cbeebies.jpg" group-title="KIDS",Cbeebies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/cbeebies.png" group-title="KIDS",Cbeebies
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8NPQt39/nickjr.jpg" group-title="KIDS",Nick Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/nickjr.jpeg" group-title="KIDS",Nick Jr
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKg92DB/nickolodion.jpg" group-title="KIDS",Nickelodion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/nickelendeon.png" group-title="KIDS",Nickelodion
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg7nLBy/animax.jpg" group-title="KIDS",Animax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/animax.jpeg" group-title="KIDS",Animax
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qChpbMB/babytv.jpg" group-title="KIDS",Baby Tv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/babytv.jpeg" group-title="KIDS",Baby Tv 
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3gKtJm/aniplus.jpg" group-title="KIDS",Aniplus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/aniplus.jpeg" group-title="KIDS",Aniplus
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/RBP0pDX/horee.jpg", Horee!
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/horee.png", Horee!
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ckH0zq7/cn.jpg" group-title="KIDS",Cartoon Net
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/cartoon.png" group-title="KIDS",Cartoon Net
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TX0hD7/duniaanak-1.jpg" group-title="KIDS", Dunia Anak
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/duniaanak.jpeg" group-title="KIDS", Dunia Anak
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCvDz9H/disney.jpg" group-title="KIDS",Disney Ch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/disney.jpeg" group-title="KIDS",Disney Ch
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yVHRZPf/hip-hore.jpg" group-title="KIDS",Hip Hip Horee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/hiphip.png" group-title="KIDS",Hip Hip Horee
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -418,15 +418,15 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="KidsTV.id" group-title="KIDS" tvg-logo="https://static.mncnow.id/images/channel/039c4e27/adf0_r32.jpg",My Kidz
+#EXTINF:-1 tvg-id="KidsTV.id" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/mykids.png",My Kidz
 https://mangga-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="KIDS" tvg-logo="https://static.mncnow.id/images/channel/ca7804fa/643a_r32.jpg",Dreamworks
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/dream.jpeg",Dreamworks
 https://mangga-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/C5LsscKb/boomerang-sout-asia.png" group-title="KIDS",Boomerang South East Asia
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/bommerang.jpg" group-title="KIDS",Boomerang South East Asia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
