@@ -491,10 +491,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 
 ""MOVIES""
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdZckcwM/bioskop-indonesia.jpg" group-title="MOVIES", BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/flixhd.jpeg" group-title="MOVIE",&Flix
+http://89.187.177.137:8081/&FLIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/bioskop%20indonesia.jpeg" group-title="MOVIES", BIOSKOP INDONESIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxcsxT6r/series-zone.jpg" group-title="MOVIES", SERIES ZONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -561,8 +567,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8fH71d2/hbomundi.png" group-title="MOVIES",HBO mundi
 ##http://208.115.225.174:14148
 
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.postimg.cc/cJ8fP6DW/flix.jpg",flix
-##http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/flix.jpeg",flix
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/sonypick.jpeg" group-title="MOVIES",sony pick
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
