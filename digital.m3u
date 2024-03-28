@@ -164,40 +164,91 @@ http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
-##🏆LIGA CHAMPIONS UEFA🏆##
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+##BRI LIGA 1##
+///bri///
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
+#EXTINF:-1 group-title="##BRI LIGA 1##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
+#EXTINF:-1 group-title="##BRI LIGA 1##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
+#EXTINF:-1 group-title="##BRI LIGA 1##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+#EXTINF:-1 group-title="##BRI LIGA 1##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+
+
+  @@ liga campions @@@
+
+#EXTINF:-1 group-logo="https://asset.kompas.com/crops/b89i-PRZO2XsMGuk7PhLAUKs1bE=/0x0:780x390/750x500/data/photo/2013/11/27/0545510Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Liga Champions ", SONY SPORTS 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions "  tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=189536325766_image-header_pRow_1690609698000",Eleven Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions " tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573856_image-header_pRow_1687892335000&quality=70",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions " tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176341573859_image-header_pRow_1687892335000&quality=70",Eleven Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions " tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133619_image-header_pRow_1687892336000&quality=70",Eleven Sports 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions " tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=176344133852_image-header_pRow_1687878826000",Eleven Sports 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="Liga Champions " tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=192659525513_image-header_pRow_1694392453000&quality=70",Eleven Sports 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd|user-agent=mozilla/89 ExoPlayerLib
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Liga Champions ", SONY SPORTS 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Liga Champions ", SONY SPORTS 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Liga Champions ", SONY SPORTS 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Liga Champions ", SONY SPORTS 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+
 
 !-- nasional backup -->
 
