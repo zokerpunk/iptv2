@@ -174,31 +174,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="##🏆LIGA CHAMPIONS UEFA🏆##" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/rmcsport1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/arenasportHR1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 4
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/tnt2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 6
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/tnt1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ziggovoetbal.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportFR1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 10
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/arenasportSR1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 11
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/eleven2BE.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/campions1.jpeg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 12
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
