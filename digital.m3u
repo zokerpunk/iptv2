@@ -51,6 +51,7 @@ https://iptvsystem.my.id/index.m3u8?cid=inews&provider=rctiplus&type=hls&token=e
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png" group-title="Nasional",ANTV
 ##https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://github.com/mimipipi22/lalajo/raw/main/antv.m3u8
 https://iptvsystem.my.id/index.m3u8?cid=antv&provider=indihome&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR
