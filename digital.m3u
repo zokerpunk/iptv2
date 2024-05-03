@@ -6,12 +6,6 @@
 #EXTM3U x-url-tvg="https://github.com/zokerpunk/epg"
 #EXTM3U url-tvg="https://github.com/zokerpunk/epg"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title="Sports ", SuperSport LaLiga
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
-
-
-
-
 #EXTM3U
 
 @@@@@@@ Nasional @@@@@@@
@@ -68,13 +62,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp" group-title="Nasional",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png"  group-title="Nasional",Trans TV
-##https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png"  group-title="Nasional",Trans 7
-##https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -193,8 +193,7 @@ https://testfunctionlive.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://iptvsystem.my.id/index.mpd?cid=soccerchannel&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|Referer="https://visionplus.id
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+https://testfunctionlive.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
