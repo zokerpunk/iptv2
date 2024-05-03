@@ -6,6 +6,12 @@
 #EXTM3U x-url-tvg="https://github.com/zokerpunk/epg"
 #EXTM3U url-tvg="https://github.com/zokerpunk/epg"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title="Sports ", SuperSport LaLiga
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
+
+
+
+
 #EXTM3U
 
 @@@@@@@ Nasional @@@@@@@
