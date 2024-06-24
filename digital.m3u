@@ -1154,14 +1154,14 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent= 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e 
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NzFuclBMUnhad0FVZll0RDhJNXJlT3MwalJyTFhEUXRXK3lHVkxlWkdwUXBrS0c2QTdVVlU2OHcwWUpHYy9Qa203c1U3VGZMZU1wcTNsK0JsZVNkcEZTMldtOEZxOGhOR3ZhMUN4enltTUJWd096WVl5WmFMcy9pVUZzdklJS3dYWE81c1BobWw4SnZ2bU9ub09OUnRnPT0=
+##https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NzFuclBMUnhad0FVZll0RDhJNXJlT3MwalJyTFhEUXRXK3lHVkxlWkdwUXBrS0c2QTdVVlU2OHcwWUpHYy9Qa203c1U3VGZMZU1wcTNsK0JsZVNkcEZTMldtOEZxOGhOR3ZhMUN4enltTUJWd096WVl5WmFMcy9pVUZzdklJS3dYWE81c1BobWw4SnZ2bU9ub09OUnRnPT0=
 
 #EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 2
 #EXTHTTP: 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent= 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8 
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NzFuclBMUnhad0FVZll0RDhJNXJlT3MwalJyTFhEUXRXK3lHVkxlWkdwUXBrS0c2QTdVVlU2OHcwWUpHYy9Qa203c1U3VGZMZU1wcTNsK0JsZVNkcER2dFRjV2U2SkdDRG5kSUcxMTd3Ry8rK1R0N2xJVUpVa1NPa3JqTmlNdU12QVRxV0t5SmZIbURKL1BZVlFjRW93PT0=
+##https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NzFuclBMUnhad0FVZll0RDhJNXJlT3MwalJyTFhEUXRXK3lHVkxlWkdwUXBrS0c2QTdVVlU2OHcwWUpHYy9Qa203c1U3VGZMZU1wcTNsK0JsZVNkcER2dFRjV2U2SkdDRG5kSUcxMTd3Ry8rK1R0N2xJVUpVa1NPa3JqTmlNdU12QVRxV0t5SmZIbURKL1BZVlFjRW93PT0=
 
 #EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3
 ##https://github.com/mimipipi22/lalajo/raw/main/ar-beinsports3.m3u8
