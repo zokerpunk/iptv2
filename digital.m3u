@@ -62,14 +62,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png"  group-title="Nasional",Trans TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
+##https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png"  group-title="Nasional",Trans 7
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+##https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -212,42 +213,32 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 1 HD
-http://filex.tv:8080/ad007/002790/52083 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 2 HD
-http://filex.tv:8080/ad007/002790/52085 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",SONY TEN 3 HD
-http://filex.tv:8080/ad007/002790/52086 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 1 HD 
-http://mega4k.one:8080/Hitesh123/Hitesh123/96496 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 2 HD 
-http://mega4k.one:8080/Hitesh123/Hitesh123/96497 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 3 HD 
-http://mega4k.one:8080/Hitesh123/Hitesh123/96498 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024", TSN 4 HD 
-http://mega4k.one:8080/Hitesh123/Hitesh123/96499 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="EURO 2024",TSN 5 HD 
-http://mega4k.one:8080/Hitesh123/Hitesh123/96500
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",FOX SPORT 
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26077&extension=ts&play_token=hwt2Nc2Uz8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",TV85 
+https://hw1.jemtv.com/app/tv85/chunks.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 1 
+http://tecnozone.site:8090/YeSalinas/YenySa/180695 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 2 
+http://tecnozone.site:8090/YeSalinas/YenySa/180696 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 3 
+http://tecnozone.site:8090/YeSalinas/YenySa/180697 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",COPA AMERICA 4 
+http://tecnozone.site:8090/YeSalinas/YenySa/180745 
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://i.ibb.co.com/Dky6hSN/copa-amerika.jpg" group-title="COPA AMERICA 2024",,COPA AMERICA 5 
+http://tecnozone.site:8090/YeSalinas/YenySa/180752
 
-#EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg",ARENA 1 PREMIUM 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://budtv-ultra.com/posters/1713315679454.png" group-title="COPA AMERICA 2024",TV Max Canal 9 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg" group-title="COPA AMERICA 2024",CA TSN 4 
+http://cord-cutter.net:8080/n8buxG/222085/66783
 
-#EXTINF:-1 tvg-id="" tvg-name="TE Y C Sports (AR)(R)" tvg-logo="https://budtv-ultra.com/posters/1712865842512.png" group-title="COPA AMERICA 2024",TE Y C Sports 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Teletica (CR)(R)" tvg-logo="https://budtv-ultra.com/posters/1715047731266.png" group-title="COPA AMERICA 2024",Teletica 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162530.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11(HN)(R)" tvg-logo="https://budtv-ultra.com/posters/1711993939477.png" group-title="COPA AMERICA 2024",Canal 11 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/158494.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 HD (CH)(R)" tvg-logo="https://budtv-ultra.com/posters/1713314422417.png" group-title="COPA AMERICA 2024",CANAL 13 HD 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162458.m3u8
-
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD " tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/ngc4flcw4hddlkpgzs10.jpg" group-title="COPA AMERICA 2024",CA TSN 4 HD 
+http://cord-cutter.net:8080/n8buxG/222085/16130
 
 !-- nasional backup -->
 
@@ -297,10 +288,19 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/transtv2.png"  group-title="nasional backup",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+##https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/trans7%202.png"  group-title="nasional backup",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/rtv2.png"  group-title="nasional backup",RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
