@@ -131,9 +131,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mentaritv2.png"  group-title="Nasional",Mentari tv
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_8237_720p/hdntl=exp=1718212283~acl=%2f*~id=29070766~data=hdntl~hmac=218722d6f9da036d2449f2016a90092556a9b7c4a968b92c5cbc3b18a81c8882/index.m3u8
-##http://iptvtree.net:8080/c4596f70/c3848d92/298546
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
