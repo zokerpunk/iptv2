@@ -365,7 +365,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/zoomoo.png" group-title="KIDS",Zoo Moo
-https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -418,7 +418,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/disney.jpeg" group-title="KIDS",Disney Ch
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/165075
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/hiphip.png" group-title="KIDS",Hip Hip Horee
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
