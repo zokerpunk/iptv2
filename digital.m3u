@@ -30,6 +30,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png" group-title="Nasional",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png" group-title="Nasional",GTV2
+https://github.com/mimipipi22/lalajo/raw/main/Streaming/indonesia/gtv.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -408,21 +411,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/horee.png", Horee!
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/cartoon.png" group-title="KIDS",Cartoon Net
 https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/cartoonnetwork.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/duniaanak.jpeg" group-title="KIDS", Dunia Anak
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/disney.jpeg" group-title="KIDS",Disney Ch
-https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/disneych.m3u8
-http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60230
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/hiphip.png" group-title="KIDS",Hip Hip Horee
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -445,10 +435,26 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/boomerang.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/horee.png", Horee!
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/tayo.png" group-title="KIDS",Tayo Tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/duniaanak.jpeg" group-title="KIDS", Dunia Anak
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/disney.jpeg" group-title="KIDS",Disney Ch
+https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/disneych.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/hiphip.png" group-title="KIDS",Hip Hip Horee
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
+
+
+
 
 @@@  music  @@@
 
