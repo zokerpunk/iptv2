@@ -165,7 +165,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="##BRI LIGA 1##",liga 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
-##https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+http://iptvtree.net:8080/e891d265/89d742c3/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -225,8 +225,10 @@ http://cord-cutter.net:8080/n8buxG/222085/16130
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/moji2.png"  group-title="nasional backup",Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+
+
 
 #EXTINF:-1 group-title="nasional backup" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -262,7 +264,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://xtv.ooo:8080/MansoorWapda/258741/350972
-http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
