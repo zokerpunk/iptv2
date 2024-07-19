@@ -412,12 +412,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=l
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/cartoon.png" group-title="KIDS",Cartoon Net
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/duniaanak.jpeg" group-title="KIDS", Dunia Anak
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/264753
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/disney.jpeg" group-title="KIDS",Disney Ch
+https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/disneych.m3u8
 http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/hiphip.png" group-title="KIDS",Hip Hip Horee
@@ -444,7 +445,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
+https://github.com/mimipipi22/lalajo/raw/main/Streaming/kids/boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/tayo.png" group-title="KIDS",Tayo Tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
