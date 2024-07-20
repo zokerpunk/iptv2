@@ -264,7 +264,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="nasional backup" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch107.m3u8
+hhttps://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/sctv2.png"  group-title="nasional backup",SCTV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -878,93 +878,94 @@ http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-106 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/insantv.png",INSAN TV
-https://flv.intechmedia.net/intech/ch1.m3u8
+https://flv.intechmedia.net/live/ch1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-104 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ashiiltv.png",ASHIIL TV
-https://flv.intechmedia.net/intech/ch2.m3u8
+https://flv.intechmedia.net/live/ch2.m3u8
 ##https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/surautv.png",SURAU TV
-##https://flv.intechmedia.net/intech/ch3.m3u8
+##https://flv.intechmedia.net/live/ch3.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1  group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ahsan%20tv.png" ,Ahsan TV
-https://flv.intechmedia.net/intech/ch4.m3u8
+https://flv.intechmedia.net/live/ch4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1   group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/muadztv.jpeg",Muadz TV
-https://flv.intechmedia.net/intech/ch5.m3u8
+https://flv.intechmedia.net/live/ch5.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/rasyaad.png",RASYAAD TV
-##https://flv.intechmedia.net/intech/ch6.m3u8
+https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/NAAJIYATV.png",NAAJIYA TV
-https://flv.intechmedia.net/intech/ch7.m3u8
+https://flv.intechmedia.net/live/ch7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-109 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/HIJRAH.jpeg",HIJRAH TV
-https://flv.intechmedia.net/intech/ch8.m3u8
+https://flv.intechmedia.net/live/ch8.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-105 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/alimantv.png",AL IMAN TV
-https://flv.intechmedia.net/intech/ch9.m3u8
+https://flv.intechmedia.net/live/ch9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-111 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/niagatv.png",NIAGA TV
-https://flv.intechmedia.net/intech/ch10.m3u8
+https://flv.intechmedia.net/live/ch10.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-111 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/SALAM.jpeg",SALAM TV
-https://flv.intechmedia.net/intech/ch12.m3u8
+https://flv.intechmedia.net/live/ch12.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/MADINA.jpeg",Madinah TV
-https://flv.intechmedia.net/intech/ch13.m3u8
+https://flv.intechmedia.net/live/ch13.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-101 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/makkah.png",MAKKAH TV
-https://flv.intechmedia.net/intech/ch14.m3u8
+https://flv.intechmedia.net/live/ch14.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/TV%20Sunnah.png",TV Sunnah
-##https://flv.intechmedia.net/intech/ch16.m3u8
+##https://flv.intechmedia.net/live/ch16.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-110 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/sjp%20tv.png",SJP TV
-https://flv.intechmedia.net/intech/ch17.m3u8
+https://flv.intechmedia.net/live/ch17.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
-#EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/madani%20tv.png",Bina Madani TV
-##https://flv.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/madani%20tv.png", Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-116 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/binbaztv.png",BINBAZ TV
-https://flv.intechmedia.net/intech/ch22.m3u8
+https://flv.intechmedia.net/live/ch22.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/MedSTV.png",MedSTV
-https://flv.intechmedia.net/intech/ch23.m3u8
+https://flv.intechmedia.net/live/ch23.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-108 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/AL-FURQON.jpeg",ALFURQON TV
-##https://flv.intechmedia.net/intech/ch24.m3u8
+https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/mgitv.png",MGI TV
-https://flv.intechmedia.net/intech/ch25.m3u8
+https://flv.intechmedia.net/live/ch25.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/rodja.png",RODJA TV
-https://flv.intechmedia.net/intech/ch26.m3u8
+https://flv.intechmedia.net/live/ch26.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/Izzah%20TV.png",Izzah TV
-##https://flv.intechmedia.net/intech/ch28.m3u8
+https://flv.intechmedia.net/live/ch28.m3u8
 
 #EXTINF:-106 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/wesaltv.png",wesal tv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
@@ -976,7 +977,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://video1.earthcam.com/myearthcam/4eb5879494741d9fc24ff8203976697c.flv/playlist.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ARTVISI.png",ARTVISI
-##https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/mtq.png",MTQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
@@ -1003,10 +1005,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 group-title="Reliji"tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/albajrah.png" ,Al Bahjah TV
-https://flv.intechmedia.net/intech/ch64.m3u8
+https://flv.intechmedia.net/live/ch64.m3u8
 
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ufatv.png",UFA TV
-https://flv.intechmedia.net/intech/ch27.m3u8
+https://flv.intechmedia.net/live/ch27.m3u8
 
 
 @@@@ LOCAL @@@
