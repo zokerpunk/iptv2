@@ -149,7 +149,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/Usee_Prime.png",UseePrime
-http://iptvtree.net:8080/F26646/f950f250/162524
+##http://iptvtree.net:8080/F26646/f950f250/162524
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri%20sport.png"  group-title="Nasional",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20002.m3u8
