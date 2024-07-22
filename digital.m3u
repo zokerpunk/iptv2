@@ -25,7 +25,7 @@ http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="Nasional",RCTI 2
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/5
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -34,6 +34,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png" group-title="Nasional",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png" group-title="Nasional",GTV2
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/7
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
