@@ -18,7 +18,9 @@ http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 ##https://test.otto.my.id/backup/live.php?id=moji
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="Nasional",RCTI
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/5
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -27,7 +29,9 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/5
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png" group-title="Nasional",GTV
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/7
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -36,7 +40,9 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/7
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png" group-title="Nasional",MNC TV
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/6
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,7 +51,9 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/6
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png" group-title="Nasional",iNews
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -172,7 +180,7 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/16
 
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png"  group-title="info lainya w@ admin 085945601838",dunia lain
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/46
+##http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/46
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJ1Gbkc/youtube.webp" group-title="info lainya w@ admin 085945601838" ,hanya km yg bisa
