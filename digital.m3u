@@ -71,8 +71,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp" group-title="Nasional",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -352,8 +351,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-##http://xtv.ooo:8080/MansoorWapda/258741/350972
-##http://iptvtree.net:8080/e891d265/89d742c3/162138
+http://iptvtree.net:8080/e891d265/89d742c3/162138
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png"  group-title="nasional backup",Indosiar 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd 
+
 
 #EXTINF:-1 group-title="nasional backup" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
