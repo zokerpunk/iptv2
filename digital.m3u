@@ -106,8 +106,8 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png"  group-title="Nasional",Trans 7
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -343,7 +343,7 @@ http://cord-cutter.net:8080/n8buxG/222085/16130
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+##http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 
