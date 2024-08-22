@@ -67,7 +67,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png" group-title="Nasional",ANTV
-##https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+##https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 ##http://stb.mbahnunungonline.net/live/m3u8/id/b630a001384603f.m3u8
 
@@ -116,8 +116,9 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvone.png"  group-title="Nasional",TVOne
-##https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+##https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/metroTV.png"  group-title="Nasional",Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -298,12 +299,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="## LIVE ##" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
-##https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+##https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qJpj9QP/4b47.png" group-title="## LIVE ##" , Spotv 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live13.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqysLvR/768b.png" group-title="## LIVE ##" ,Spotv 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -423,8 +427,14 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/moji2.png"  group-title="NASIONAL TEST",Moji (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-title="NASIONAL TEST" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -459,6 +469,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 http://iptvtree.net:8080/e891d265/89d742c3/162138
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png"  group-title="NASIONAL TEST",Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -556,7 +569,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 ##https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/showbiz.png"  group-title="NASIONAL TEST",Showbiz
-##http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
 
 #EXTINF:-1 group-title="NASIONAL TEST"tvg-url="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/garudatv2.jpeg",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
