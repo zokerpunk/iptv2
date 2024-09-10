@@ -1648,13 +1648,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="SPORT",Arena Sport 1 HD
-http://80.252.37.194:5000/udp/233.233.233.3:12000
+##http://80.252.37.194:5000/udp/233.233.233.3:12000
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="SPORT",Arena Sport 2 HD
-http://80.252.37.194:5000/udp/233.233.233.4:12000
+##http://80.252.37.194:5000/udp/233.233.233.4:12000
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="SPORT",Arena Sport 3 HD
-http://80.252.37.194:5000/udp/233.233.233.5:12000
+##http://80.252.37.194:5000/udp/233.233.233.5:12000
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="SPORT",Arena Sport 4 HD
 http://80.252.37.194:5000/udp/233.233.233.6:12000
