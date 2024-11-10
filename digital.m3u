@@ -121,7 +121,8 @@ https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+##https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 ##http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 ##http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 ##https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
@@ -180,19 +181,20 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp" group-title="Nasional",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+##https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp" group-title="Nasional",SCTV
