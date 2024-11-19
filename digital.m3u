@@ -170,9 +170,10 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-http://xtv.ooo:8080/359052742/470428329/350972
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="Nasional",INDOSIAR
@@ -427,11 +428,14 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
 !-- NASIONAL TEST -->
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/moji2.png"  group-title="NASIONAL TEST",Moji (FMX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/moji2.png"  group-title="NASIONAL TEST",Moji (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+
+
 
 #EXTINF:-1 group-title="NASIONAL TEST" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/rcti2.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -456,21 +460,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-https://cempedak-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/antv2.png"  group-title="NASIONAL TEST",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png"  group-title="NASIONAL TEST",Indosiar
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png"  group-title="NASIONAL TEST",Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -483,10 +478,6 @@ https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/sctv2.png"  group-title="NASIONAL TEST",SCTV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/sctv2.png"  group-title="NASIONAL TEST",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -494,24 +485,15 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/transtv2.png"  group-title="NASIONAL TEST",Trans TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-##https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/trans7%202.png"  group-title="NASIONAL TEST",Trans 7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-##https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/rtv2.png"  group-title="NASIONAL TEST",RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="NASIONAL TEST" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/net2.png",NET. HD
