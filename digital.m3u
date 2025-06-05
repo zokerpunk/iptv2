@@ -1,4 +1,4 @@
-D3#EXTM3U url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional.xml"
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/asalklik.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nagaratetangga.xml" 
@@ -10,60 +10,64 @@ D3#EXTM3U url-tvg="https://raw.githubusercontent.com/zokerpunk/epg/main/nasional
 perbaikan chanel butuh roko kopi🙏🙏
 #EXTINF:-1 group-title="perbaikan chanel butuh roko kopi🙏🙏" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Indosiar(@)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png" group-title="khusus live mudaha2an awet",Indosiar(@)
 ##http://xtv.ooo:8080/359052742/470428329/350972
 
-#EXTINF:-1 tvg-id="Sportstars.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Sportstars
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-https://terabit.web.id/media.mpd?id=112&type=dash|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Sportstars.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="khusus live mudaha2an awet",Sportstars
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
 
 
-#EXTINF:-1 group-title="perbaikan chanel butuh roko kopi ya🙏🙏" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="khusus live mudaha2an awet" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport3.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏", SPORTSTARS 3
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport3.png" group-title="khusus live mudaha2an awet", SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+##https://terabit.web.id/media.mpd?id=114&type=dash|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 
-#EXTINF: -1 group-title="perbaikan chanel butuh roko kopi ya🙏🙏" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport4.png", SPORTSTARS 4
+#EXTINF: -1 group-title="khusus live mudaha2an awet" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport4.png", SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
-#EXTINF:-1 group-title="perbaikan chanel butuh roko kopi ya🙏🙏" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_101.png",soccer chanel
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTINF:-1 group-title="khusus live mudaha2an awet" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_101.png",soccer chanel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_307.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏" , Spotv 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_307.png" group-title="khusus live mudaha2an awet" , Spotv 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_308.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏" ,Spotv 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_308.png" group-title="khusus live mudaha2an awet" ,Spotv 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/Unifi_Sports.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏" , unifi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/Unifi_Sports.png" group-title="khusus live mudaha2an awet" , unifi TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport1
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="khusus live mudaha2an awet",Bein Sport1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,7 +75,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport2
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="khusus live mudaha2an awet",Bein Sport2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,7 +83,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd 
 
-#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport3
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="khusus live mudaha2an awet",Bein Sport3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,29 +94,29 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport4
+#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="khusus live mudaha2an awet",Bein Sport4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport5
+#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="khusus live mudaha2an awet",Bein Sport5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="perbaikan chanel butuh roko kopi ya🙏🙏", DubaiSports 1
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="perbaikan chanel butuh roko kopi ya🙏🙏", DubaiSports 2
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="perbaikan chanel butuh roko kopi ya🙏🙏", DubaiSports 3	
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 3	
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport6
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="khusus live mudaha2an awet",Bein Sport6
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 ##https://ddy6.mizhls.ru/ddy6/premium96/tracks-v1a1/mono.m3u8
@@ -120,19 +124,19 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 
 
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport7
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="khusus live mudaha2an awet",Bein Sport7
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 ##https://ddy6.mizhls.ru/ddy6/premium97/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport8
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="khusus live mudaha2an awet",Bein Sport8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 ##https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport9
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="khusus live mudaha2an awet",Bein Sport9
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 ##https://ddy6.mizhls.ru/ddy6/premium99/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="perbaikan chanel butuh roko kopi ya🙏🙏",Bein Sport10
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="khusus live mudaha2an awet",Bein Sport10
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 ##https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
