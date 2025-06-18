@@ -220,7 +220,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="Nasional",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png" group-title="Nasional",RCTI v+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
