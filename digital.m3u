@@ -8,7 +8,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Sportstars.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="khusus live mudaha2an awet",Sportstars
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="khusus live mudaha2an awet",Sportstars
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
