@@ -483,31 +483,31 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
 sport info wa.o085945601838
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="dubaisports2.ae" tvg-logo="https://iptv.urfan.web.id/logo/dubaisports.png",Dubai Sports 2
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="dubaisports2.ae" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/dubai2.jpeg",Dubai Sports 2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="dubaisports3.ae" tvg-logo="https://iptv.urfan.web.id/logo/dubaisports.png",Dubai Sports 3
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="dubaisports3.ae" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/dubai3.jpeg",Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-logo="https://iptv.urfan.web.id/logo/impact.png",IMPACT! Wrestling
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/infack%20wer.jpeg",IMPACT! Wrestling
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="motorvisiontv.de" tvg-logo="https://iptv.urfan.web.id/logo/motorvision.png",Motorvision TV
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="motorvisiontv.de" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/motorvision.jpeg",Motorvision TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-logo="https://iptv.urfan.web.id/logo/redbull.png",Red Bull TV
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/reed%20bull.png",Red Bull TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id=mutv.uk" tvg-logo="https://iptv.urfan.web.id/logo/mu.png",MUTV
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id=mutv.uk" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/mu%20tv2.png",MUTV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="realmadridtv.es" tvg-logo="https://iptv.urfan.web.id/logo/rm.png",Real Madrid TV
+#EXTINF:-1 group-title="sport info wa.o085945601838" tvg-id="realmadridtv.es" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/realmadrid%20tv.png",Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
