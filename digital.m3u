@@ -105,55 +105,20 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 1
+#EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/rACeM3m.png" group-title="khusus live mudaha2an awet", DubaiSports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://warningfm.github.io/v3/img/rACeM3m.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 2
+#EXTINF:-1 tvg-id="Dubai Sports 2.ae" tvg-name="Dubai Sports 2.ae" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/rACeM3m.png" group-title="khusus live mudaha2an awet", DubaiSports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="khusus live mudaha2an awet", DubaiSports 3	
+#EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/rACeM3m.png" group-title="khusus live mudaha2an awet", DubaiSports 3	
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="khusus live mudaha2an awet",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="khusus live mudaha2an awet",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="khusus live mudaha2an awet",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="khusus live mudaha2an awet",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="khusus live mudaha2an awet",Champions TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="khusus live mudaha2an awet" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="khusus live mudaha2an awet" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/eurosport.png",Eurosport Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
@@ -1459,8 +1424,8 @@ https://flv.intechmedia.net/live/ch2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/surautv.png",SURAU TV
-##https://flv.intechmedia.net/live/ch3.m3u8
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1  group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ahsan%20tv.png" ,Ahsan TV
@@ -1468,11 +1433,11 @@ https://flv.intechmedia.net/live/ch4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1   group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/muadztv.jpeg",Muadz TV
-##https://flv.intechmedia.net/live/ch5.m3u8
+https://flv.intechmedia.net/live/ch5.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/rasyaad.png",RASYAAD TV
-https://flv.intechmedia.net/live/ch6.m3u8
+##https://flv.intechmedia.net/live/ch6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/NAAJIYATV.png",NAAJIYA TV
@@ -1492,7 +1457,7 @@ https://flv.intechmedia.net/live/ch10.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-111 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/SALAM.jpeg",SALAM TV
-https://flv.intechmedia.net/live/ch12.m3u8
+##https://flv.intechmedia.net/live/ch12.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-1 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/MADINA.jpeg",Madinah TV
@@ -1525,7 +1490,7 @@ https://flv.intechmedia.net/live/ch23.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-108 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/AL-FURQON.jpeg",ALFURQON TV
-https://flv.intechmedia.net/live/ch24.m3u8
+##https://flv.intechmedia.net/live/ch24.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-115 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/mgitv.png",MGI TV
@@ -1533,7 +1498,7 @@ https://flv.intechmedia.net/live/ch25.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/rodja.png",RODJA TV
-https://flv.intechmedia.net/live/ch26.m3u8
+##https://flv.intechmedia.net/live/ch26.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/Izzah%20TV.png",Izzah TV
@@ -1551,7 +1516,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ARTVISI.png",ARTVISI
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.yufid.com/hls/artvisi.m3u8
+##https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-103 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/mtq.png",MTQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
@@ -1560,28 +1525,29 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:0 group-title="Reliji"tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/muhammadiyah.png",TV Muhammadiyah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=30
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta1-cdn-flr.visionplus.id/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTINF:0 group-title="Reliji"tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/muslim.png",Muslim TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=137
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
 #EXTINF:0 group-title="Reliji"tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/tawaf.png",Tawaf TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
 #EXTINF:-1 group-title="Reliji"tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/albajrah.png" ,Al Bahjah TV
-https://flv.intechmedia.net/live/ch64.m3u8
+##https://flv.intechmedia.net/live/ch64.m3u8
 
 #EXTINF:-100 group-title="Reliji" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/religi/ufatv.png",UFA TV
-https://flv.intechmedia.net/live/ch27.m3u8
+##https://flv.intechmedia.net/live/ch27.m3u8
 
 
 @@@@ LOCAL @@@
