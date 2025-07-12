@@ -1413,7 +1413,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/lokal2/balitv.png"  group-title="Local",Bali Tv
-https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+##https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/inspira.jpeg"  group-title="Local",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -1425,13 +1425,13 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 ##https://o1.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/tegar%20tv.png"  group-title="Local",Tegar TV
-https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+##https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/tegartvjogja.jpeg"  group-title="Local",Tegar TV jogja
-http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+##http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/simpang%205%20tv.jpeg"  group-title="Local",Simpang5 TV
-http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+##http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwM1HRQz/tatv.jpg"  group-title="Local",TATV
 ##https://v2.siar.us/tatv/live.sdp/playlist.m3u8
@@ -1440,13 +1440,13 @@ http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 ##https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvdaerah/smtv.jpeg"  group-title="Local",SMTV
-http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+##http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png/revision/latest"  group-title="Local",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
+##https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png"  group-title="Local",AdiTV
-https://v2.siar.us/aditv/livestream/playlist.m3u8
+##https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxdF2nZB/huma-betang-tv.jpg"  group-title="Local",Huma Betang TV
 ##https://v3.siar.us/humabetangtv/live/playlist.m3u8
