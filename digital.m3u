@@ -36,11 +36,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/sport4.png", SPORTSTARS 4
 #EXTGRP:😎khusus live olahraga ya😎
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/channel_101.png",soccer chanel
 #EXTGRP:😎khusus live olahraga ya😎
@@ -1588,4 +1589,5 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 
 #EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/AKA.jpg" group-title="pengen lebih wa admin 085945601838",INFO VOD
 https://drive.usercontent.google.com/download?id=1RlgnbHD1Zh5BpuM93U641S5W8xTtwZKs&export=download&authuser=1&confirm=t&uuid=f328e017-be5e-4f71-9820-29cf29a72428&at=APZUnTUEW9IgeOWMAYO5ZDq-f_bJ:1721436448752
+
 
