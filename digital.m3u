@@ -1523,16 +1523,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c00da2a838a8989bc26e314dd7fb3775:1e4c2a8c011e138a2190ab19c2b30f86
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/sQ5GGdW/discoscience.png" group-title="Knowledge", Discovery Science
 https://live.shoq.com.pk/live/eds/Discovery_Science/DASH/Discovery_Science.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/GQwHCvPB/discofam.png" group-title="Knowledge", Discovery Family
 https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/DKFgvY2/discoturbo.png" group-title="Knowledge", Discovery Turbo 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
@@ -1593,6 +1596,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 
 #EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/AKA.jpg" group-title="pengen lebih wa admin 085945601838",INFO VOD
 https://drive.usercontent.google.com/download?id=1RlgnbHD1Zh5BpuM93U641S5W8xTtwZKs&export=download&authuser=1&confirm=t&uuid=f328e017-be5e-4f71-9820-29cf29a72428&at=APZUnTUEW9IgeOWMAYO5ZDq-f_bJ:1721436448752
+
 
 
 
