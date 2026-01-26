@@ -303,12 +303,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvone.png",TVOne
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/metroTV.png",Metro TV
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/metroTV.png",Metro TV
 #EXTGRP:👉Nasional selalu update✔
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
@@ -1596,6 +1596,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 
 #EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/AKA.jpg" group-title="pengen lebih wa admin 085945601838",INFO VOD
 https://drive.usercontent.google.com/download?id=1RlgnbHD1Zh5BpuM93U641S5W8xTtwZKs&export=download&authuser=1&confirm=t&uuid=f328e017-be5e-4f71-9820-29cf29a72428&at=APZUnTUEW9IgeOWMAYO5ZDq-f_bJ:1721436448752
+
 
 
 
