@@ -16,7 +16,7 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR live
 #EXTGRP:😎khusus live olahraga ya😎
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
@@ -279,7 +279,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
 #EXTGRP:👉Nasional selalu update✔
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV V+
@@ -293,7 +293,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7
 #EXTGRP:👉Nasional selalu update✔
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2035247748_b744100_sleng.m3u8
+##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2035247748_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 V+
 #EXTGRP:👉Nasional selalu update✔
