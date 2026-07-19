@@ -17,7 +17,8 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=16
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg" group-title="😎khusus live olahraga ya😎",TVRI NASIONAL live
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name=""tvg-logo="https://mimipipi22.github.io/logo/nasional/tvri.jpg",TVRI live
+#EXTGRP:😎khusus live olahraga ya😎
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 
 
