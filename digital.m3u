@@ -301,7 +301,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
 #EXTGRP:👉Nasional selalu update✔
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w2087504496_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ5OTg4MDkyODgmd293emF0b2tlbmhhc2g9Z2N0aFhKR09VMUYyX3hqUkhlYzBUNURiZUxPMDBLbHd2OXc1SnE4SE9FUT0=.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1784998809288&wowzatokenhash=gcthXJGOU1F2_xjRHec0T5DbeLO00Klwv9w5Jq8HOEQ%3D
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV V+
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -460,15 +462,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 
 
 <!--info lainya w@ admin 085945601838 -->
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJ1Gbkc/youtube.webp" group-title="info lainya w@ admin 085945601838" ,hanya km yg bisa
-https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="info lainya w@ admin 085945601838",mungkinkah
-https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="info lainya w@ admin 085945601838",rindu
-https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" group-title="info lainya w@ admin 085945601838",jgn marah
 https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
