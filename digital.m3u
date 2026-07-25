@@ -199,11 +199,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI v+
 #EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV
@@ -223,7 +223,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV V+
 #EXTGRP:👉Nasional selalu update✔
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -231,21 +231,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV v+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV R+
 #EXTGRP:👉Nasional selalu update✔
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews R+
 #EXTGRP:👉Nasional selalu update✔
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 
