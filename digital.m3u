@@ -19,7 +19,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name=""tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri.webp",TVRI live
 #EXTGRP:😎khusus live olahraga ya😎
@@ -41,7 +40,6 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
