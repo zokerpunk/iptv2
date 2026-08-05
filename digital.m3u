@@ -22,7 +22,8 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV live
 #EXTGRP:😎khusus live olahraga ya😎
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd?hdntl=exp=1785974653~acl=%2fstream%2f204%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=29070766~data=hdntl~hmac=abee07e7a2745369eee337b662b2a9b51d191a1ef20774f01ce866ef87866412
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd
+
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name=""tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri.webp",TVRI live
 #EXTGRP:😎khusus live olahraga ya😎
@@ -44,6 +45,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
