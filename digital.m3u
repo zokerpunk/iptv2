@@ -19,11 +19,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV live
-#EXTGRP:😎khusus live olahraga ya😎
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/stream.mpd
-
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name=""tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri.webp",TVRI live
 #EXTGRP:😎khusus live olahraga ya😎
