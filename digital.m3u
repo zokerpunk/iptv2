@@ -196,7 +196,8 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI v+
 #EXTGRP:👉Nasional selalu update✔
@@ -211,7 +212,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV v+
 #EXTGRP:👉Nasional selalu update✔
@@ -234,7 +235,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews v+
@@ -246,7 +247,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD
 #EXTGRP:👉Nasional selalu update✔
@@ -264,8 +265,12 @@ https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR hd
+#EXTGRP:👉Nasional selalu update✔
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/ 
@@ -274,6 +279,12 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV hd
+#EXTGRP:👉Nasional selalu update✔
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ 
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7
 #EXTGRP:👉Nasional selalu update✔
