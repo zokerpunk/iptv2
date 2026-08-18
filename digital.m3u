@@ -209,7 +209,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/Champio
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://oxygentv.id/img/logo-putih.png", Oxygen TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/logo-putih.png", Oxygen TV
 #EXTGRP:👉Nasional selalu update✔
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
@@ -413,7 +413,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 ##https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-m.png",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/856-LOGO-m.png",JTV
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
