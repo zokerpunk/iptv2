@@ -448,41 +448,72 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 
 <!--list ini khusus digital tv.apk -->
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" list khusus digital tv.apk,jgn marah
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif",jgn marah
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" list khusus digital tv.apk,kgn dangdut
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif",kgn dangdut
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" list khusus digital tv.apk,cnt tak memilih
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif",cnt tak memilih
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif" list khusus digital tv.apk,kau tercipta
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif",kau tercipta
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,Trio macan1
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",Trio macan1
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/1993675/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,Trio macan2
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",Trio macan2
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/2638797/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,Trio macan3
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",Trio macan3
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/2276819/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,Trio macan4
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",Trio macan4
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7619412/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,mukamu manis
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",mukamu manis
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7167514/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,kau bkn dirimu
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",kau bkn dirimu
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7044516/common_tokenized_playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif " list khusus digital tv.apk,gengsi dong
+#EXTINF:-1  tvg-logo="https://media.tenor.com/YzrpqBmwMLEAAAAM/mashwalker.gif ",gengsi dong
+#EXTGRP:list khusus digital tv.apk
 https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
 
 list ini khusus digital tv.apk
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg",SPOTV 🇵🇭
+#EXTGRP:list ini khusus digital tv.apk
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg",SPOTV 2 🇵🇭
+#EXTGRP:list ini khusus digital tv.apk
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
 
 #EXTGRP:list ini khusus digital tv.apk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
