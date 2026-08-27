@@ -250,12 +250,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI R
-#EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referrer=https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787879228~hmac=b75332f52b2e80a4648891853bc90e1beb295fdbd9a4ffd4183d2bde43a0c8c1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://rcti-linier.rctiplus.id/hdntl=exp=1787897228~acl=%2F*~data=hdntl~hmac=369372ce1dc0b3fc921688db04e4f7073788e80b079d1152e4931aea15aa0e83/rcti-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV R+
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=android-R+
@@ -317,8 +311,8 @@ http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3M
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referrer="https://20.detik.com/"
-#EXTVLCOPT:http-origin="https://20.detik.com"
+#EXTVLCOPT:http-referrer="https://20.detik.com/
+#EXTVLCOPT:http-origin="https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://20.detik.com/watch/livestreaming-trans7
 http://013tv.com:8080/F33848/cbd9779b/162502
@@ -333,8 +327,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referrer="https://20.detik.com/"
-#EXTVLCOPT:http-origin="https://20.detik.com"
+#EXTVLCOPT:http-referrer="https://20.detik.com/
+#EXTVLCOPT:http-origin="https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://20.detik.com/watch/livestreaming-transtv
 http://013tv.com:8080/F33848/cbd9779b/162503
@@ -3407,6 +3401,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/AKA.jpg" group-title="pengen lebih wa admin 085945601838",INFO VOD
 https://drive.usercontent.google.com/download?id=1RlgnbHD1Zh5BpuM93U641S5W8xTtwZKs&export=download&authuser=1&confirm=t&uuid=f328e017-be5e-4f71-9820-29cf29a72428&at=APZUnTUEW9IgeOWMAYO5ZDq-f_bJ:1721436448752
+
 
 
 
