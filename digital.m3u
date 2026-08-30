@@ -281,14 +281,14 @@ https://cdnjktbpid37.cubmu.com/riutx01-3654cc1830c6bc272f5425b1ba540105/dash/R1R
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD
 #EXTGRP:👉Nasional selalu update✔
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
 
