@@ -444,35 +444,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 
 ⭐⭐MAXT STREAM⭐⭐
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV T
-#EXTGRP:⭐⭐MAXT STREAM⭐⭐
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53-af28-4fd5-9021-7ede1eba765e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://cdnjktbpid37.cubmu.com/riutx01-3654cc1830c6bc272f5425b1ba540105/dash/U0NUVi1teQ/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 T
-#EXTGRP:⭐⭐MAXT STREAM⭐⭐
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://cdnjktbpid02.transvision.co.id/riutx01-3654cc1830c6bc272f5425b1ba540105/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd
-##https://20.detik.com/watch/livestreaming-trans7
-##http://013tv.com:8080/F33848/cbd9779b/162502
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV T
-#EXTGRP:⭐⭐MAXT STREAM⭐⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53-af28-4fd5-9021-7ede1eba765e
-https://cdnjktbpid37.cubmu.com/riutx01-3654cc1830c6bc272f5425b1ba540105/dash/R1RWLUNIQU5ORUw/manifest.mpd
-
 #EXTGRP:⭐⭐MAXT STREAM⭐⭐
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI MAX
 #EXTGRP:⭐⭐MAXT STREAM⭐⭐
