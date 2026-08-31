@@ -1778,7 +1778,7 @@ http://ikitv.sqn.at:8000/play/a047/index.m3u8
 ##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.png"HBO Hits (TS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hbo.png",HBO Hits (TS)
 #EXTGRP:MOVIES
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
 
