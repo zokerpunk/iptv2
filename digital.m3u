@@ -391,23 +391,21 @@ http://ktpremium.world:2095/live/xm1001/4757410/73609.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.eu-north-1a.cf.dmcdn.net/sec2(7jJ7EZdQYyFZJ8qRz-rgdnNAIuWkpFrQC0pEAfh2oigY102aWqzEzAIwJROT6A9PZUjJhLw49jfZ8au00cbabcRjl4H8QzrnaN5jzkyH2QhgYZZHXp76T9_ESXhLTTHM)/dm/3/x8qckyq/d/live-480.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
-#EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referrer="https://20.detik.com/
-#EXTVLCOPT:http-origin="https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://20.detik.com/watch/livestreaming-transtv
-##http://013tv.com:8080/F33848/cbd9779b/162503
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV v+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV ts
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 http://ktpremium.world:2095/live/xm1001/4757410/73608.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
+#EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://20.detik.com/watch/livestreaming-transtv
+http://013tv.com:8080/F33848/cbd9779b/162503
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvone.png",TVOne
 #EXTGRP:👉Nasional selalu update✔
