@@ -523,6 +523,21 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/ma
 #EXTGRP:👉Nasional selalu update✔
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV 🇮🇩
+#EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0 
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://20.detik.com/watch/livestreaming-transtv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 🇮🇩
+#EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0 
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://20.detik.com/watch/livestreaming-trans7
+
 ⭐⭐MAXT STREAM⭐⭐
 
 #EXTGRP:⭐⭐MAXT STREAM⭐⭐
