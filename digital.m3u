@@ -540,6 +540,15 @@ https://20.detik.com/watch/livestreaming-trans7
 
 ⭐⭐BACKUP⭐⭐
 
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg",TRANS TV (CBM)
+#EXTGRP:⭐⭐BACKUP⭐⭐
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjktbpid02.transvision.co.id/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/VHJhbnNUVg/vx9-mdrmprt02/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
 #EXTGRP:⭐⭐BACKUP⭐⭐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
