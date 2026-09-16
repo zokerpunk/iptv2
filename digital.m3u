@@ -11,7 +11,7 @@
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png",V+ Sports
 #EXTGRP:😎live sport semetara gangguan😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=ozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=1011&type=fitnah
@@ -1316,6 +1316,32 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 1
 #EXTGRP:LIVE | LIGA INGGRIS
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
+https://ott.djdoolky76.io/api/streams/167/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 2
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065803&extension=ts&play_token=f1Sj0jPTQq
+https://ott.djdoolky76.io/api/streams/169/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 3
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065801&extension=ts&play_token=3itVpZavMD
+https://ott.djdoolky76.io/api/streams/170/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 4
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065800&extension=ts&play_token=AJOBpvWctv
+https://ott.djdoolky76.io/api/streams/282/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 5
+#EXTGRP:LIVE | LIGA INGGRIS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065799&extension=ts&play_token=na9Tc2ybzS
+https://ott.djdoolky76.io/api/streams/283/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",Hub Premier 6
+#EXTGRP:LIVE | LIGA INGGRIS
+https://ott.djdoolky76.io/api/streams/284/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 1
 #EXTGRP:LIVE | LIGA INGGRIS
@@ -1325,6 +1351,11 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&ex
 #EXTGRP:LIVE | LIGA INGGRIS
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",StarSports Selet 2
+#EXTGRP:LIVE | LIGA INGGRIS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",FUBO SPORTS
 #EXTGRP:LIVE | LIGA INGGRIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1333,44 +1364,112 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 1
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 2
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 3
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 4
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BeIN Sports TR 5
+#EXTGRP:LIVE | LIGA INGGRIS
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 1 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242268&extension=ts&play_token=x3fNaqm4Ri
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 2 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=242267&extension=ts&play_token=Zm6f5ZFVvM
 
 
-#EXTINF:-1 tvg-uid="7ec37481f574ed4ae3e67086fb3b76f1" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTPREMIERHD.png", ┃DE┃ SKY SPORT PREMIER LEAGUE RAW
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/760956.m3u8
-#EXTINF:-1 tvg-uid="ae2228f7ddbe2c98a85ae8f729c12726" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png", ┃DE┃ SKY SPORT PREMIER LEAGUE FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149432.m3u8
-#EXTINF:-1 tvg-uid="38a4c8bbae12a7b68ab3305fef42fe78" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT PREMIER LEAGUE.png", ┃DE┃ SKY SPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149458.m3u8
-#EXTINF:-1 tvg-uid="a742efce3caa96c68dade19240c869c1" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312036.m3u8
-#EXTINF:-1 tvg-uid="63116d61a8cc790298019d132b8a0429" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312048.m3u8
-#EXTINF:-1 tvg-uid="a1e67817536c2dbf34dc48f05c100c4c" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/394557.m3u8
-#EXTINF:-1 tvg-uid="4abbb1f773ca26f5a3a37cc3106a6b68" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312177.m3u8
-#EXTINF:-1 tvg-uid="046e6d9abda4125ccb089df97bd863b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png", ┃UK┃ SKY SPORTS PREMIER LEAGUE SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312239.m3u8
-#EXTINF:-1 tvg-uid="5d9f1b032d423fc80ddefb951471a97c" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTPREMIERLEAGUE.png", ┃UK┃ SUPERSPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/396881.m3u8
-#EXTINF:-1 tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png", ┃NZ┃ SKY SPORT PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/809372.m3u8
-#EXTINF:-1 tvg-uid="46e89451c166377cca6f29cfeeb2f00a" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png", ┃SPORTS┃ STAR SPORTS SELECT 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
-#EXTINF:-1 tvg-uid="6971b13878a4c980a5228eb5d85952b9" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png", ┃SPORTS┃ STAR SPORTS SELECT 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373201.m3u8
-#EXTINF:-1 tvg-uid="89cb23b06259b623a85dbc50c9a86eb1" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-1-HD.jpg", SPORTS| STAR SPORTS SELECT 1 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1114583.m3u8
-#EXTINF:-1 tvg-uid="8cacc013cb73cb7bf1a45f4687004c2c" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/155972.png", SPORTS| STAR SPORTS SELECT 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155972.m3u8
-#EXTINF:-1 tvg-uid="b95bc2a9a21e2244366250c7fa07e9db" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picons.cmshulk.com/picons/282675.png", SPORTS| STAR SPORTS SELECT 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282675.m3u8
-#EXTINF:-1 tvg-uid="416e15704f203217610c6cbb1b85f253" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/1114584.m3u8
-#EXTINF:-1 tvg-uid="d7ab8e81b18b30c03db101f49e4cc3aa" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/155973.m3u8
-#EXTINF:-1 tvg-uid="6924a48543772129d8220ed19c2ae0bb" data-source="April2027" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg", SPORTS| STAR SPORTS SELECT 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/282676.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 3 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985129&extension=ts&play_token=TPQ8WmP7DF
+
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 4 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985130&extension=ts&play_token=oFFcF0hSHZ
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐ BEIN SPORTS 5 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985131&extension=ts&play_token=VHa3jbdD8x
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 6 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985132&extension=ts&play_token=gADjKCMGWq
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐BEIN SPORTS 7 (BRN)
+#EXTGRP:LIVE | LIGA INGGRIS
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=985133&extension=ts&play_token=vn0lYlSzrp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT PREMIER LEAGUE HD (RUTUBE)
+#EXTGRP:LIVE | LIGA INGGRIS
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",SKY SPORT PL
+#EXTGRP:LIVE | LIGA INGGRIS
+https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 1 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 2 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 3 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 4 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+http://45.12.32.190:8080/UK-SkySport4NZ/video.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 5 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+##http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 6 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 7 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+###https://tmaxapp.site/8wirwjs76erftg/skysport7nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 8 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+###https://tmaxapp.site/8wirwjs76erftg/skysport8nz.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⭐SKY SPORT 9 NZ
+#EXTGRP:LIVE | LIGA INGGRIS
+###https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
+https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8
+
+
 
 @@@@@@@ KIDS @@@@@@@
 
