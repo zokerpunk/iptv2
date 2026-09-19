@@ -219,9 +219,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10",SKY SPORT MOTOGP FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10",SKY SPORT MOTOGP
 #EXTGRP:😎live sport semetara gangguan😎
-##https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",KazeTV
 #EXTGRP:😎live sport semetara gangguan😎
@@ -638,7 +638,23 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 
 ⭐⭐BACKUP⭐⭐
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV VDO
+#EXTGRP:⭐⭐BACKUP⭐⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+##https://vidsemar.pages.dev/terraluna2/205.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR VDO
+#EXTGRP:⭐⭐BACKUP⭐⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna2/205.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg",TRANS TV (CBM)
 #EXTGRP:⭐⭐BACKUP⭐⭐
@@ -717,6 +733,63 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 ##http://ktpremium.world:2095/live/xm1001/4757410/73617.m3u8
+
+
+============================
+ASIAN GAMES AICHI NAGOYA 2026
+============================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",ASIAN GAMES AICHI NAGOYA 2026
+
+#EXTINF:-1 group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" group-logo="https://i.imgur.com/0WKr4YP.png" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+##EXTINF:-1   group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="840096" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 01 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5320002ff03f4ea6ae65d34c73dadffc:ceded974d6e129a623b25fe296e80f03
+https://tglmp03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822074" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 02 A|15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287bc9045e7f4e42aeaa2177a29a58c3:972981b7e4526846dcaf77e9a90675b5
+https://tglmp01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576060" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 02 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822077" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c5c5b09258444808d7e17f66677ed4a:95f2bca693bca97c2b18bd726bb7b427
+https://tglmp02.akamaized.net/out/v1/1b659d51081c4149bd679abbe0ef02b0/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="576061" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 03 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+##EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="822076" tvg-logo="https://i.imgur.com/0WKr4YP.png" , CHANNEL 04 A |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3158bf2812ef4b34beee4c2e13219191:1b0263ae474cf8250b0d9f0bfaa31670
+https://tglmp04.akamaized.net/out/v1/eda167bbca3d4037a9951ecad56393c8/manifest.mpd
+
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580750" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 04 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+ 
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580751" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 05 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+ 
+#EXTINF:-1  group-title="LIVE | ASIAN GAMES AICHI NAGOYA 2026" tvg-id="580752" tvg-logo="https://i.imgur.com/0WKr4YP.png", CHANNEL 06 |15 SEPT-04 OKT 2026|
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 <!--list ini khusus digital tv.apk -->
 
