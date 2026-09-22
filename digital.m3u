@@ -882,6 +882,12 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
 
 list ini khusus digital tv.apk
 
+
+#EXTGRP:list sport ini khusus digital tv.apk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/photo_2026-09-23_02-41-28.jpg",TRAKTIR ADMIN KOPI
+https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/QRIS.mp4
+
+
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-sports340x160@3x@3x.jpg",wedoSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTGRP:list sport ini khusus digital tv.apk
@@ -2037,6 +2043,11 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ""MOVIES""
+
+#EXTGRP:MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/photo_2026-09-23_02-41-28.jpg",TRAKTIR ADMIN KOPI
+https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/QRIS.mp4
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/wedo-tv-movies.png",wedotv_movie
 #EXTGRP:MOVIES
