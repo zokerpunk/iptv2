@@ -1001,8 +1001,6 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs9.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/eurosport.png",EuroSport 1
 #EXTGRP:list sport ini khusus digital tv.apk
 #KODIPROP:inputstreamaddon=inputstream.adaptive
