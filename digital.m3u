@@ -565,6 +565,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/garuda.png",Garuda TV CBM
+#EXTGRP:👉Nasional selalu update✔
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R2FydWRhIFRW/manifest.mpd
+
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri.webp",TVRI world
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -674,6 +681,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 ⭐CADANGAN⭐
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=008
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV MAX
 #EXTGRP:⭐CADANGAN⭐
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -681,7 +697,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 ##http://ktpremium.world:2095/live/xm1001/4757410/73607.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=009
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR MAX
 #EXTGRP:⭐CADANGAN⭐
