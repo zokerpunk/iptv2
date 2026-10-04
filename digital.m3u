@@ -430,40 +430,33 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV V+
 #EXTGRP:👉Nasional selalu update✔
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd
-##http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV VDO
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR CBM
 #EXTGRP:👉Nasional selalu update✔
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd
-##https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/SW5kb3NpYXI/manifest.mpd?signature=NGJkYmUwZDk5M2YyN2ZkYTdhY2VlN2Y5MGU1NWEwZjU=\u0026time=77777777777\u0026device_id=NQILKDOdEdKnBePlILBwVBlTJPnutqLTBCPzxYLAlUgM3Ot6NnmT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR
 #EXTGRP:👉Nasional selalu update✔
 ##http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR VDO
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -471,23 +464,20 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV CBM
 #EXTGRP:👉Nasional selalu update✔
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
-##https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/U0NUVi1teQ/manifest.mpd?signature=OTEwMDUxNDkwYjlkYmQ3NTc2ZTE3OTc3NmUxOGQ0Mzk=\u0026time=77777777777\u0026device_id=wyvxIjeR8fUfrs46xZaKt9uidRTWKqhD5kE33ER9UHmxy3z14flq
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV
 #EXTGRP:👉Nasional selalu update✔
 ##http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV VDO
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/ 
@@ -498,16 +488,16 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
                               @@ trans 7 @@@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 v+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans7 v+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=7
-##https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans7 DTK
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
@@ -516,7 +506,7 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 ##http://013tv.com:8080/F33848/cbd9779b/162502
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 CBM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans7 CBM
 #EXTGRP:👉Nasional selalu update✔
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
@@ -524,20 +514,19 @@ https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+##https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
 
                      @@@ TRANS TV @@@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV v+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV DTK
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
@@ -558,7 +547,7 @@ https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+##https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvone.png",TVOne
@@ -590,7 +579,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R2FydWRhIFRW/manifest.mpd
+##https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R2FydWRhIFRW/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tvri.webp",TVRI world
 #EXTGRP:👉Nasional selalu update✔
@@ -603,13 +592,13 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTGRP:👉Nasional selalu update✔
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/mdtv.png",MDTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/mdtv.png",MDTV DENS
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/mdtv.png",MDTV [vdo]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/mdtv.png",MDTV VDO
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -672,7 +661,8 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZSSSBTcG9ydA/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/VFZSSSBTcG9ydA/manifest.mpd?signature=NmNkMGM1NmE5NWZjNDRhNjNiMjViNGFjNzZjZGNjZWY=&time=77777777777&device_id=9f0JFmH3a7e7j_1oU9YVaE3Wy3btHmVqIfgIxtAXf9iLrNJS7w
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/btv.png",btv
 #EXTGRP:👉Nasional selalu update✔
@@ -701,7 +691,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 ##https://20.detik.com/watch/livestreaming-trans7
 
 ⭐CADANGAN⭐
-
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV V+
 #EXTGRP:⭐CADANGAN⭐
@@ -753,33 +746,22 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
-https://vidsemar.pages.dev/terraluna2/205.mpd
+##https://vidsemar.pages.dev/terraluna2/205.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",TRANS TV (transcorp)
 #EXTGRP:⭐CADANGAN⭐
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzZjQ3ZjE4YWJhYWY4NzQwNGViNzM5OTNjZTliZTc=&time=77777777777&device_id=mJc04wakrDM1iuQZ16FWpV7TxSc11lhgyE27mIbJN4ReTlt1z9uM
 
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTGRP:⭐CADANGAN⭐
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans7 (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://tvstreamcast.com/indonesiana.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VFJBTlM3LW15/manifest.mpd?signature=YzBiZjU3ZWM1MmJhZmQ5MTA1Nzk2YmRjN2JiMWQ1ZWM=\u0026time=77777777777\u0026device_id=YMzez1yKjvSBsa_0jraU0iwHcNb2zq3SnAKXzPxbWK_aUYM85OMn
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
 #EXTGRP:⭐CADANGAN⭐
@@ -796,47 +778,119 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia
 #EXTGRP:⭐CADANGAN⭐
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=134
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=134&type=drm&token=alf-store
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu DENS
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu CBM
+#EXTGRP:⭐CADANGAN⭐
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=77777777777&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI V+
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI  WORLD V+
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=201&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI CBM
+#EXTGRP:⭐CADANGAN⭐
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NGFhMzY2YjcxYmU2MDk2MTdlYzljZjMzZmEwOThjYWM=\u0026time=77777777777\u0026device_id=VM6nhR85pk8AgrvQqs7C7kIklfDpKWpjt0gF07fbyI6WAvZMbT0p
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=alf-store
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC WORLD V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=203&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC CBM
+#EXTGRP:⭐CADANGAN⭐
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/TU5DVFY/manifest.mpd?signature=ZWE4YjFlODAyZWZjZWMzOGUyMWY1N2ZkYjliOTE4ODk=\u0026time=77777777777\u0026device_id=uylGZ1nKgx-v-6e9dxee7F_9N3KeSemH3X3Xdt8FFaLJarxZ0RHA
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=alf-store
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV WORLD V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=202&type=drm&token=alf-store
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV CBM
+#EXTGRP:⭐CADANGAN⭐
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-a823b93f0d45cabb0fba0e57ca612f86/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=ZTdlODc0ZGE0MTAwNGM4NGQyZTZjYmUyZjVhMmYxZDU=\u0026time=77777777777\u0026device_id=MaW_wK9gl_4y9kpdOsR4lkCPIEqRerRxjHseyA3tbj0ecT7Sl3yd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews V+
+#EXTGRP:⭐CADANGAN⭐
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=alf-store
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews MAX
 #EXTGRP:⭐CADANGAN⭐
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-##https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 
 
@@ -2335,7 +2389,7 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=79&type=drm&token=alf-store
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+##https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/AXN_2011.webp" group-title="MOVIES",Axn MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
@@ -2379,7 +2433,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=075&type=drm&token=alf-store
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 
 
@@ -2406,7 +2460,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=77&type=drm&token=alf-store
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/hitsmovies.jpg" group-title="MOVIES",Hits Movies 
@@ -2487,7 +2541,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=073&type=drm&token=alf-store
 ###KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=073
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+##https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/movie/tvn.jpg" group-title="MOVIES",Tvn international
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
