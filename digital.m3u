@@ -970,6 +970,41 @@ https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/ma
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://ls-mp01.eo-edgefunctions7.com/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (English)
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (English/Alternate)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Argentina)
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Australia)
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (California)
+https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200008JG
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Canada)
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-666292508dfc36b8c8a399ca/?X-Plex-Token=sC6pDoaykgamH1mDxxPQ
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (France)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Germany)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Hispanic America)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Italy)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Mexico)
+https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Portuguese)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (Spain)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (United States)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (United Kingdom)
+https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-66628c68346b86608532dbcf/?X-Plex-Token=sC6pDoaykgamH1mDxxPQ
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (South Korea)
+https://afa7d3ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1rcl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="CHANNEL | FIFA+",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
 <!--list ini khusus digital tv.apk -->
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88w6khC/youtube.gif",jgn marah
