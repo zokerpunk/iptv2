@@ -502,7 +502,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+##https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 ##http://013tv.com:8080/F33848/cbd9779b/162502
 
 
@@ -531,9 +531,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+##https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png",TransTV HD
 #EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 ##https://20.detik.com/watch/livestreaming-transtv
@@ -686,10 +686,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png",Trans 7 🇮🇩
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-##https://20.detik.com/watch/livestreaming-trans7
+https://20.detik.com/watch/livestreaming-trans7
 
 ⭐CADANGAN⭐
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
