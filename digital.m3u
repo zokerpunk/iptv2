@@ -423,37 +423,34 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI R+
-#EXTGRP:👉Nasional selalu update✔
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792007108-03de97e88f8bae779fdd7c827c1360e3-0-b0cd09e5fec77e9c06f73213c166ee26
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792007108-b615e51bb023ab662f65c388fc80b9b2-0-65237a7290a5a8f4553683b535601f77
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792007108-c5c5622a97bda8f52cff1f37cc4e12a4-0-ee9f55a78f9a5232961429e759db3b50
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792007109-0a0e7afc89ddf1bfd9688717c850d118-0-0e35026349de76318fdc20c9fce685c4
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
