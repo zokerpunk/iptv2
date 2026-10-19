@@ -443,11 +443,13 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI R+
 #EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/rcti.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-https://allcutv.rctiplus.id/rcti2023.m3u8
+##https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI sport
@@ -457,34 +459,33 @@ http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/mnctv.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV R+
-#EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=android-R+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://allcutv.rctiplus.id/gtv2023.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/gtv.m3u8
+##https://allcutv.rctiplus.id/gtv2023.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews R+
 #EXTGRP:👉Nasional selalu update✔
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/inews.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 ##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
+##https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV V+
 #EXTGRP:👉Nasional selalu update✔
