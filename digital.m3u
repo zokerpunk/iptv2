@@ -12,30 +12,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/photo_2026-09-23_02-41-28.jpg",TRAKTIR ADMIN KOPI
 https://raw.githubusercontent.com/zokerpunk/sub/refs/heads/main/QRIS.mp4
 
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr",live 1 ch17
-#EXTGRP:😎OLAHRAGA😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel7.m3u8?wsSecret=da9cd91efa1b3478ecff7cbca92b09a7&wsABSTime=1792342359
 
-
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr",live 2 ch121
-#EXTGRP:😎OLAHRAGA😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr",live 2 ch16
-#EXTGRP:😎OLAHRAGA😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr",live 2 ch11
-#EXTGRP:😎OLAHRAGA😎
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 
 #EXTINF:-1 tvg-id="itzplay.id" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b653329169452b75ebba141c19510c90fd546b68136d8c15eec2839adc18aeae.jpg",Prima Sport 2
