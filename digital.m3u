@@ -450,49 +450,56 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rplus.inisemar.my.id/rcti.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 ##https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/RCTI.png",RCTI SPM
 #EXTGRP:👉Nasional selalu update✔
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRgGwvgBkFz4lqoryvAzEKzA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rplus.inisemar.my.id/mnctv.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png",MNC TV SPM
+#EXTGRP:👉Nasional selalu update✔
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRrhJF9VPC4X61h7pgJ37q6g
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rplus.inisemar.my.id/gtv.m3u8
 ##https://allcutv.rctiplus.id/gtv2023.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/globalTV.png",GTV SPM
+#EXTGRP:👉Nasional selalu update✔
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRoVSjf2onxUm95pYqUSc5XI
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews R+
 #EXTGRP:👉Nasional selalu update✔
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rplus.inisemar.my.id/inews.m3u8
 ##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/inews.png",iNews SPM
+#EXTGRP:👉Nasional selalu update✔
+http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRhpTq-DMNQZ98QzrWt1eciU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/ANTV.png",ANTV V+
 #EXTGRP:👉Nasional selalu update✔
